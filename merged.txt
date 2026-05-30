@@ -1,28 +1,6 @@
 # ==== WHITELIST ====
 # remove # to enable
-dns.google.com
-cloudflare.com
-cloudflare-dns.com
-gstatic.com
-dnsforge.de
-mymax.top
-dnsz.in
-plusiptv.dnsz.in
-tvdns.top
-plusiptv.tvdns.top
-media-shop.top
-filimo.com
-namava.ir
-filmnet.ir
-snapp.site
-aptel.ir
-soft98.ir
-github.com
-tailscale.com
-zerotier.com
-goodcloud.xyz
-astrowarp.net
-youtubei.googleapis.com
+# dns.google.com
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 ! Description: Aims to remove push notifications on sites. Combines eligible rules from AdGuard Popups Filter's anti-push sections and Fanboy's Notifications Blocking List.
