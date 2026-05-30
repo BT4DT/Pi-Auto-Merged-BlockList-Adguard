@@ -113,10 +113,10 @@ youtubei.googleapis.com
 ! Last modified: 2026-05-30T11:35:54.806Z
 ! Last modified: 2026-05-30T12:36:57.391Z
 ! Last modified: 2026-05-30T12:36:59.392Z
-! Last modified: 2026-05-30T16:28:29.229Z
 ! Last modified: 2026-05-30T17:28:50.498Z
 ! Last modified: 2026-05-30T17:29:04.032Z
 ! Last modified: 2026-05-30T17:29:36.452Z
+! Last modified: 2026-05-30T18:31:23.954Z
 ! Title: 1Hosts (Lite)
 ! Title: AWAvenue Ads Rule
 ! Title: AdGuard DNS Popup Hosts filter
@@ -181,7 +181,7 @@ youtubei.googleapis.com
 ! Version: 1.0.29.55
 ! Version: 1.0.29.63
 ! Version: 1.0.39.93
-! Version: 1.0.68.11
+! Version: 1.0.68.12
 ! Version: 1.0.96.92
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -293110,6 +293110,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||4yh4hrffg.weebly.com^
 ||4yj.casino^
 ||4yl3e3fmv.com^
+||4ymelnq32g8yb5e7un8.cfd^
 ||4yn.casino^
 ||4you-slots.com^
 ||4you-slots.top^
@@ -368442,6 +368443,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||arfamovies.org^
 ||arfxnrtfasjsk.online^
 ||arg.argsleg.pics^
+||arganspaonetc.qpon^
 ||argantalcs.com^
 ||argasthuya.cyou^
 ||argcasinos.com^
@@ -433628,6 +433630,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||cbproads.com^
 ||cbpttdpymofjx.online^
 ||cbpwt4.webwave.dev^
+||cbqdittbsuulef.com^
 ||cbqhhvgryu6rpor7fumo6b9njnvk.cfd^
 ||cbqkiuokpxtti.space^
 ||cbr.life^
@@ -438075,6 +438078,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||chicos.evergage.com^
 ||chicotprevent.top^
 ||chidc2.outbrain.org^
+||chidessapors.qpon^
 ||chidir.com^
 ||chief-border.com^
 ||chief-child.com^
@@ -444774,6 +444778,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||cohereoysterinfertile.com^
 ||coherepracticesteward.com^
 ||cohereproceedingsspark.com^
+||coheresattacus.cfd^
 ||cohesionapps.com^
 ||cohesity.tt.omtrdc.net^
 ||cohesive-beach-232417.wl.r.appspot.com^
@@ -447594,6 +447599,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||commandslikeable.com^
 ||commandsmealprom.com^
 ||commapercyfine.com^
+||commarkrepew.cyou^
 ||commastick.com^
 ||commbank-homesa.info^
 ||commbanka-homes.info^
@@ -469927,6 +469933,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||defendersafeapp.com^
 ||defendfreedomapp.com^
 ||defendmyinternet.com^
+||defendsepawn.cyou^
 ||defendtimber.uptrend.in.net^
 ||defensecorex.com^
 ||defenseincomingcreator.com^
@@ -473819,6 +473826,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||diceonlinecasino.com^
 ||dicepalace.casino^
 ||diceresembleshudder.com^
+||dicersburnets.cfd^
 ||dicespin.casino^
 ||dicespincasino.net^
 ||dicesstipo.com^
@@ -493478,6 +493486,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||enterprisemx.com^
 ||enterprises.proximus.be^
 ||enterprises.proximus.com^
+||enterprises488.net^
 ||enterprises550.net^
 ||enterprisesignificance.icu^
 ||enterpriseswith1337.net^
@@ -499917,6 +499926,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||exx.casino^
 ||exxduswallet.wixstudio.com^
 ||exxodus-ext.wixstudio.com^
+||exxqwatyibrmj.site^
 ||exxtended-access.com^
 ||exxtended-access.com^$dnsrewrite=ad-block.dns.adguard.com
 ||exxwhi.jmty.jp^
@@ -504688,6 +504698,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||fcwdsidinixoz.website^
 ||fcwenming.cn^
 ||fcxbs.com^
+||fcxuvcwajfrhp.space^
 ||fcxxffvjrztgz.space^
 ||fcyetcher.shop^
 ||fcyqtswhca.com^
@@ -511303,6 +511314,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||fndofj.icu^
 ||fndrsp-checkout.net^
 ||fndrsp.net^
+||fndscofkesznb.online^
 ||fndvkouekeevn.online^
 ||fne6l.com^
 ||fneb.olexptr.com^
@@ -513567,6 +513579,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||fqtmywyncpzwl.space^
 ||fqtyucit.com^
 ||fqtzg.com^
+||fqtzvqeurmrrb.space^
 ||fqu2hs2d.com^
 ||fqueqirlursft.site^
 ||fquqhe.com^
@@ -515924,6 +515937,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||frpr82wtyocrjk4lmh.rest^
 ||frq.game4stxo.com^
 ||frqbff.hedleyandbennett.com^
+||frqcmzjvsnppn.online^
 ||frqjv.cannas.net^
 ||frrhcvblgskvz.site^
 ||frrkdiszpiclc.online^
@@ -518758,6 +518772,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||fwinh.com^
 ||fwinrsexuivnd.website^
 ||fwioqgqlohdoc.online^
+||fwiuuqogiucrd.space^
 ||fwiwk.biz^
 ||fwix.com^
 ||fwjtfo8f4z.com^
@@ -518924,6 +518939,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||fxuenhhaucscs.online^
 ||fxuxoqoifltzh.com^
 ||fxuzrinlbacql.site^
+||fxwhxyigyhpnd.website^
 ||fxwklbyr.meadowprocessingframework.garden^
 ||fxwlyddrjhupc.store^
 ||fxworldpay.com^
@@ -525538,6 +525554,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ggbetzone.com^
 ||ggbko.obsessedlawn.com^
 ||ggbond.peaksite.tech^
+||ggbrtfakgx.com^
 ||ggbstp-cdn-settings.appsflyersdk.com^
 ||ggbua.4wheelparts.com^
 ||ggbzqyoxkbunx.online^
@@ -583020,6 +583037,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||jvids.ru^
 ||jviot.com^
 ||jvizkqur6egmgee4jb3r.cfd^
+||jvjfcnsxdvkm.com^
 ||jvjnk.etourist.com^
 ||jvkapzajyuhnh.online^
 ||jvkwg6rhrwvm5zoxkq1.cfd^
@@ -617424,6 +617442,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||lotescadasbh11.vercel.app^
 ||lotescadasbh14.vercel.app^
 ||lothlyunfaith.com^
+||lothzincous.shop^
 ||loti.com.co^
 ||loticsuavely.qpon^
 ||loto-4x.com^
@@ -618236,6 +618255,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||loyaltytoolbar.com^
 ||loycsuoivghoy.space^
 ||loydleste.com^
+||loyisogram.shop^
 ||loyros-cdn-settings.appsflyersdk.com^
 ||loyros-inapps.appsflyersdk.com^
 ||loyros-launches.appsflyersdk.com^
@@ -619238,6 +619258,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||luciusdime.com^
 ||luciusindictmentefforlessefforless.com^
 ||luciuspushedsensible.com^
+||lucjpidhyb.in^
 ||luck-casino.com^
 ||luck-casinosuk.com^
 ||luck-era.biz^
@@ -625904,6 +625925,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mandrinpalmaegrownup.qpon^
 ||mandriva.casino^
 ||mandriva.com^
+||mandscarus.cfd^
 ||mandsspartan.com^
 ||mandtromainthus.wasmer.app^
 ||manecasino.com^
@@ -643632,6 +643654,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||minimalrequireadoption.com^
 ||minimalstuff.com^
 ||minimalvariousrefuge.com^
+||minimastanekinguen.cfd^
 ||minimesactivities.com^
 ||minimetrika.xsolla.com^
 ||minimini.us^
@@ -652576,6 +652599,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||muemv8rubl52jn.cfd^
 ||mueoh.besynchro.com^
 ||muermoabject.shop^
+||muermomogo.cyou^
 ||muexli.baby^
 ||muf.casino^
 ||muf.mobi^
@@ -653194,6 +653218,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mustang-casino-gor2x.top^
 ||mustang-casino-goxwc.top^
 ||mustang-gold-slots.com^
+||mustangossa.shop^
 ||mustangsallyscasino.com^
 ||mustardbespy.shop^
 ||mustardeveningobvious.com^
@@ -667612,6 +667637,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||nrewodcmsperf.com^
 ||nrf9876234.firebaseapp.com^
 ||nrf9876234.web.app^
+||nrfhzrucvl.com^
 ||nrg-casino-uk.uk^
 ||nrg-casino.net^
 ||nrg-casino.pl^
@@ -689489,6 +689515,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||pasttable.com^
 ||pasttrust.com^
 ||pastuniontell.mom^
+||pastunit.pro^
 ||pastureclien.stoneflare.garden^
 ||pasturedkitchen.com^
 ||pastureoriental.com^
@@ -705048,6 +705075,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||poleuniv-lille-npdc.fr^
 ||polewigattenddegerm.qpon^
 ||polewigeyehook.cfd^
+||poleynecahill.cfd^
 ||poleynsset.com^
 ||polhvf.bootbarn.com^
 ||poliaaudio.com^
@@ -709736,6 +709764,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||processlnd4.xyz^
 ||processor.asccommunications.com^
 ||processors7070.com^
+||processors911.com^
 ||processpardon.com^
 ||processplantation.com^
 ||processserver.abclegal.com^
@@ -766500,6 +766529,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||silen-v05.amperesilence.in.net^
 ||silenceapiece.com^
 ||silencespinach.com^
+||silenceuraris.cyou^
 ||silenparser.deepglom.in.net^
 ||silent-horizon-beacon-signal-core.pages.dev^
 ||silent-mixture.com^
@@ -769438,6 +769468,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||sloppyphotocopychop.com^
 ||slopwarez.com^
 ||sloshertripped.click^
+||sloshjackal.cyou^
 ||slosoul.eu^
 ||slospot.casino^
 ||slot-1.vip^
@@ -859473,6 +859504,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||viymep.com^
 ||viyo.life^
 ||vizaguti.cdnfree.org^
+||vizardsuppent.cfd^
 ||vizebet.com^
 ||vizer.tv^
 ||vizer.vip^
@@ -859676,6 +859708,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||vklke.fatfender.com^
 ||vklljvmqekvl.top^
 ||vklmtfsgxktmt.space^
+||vklwudtanda.com^
 ||vkmovie.com^
 ||vkmus.com^
 ||vkmzvwoqkhblq.site^
