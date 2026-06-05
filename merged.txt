@@ -91,10 +91,10 @@
 ! Last modified: 2026-06-04T19:46:46.135Z
 ! Last modified: 2026-06-04T19:47:16.813Z
 ! Last modified: 2026-06-04T23:33:20.594Z
-! Last modified: 2026-06-05T01:11:54.402Z
 ! Last modified: 2026-06-05T01:12:13.694Z
 ! Last modified: 2026-06-05T01:12:37.554Z
 ! Last modified: 2026-06-05T01:12:39.395Z
+! Last modified: 2026-06-05T03:19:35.189Z
 ! Title: 1Hosts (Lite)
 ! Title: AWAvenue Ads Rule
 ! Title: AdGuard DNS Popup Hosts filter
@@ -159,7 +159,7 @@
 ! Version: 1.0.29.71
 ! Version: 1.0.29.79
 ! Version: 1.0.40.14
-! Version: 1.0.68.71
+! Version: 1.0.68.72
 ! Version: 1.0.97.24
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -313277,6 +313277,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||7808e.com^
 ||780b29465efc7923.cc^
 ||780jl.com^
+||780warehouses.com^
 ||781081410579-uspro-s3-telemetry-overflow.s3.us-east-1.amazonaws.com^
 ||781139.cc^
 ||78117.com^
@@ -369037,6 +369038,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||arescasino2.com^
 ||arescasinode.com^
 ||aresgalaxy.es^
+||arespissy.cfd^
 ||aresslotslot.com^
 ||aresttuxes.cyou^
 ||aretesuneath.com^
@@ -377994,6 +377996,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||babulssox.com^
 ||babup.com^
 ||baburn.com^
+||babushungerelfland.cyou^
 ||baby-beamup.club^
 ||baby-fields.com^
 ||baby-match.com^
@@ -442469,6 +442472,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||clpinupcasino.net^
 ||clpl-analytics-prod.s3.ap-southeast-1.amazonaws.com^
 ||clpokerenchile.com^
+||clponnbznmcmu.online^
 ||clprfkljfcmnm.site^
 ||clprr.com^
 ||clpt.org^
@@ -454118,6 +454122,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||crusadeincapable.com^
 ||crusader-claimable.click^
 ||cruscros.me^
+||crusewail.cyou^
 ||crusharcade.com^
 ||crushedshakechasing.com^
 ||crushfall.com^
@@ -481793,6 +481798,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||dsqczv.cn^
 ||dsqdbi.com^
 ||dsquared2-eu.shop^
+||dsqvcm.com^
 ||dsqx5.com^
 ||dsqyla.com^
 ||dsr7pokerdom.com^
@@ -483413,6 +483419,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||dxgmx.weebly.com^
 ||dxgo95ahe73e8.cloudfront.net^
 ||dxh2ivs16758.cloudfront.net^
+||dxhsglktvfmpf.site^
 ||dxhvgevhrceia.com^
 ||dxhvsdvxocogp.website^
 ||dxi.net^
@@ -488429,6 +488436,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||eipc.ca-bretagne.oktave.co^
 ||eiphirnutdd.com^
 ||eipl.com^
+||eipmjigkkvyq.com^
 ||eipqr.rythmhealth.com^
 ||eiptxjysyzank.site^
 ||eiq.evergage.com^
@@ -507470,6 +507478,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||fishermanwithavenge.com^
 ||fisherpros.com^
 ||fishersfinds.com^
+||fisheyeformols.cyou^
 ||fishfulraylet.com^
 ||fishhoo.com^
 ||fishin-frenzy-casino.com^
@@ -515671,6 +515680,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||fulldownloads.com^
 ||fullelectronica.com.ar^
 ||fullerluxivefitz.cyou^
+||fulleryloups.cfd^
 ||fullfilmstream.net^
 ||fullfoetus.com^
 ||fullgamingacc.com^
@@ -539469,6 +539479,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||gxvf.cn^
 ||gxvlkzwimkiyb.site^
 ||gxxcbj.com^
+||gxxdsbbklvze.com^
 ||gxxie.com^
 ||gxxyclub.top^
 ||gxyaxf.pixartprinting.be^
@@ -565431,6 +565442,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||inwardupsettingcudgel.com^
 ||inwayhosting.com^
 ||inwcasino.top^
+||inweedapili.cyou^
 ||inwemo.com^
 ||inwexcel.com^
 ||inwheelnetts.com^
@@ -584582,6 +584594,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||kantarsitaiaxumite.qpon^
 ||kantarstoenail.com^
 ||kantartns.lt^
+||kantismcalid.qpon^
 ||kantonghoki.com^
 ||kanu-lilienthal.de^
 ||kanuassociates.com^
@@ -602062,6 +602075,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||linqado.de^
 ||linqinghuahui.com^
 ||linric.inven-tornon.in.net^
+||linsangseptoiciulidan.qpon^
 ||linsclint.space^
 ||linshopee.com^
 ||lintas188.com^
@@ -603084,6 +603098,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||livemydates.com^
 ||livemydates.net^
 ||livemz.com^
+||livenedcoders.cyou^
 ||livenetlife.com^
 ||livenew.ksapisrv.com^
 ||livenickelledger.info^
@@ -604147,6 +604162,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||lmv784529.com^
 ||lmvba.com^
 ||lmveosxt.com^
+||lmvouuqrffurr.com^
 ||lmvtfarnicgbb.space^
 ||lmvugvxgkdxge.online^
 ||lmvwvyeo.icu^
@@ -618629,6 +618645,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||lsma.org.za^
 ||lsmall.com.cn^
 ||lsmbdb.casino^
+||lsmpkwgqnmfaa.online^
 ||lsmthai.bet^
 ||lsojtgkuvq.data.adobedc.net^
 ||lsosad.com^
@@ -640712,6 +640729,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mfmls.mikesbikes.com^
 ||mfmqk.redbubble.com^
 ||mfn.casino^
+||mfnqkmqbgzghk.website^
 ||mfnywvolurpen.site^
 ||mfobenjxxmggr.store^
 ||mfokuvfzcevjp.website^
@@ -655044,6 +655062,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mzwblatzoz.com^
 ||mzwkss.chiccousa.com^
 ||mzwum.wilhelmglobal.com^
+||mzx6ufqm3rxj5ntviwgp165w8p8t7eh45zl.cfd^
 ||mzxl.org.cn^
 ||mzxlyq.aboutsome.co.kr^
 ||mzxvib.com^
@@ -655924,6 +655943,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||nairydeices.com^
 ||naisili.com^
 ||naitive.pl^
+||naive-husband.pro^
 ||naivepot.com^
 ||naivestatement.com^
 ||naivety48.com^
@@ -662252,6 +662272,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||nimbleshoal.adi8hesplayer.pics^
 ||nimblestitch.apexharvestor.in.net^
 ||nimbleswan.io^
+||nimboseminiver.qpon^
 ||nimbusgrovelodge.com^
 ||nimbusledger.xyz^
 ||nimceidyfuavkferxepm.com^
@@ -667317,6 +667338,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||nugwzlshjknff.space^
 ||nuheals.com^
 ||nuherohenavamolevike.info^
+||nuhopzdjejskv.online^
 ||nui.media^
 ||nuide.net^
 ||nuidra.so-inside.com^
@@ -689428,6 +689450,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||pcconelove.xyz^
 ||pccrackbox.com^
 ||pccvisas.com^
+||pccxfiekp.com^
 ||pccyy.com^
 ||pcd.345.pl^
 ||pcdag.rimzoneonline.com^
@@ -715281,6 +715304,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||pybet.com^
 ||pybittrack.retiolus.net^
 ||pybmulveaz.com^
+||pybytwattsq.com^
 ||pyc.casino^
 ||pycaraudio.com^
 ||pycnostrid.cyou^
@@ -716182,6 +716206,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||qceartfa.com^
 ||qcenter-metrics-device.api.myqnapcloud.com^
 ||qceoqfolwri.in^
+||qcgdahbkeydgr.site^
 ||qcgdmncatgybd.site^
 ||qcgt.qciano.com.br^
 ||qcgtoz.cwjobs.co.uk^
@@ -732943,6 +732968,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ribefncdsilmxzrew.com^
 ||ribgreenhousecompose.com^
 ||ribkdvpyszfm.com^
+||ribosesshutes.cfd^
 ||ribosoexacter.qpon^
 ||ribut138.org^
 ||ribut303.org^
@@ -734627,6 +734653,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||riverdejl-lordfilm3.ru^
 ||riverdin.com^
 ||riverdom.net^
+||riveretsuez.qpon^
 ||rivergambler.ca^
 ||rivergamingcasino.com^
 ||riverglowcloud.com^
@@ -740332,6 +740359,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||rubird.ru^
 ||rubix.click^
 ||rubkfezraamr.in^
+||ruboutsoils.shop^
 ||rubrafoz.com^
 ||rubricacunonia.cyou^
 ||rubricagalah.guru^
@@ -820882,6 +820910,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||thrashbomb.com^
 ||thrashmerciful.com^
 ||thratchassman.com^
+||thrawedxarque.cfd^
 ||thrawnfriese.qpon^
 ||thrbeimqnkiql.com^
 ||thrchmay.com^
@@ -822361,6 +822390,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||tipsextra.online^
 ||tipslots.win^
 ||tipslyrev.com^
+||tipspasswords.com^
 ||tipsport-travel.com^
 ||tipsport.city^
 ||tipsport.cz^
@@ -824522,6 +824552,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||togetherefwuko.org^
 ||togethernetworks.com^
 ||togetheroffway.com^
+||toggedmowie.shop^
 ||toggle.qq.com^
 ||togglecrex.shop^
 ||togglemark.net^
