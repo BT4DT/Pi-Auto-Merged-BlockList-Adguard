@@ -23,62 +23,6 @@ zerotier.com
 goodcloud.xyz
 astrowarp.net
 youtubei.googleapis.com
-        .logo-img-1x { display: none; }
-        .logo-img-2x { display: inline-block; }
-        <a href="https://github.com/contact">Contact Support</a> &mdash;
-        <a href="https://status.github.com">GitHub Status</a> &mdash;
-        <a href="https://twitter.com/githubstatus">@githubstatus</a>
-        <img width="200" src="data:image/png;base64,
-        <img width="32" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFMTZCRDY3REIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMTZCRDY3RUIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdCQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjdDQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+SM9MCAAAA+5JREFUeNrEV11Ik1EY3s4+ddOp29Q5b0opCgKFsoKoi5Kg6CIhuwi6zLJLoYLopq4qsKKgi4i6CYIoU/q5iDAKs6syoS76IRWtyJ+p7cdt7sf1PGOD+e0c3dygAx/67ZzzPM95/877GYdHRg3ZjMXFxepQKNS6sLCwJxqNNuFpiMfjVs4ZjUa/pmmjeD6VlJS8NpvNT4QQ7mxwjSsJiEQim/1+/9lgMHgIr5ohuxG1WCw9Vqv1clFR0dCqBODElV6v90ogEDjGdYbVjXhpaendioqK07CIR7ZAqE49PT09BPL2PMgTByQGsYiZlQD4uMXtdr+JxWINhgINYhGT2MsKgMrm2dnZXgRXhaHAg5jEJodUAHxux4LudHJE9RdEdA+i3Juz7bGHe4mhE9FNrgwBCLirMFV9Okh5eflFh8PR5nK5nDabrR2BNJlKO0T35+Li4n4+/J+/JQCxhmu5h3uJoXNHPbmWZAHMshWB8l5/ipqammaAf0zPDDx1ONV3vurdidqwAQL+pEc8sLcAe1CCvQ3YHxIW8Pl85xSWNC1hADDIv0rIE/o4J0k3kww4xSlwIhcq3EFFOm7KN/hUGOQkt0CFa5WpNJlMvxBEz/IVQAxg/ZRZl9wiHA63yDYieM7DnLP5CiAGsC7I5sgtYKJGWe2A8seFqgFJrJjEPY1Cn3pJ8/9W1e5VWsFDTEmFrBcoDhZJEQkXuhICMyKpjhahqN21hRYATKfUOlDmkygrR4o4C0VOLGJKrOITKB4jijzdXygBKixyC5TDQdnk/Pz8qRw6oOWGlsTKGOQW6OH6FBWsyePxdOXLTgxiyebILZCjz+GLgMIKnXNzc49YMlcRdHXcSwxFVgTInQhC9G33UhNoJLuqq6t345p9y3eUy8OTk5PjAHuI9uo4b07FBaOhsu0A4Unc+T1TU1Nj3KsSSE5yJ65jqF2DDd8QqWYmAZrIM2VlZTdnZmb6AbpdV9V6ec9znf5Q7HjYumdRE0JOp3MjitO4SFa+cZz8Umqe3TCbSLvdfkR/kWDdNQl5InuTcysOcpFT35ZrbBxx4p3JAHlZVVW1D/634VRt+FvLBgK/v5LV9WS+10xMTEwtRw7XvqOL+e2Q8V3AYIOIAXQ26/heWVnZCVfcyKHg2CBgTpmPmjYM8l24GyaUHyaIh7XwfR9ErE8qHoDfn2LTNAVC0HX6MFcBIP8Bi+6F6cdW/DICkANRfx99fEYFQ7Nph5i/uQiA214gno7K+guhaiKg9gC62+M8eR7XsBsYJ4ilam60Fb7r7uAj8wFyuwM1oIOWgfmDy6RXEEQzJMPe23DXrVS7rtyD3Df8z/FPgAEAzWU5Ku59ZAUAAAAASUVORK5CYII=" />
-        <img width="32" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpEQUM1QkUxRUI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpEQUM1QkUxRkI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdGQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjgwQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+hfPRaQAAB6lJREFUeNrsW2mM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" />
-        background-color: #f1f1f1;
-        color: #666666;
-        color: #ccc;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-size: 14px;
-        font-weight: 200;
-        margin-top: 35px;
-        margin: 0 10px;
-        margin: 0;
-      #suggestions a {
-      #suggestions {
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      </a>
-      </div>
-      </p>
-      <a href="/" class="logo logo-img-1x">
-      <a href="/" class="logo logo-img-2x">
-      <div id="suggestions">
-      <p>
-      <p><strong>We're having a really bad day.</strong></p>
-      <p>The Unicorns have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
-      @media
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
-      body {
-      h1 { letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px; text-shadow: 0 1px 0 #fff; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-      only screen and (                min-resolution: 192dpi),
-      only screen and (                min-resolution: 2dppx) {
-      only screen and (        min-device-pixel-ratio: 2),
-      only screen and (     -o-min-device-pixel-ratio: 2/1),
-      only screen and (   min--moz-device-pixel-ratio: 2),
-      only screen and (-webkit-min-device-pixel-ratio: 2),
-      p { color: rgba(0, 0, 0, 0.5); margin: 10px 0 10px; font-size: 18px; font-weight: 200; line-height: 1.6em;}
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      }
-    </div>
-    </style>
-    <div class="container">
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <style type="text/css" media="screen">
-    <title>Unicorn! &middot; GitHub</title>
-  </body>
-  </head>
-  <body>
-  <head>
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 ! Description: Aims to remove push notifications on sites. Combines eligible rules from AdGuard Popups Filter's anti-push sections and Fanboy's Notifications Blocking List.
@@ -98,6 +42,7 @@ youtubei.googleapis.com
 ! Description: Filters malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
 ! Description: For sites documented to put users at risk of installing adware/crapware/malware, having login credentials stolen, etc. The purpose is to at least ensure a user is warned of the risks ahead.
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
+! Description: List for blocking ads and preventing user tracking
 ! Description: List for blocking ads on videogame consoles that use AdGuard Home
 ! Description: List for blocking browser-based crypto mining
 ! Description: List for blocking pesky ads, trackers, and malware. Balanced version: set & forget, doesn't hamper user experience.
@@ -129,6 +74,7 @@ youtubei.googleapis.com
 ! Homepage: https://gitlab.com/malware-filter/phishing-filter
 ! Homepage: https://pgl.yoyo.org/adservers/
 ! Homepage: https://phishing.army/
+! Homepage: https://someonewhocares.org/
 ! Homepage: https://urlhaus.abuse.ch/
 ! Last modified: 2026-04-17T10:06:25.121Z
 ! Last modified: 2026-04-17T10:06:33.989Z
@@ -147,23 +93,25 @@ youtubei.googleapis.com
 ! Last modified: 2026-10-09T05:20:44.936Z
 ! Last modified: 2026-10-10T00:53:08.820Z
 ! Last modified: 2026-10-12T20:19:24.149Z
+! Last modified: 2026-10-13T03:27:23.416Z
 ! Last modified: 2026-10-13T10:21:05.780Z
 ! Last modified: 2026-10-13T13:26:43.578Z
 ! Last modified: 2026-10-14T04:21:50.574Z
 ! Last modified: 2026-10-14T05:17:57.176Z
-! Last modified: 2026-10-14T10:18:22.524Z
 ! Last modified: 2026-10-14T10:18:32.122Z
-! Last modified: 2026-10-14T10:18:45.224Z
-! Last modified: 2026-10-14T10:19:27.385Z
 ! Last modified: 2026-10-14T10:19:27.394Z
 ! Last modified: 2026-10-14T13:16:08.811Z
 ! Last modified: 2026-10-14T13:16:12.395Z
 ! Last modified: 2026-10-14T19:15:13.063Z
-! Last modified: 2026-10-14T20:16:56.498Z
+! Last modified: 2026-10-14T22:15:21.445Z
+! Last modified: 2026-10-14T22:15:29.881Z
+! Last modified: 2026-10-14T22:16:23.235Z
+! Last modified: 2026-10-14T22:17:02.369Z
 ! Title: 1Hosts (Lite)
 ! Title: AWAvenue Ads Rule
 ! Title: AdGuard DNS Popup Hosts filter
 ! Title: AdGuard DNS filter
+! Title: Dan Pollock's List
 ! Title: Dandelion Sprout's Anti Push Notifications
 ! Title: Dandelion Sprout's Anti-Malware List
 ! Title: Dandelion Sprout's Game Console Adblock List
@@ -205,19 +153,20 @@ youtubei.googleapis.com
 ! Version: 1.0.17.21
 ! Version: 1.0.18.1
 ! Version: 1.0.18.80
+! Version: 1.0.19.86
 ! Version: 1.0.20.44
-! Version: 1.0.21.19
+! Version: 1.0.21.20
 ! Version: 1.0.22.12
 ! Version: 1.0.22.26
 ! Version: 1.0.23.3
 ! Version: 1.0.26.81
-! Version: 1.0.27.53
+! Version: 1.0.27.54
 ! Version: 1.0.29.63
 ! Version: 1.0.29.75
-! Version: 1.0.32.91
+! Version: 1.0.32.92
 ! Version: 1.0.45.74
 ! Version: 1.0.6.36
-! Version: 1.0.82.94
+! Version: 1.0.82.95
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -263,7 +212,6 @@ youtubei.googleapis.com
 *sneakersnorgeshop.
 *usafactoryoutlet.com^
 *watson.events.data.microsoft.com^
--->
 -1080x140-
 -1080x140.
 -1080x180-
@@ -730,6 +678,7 @@ youtubei.googleapis.com
 0.0.0.0 123counter.mycomputer.com
 0.0.0.0 123counter.superstats.com
 0.0.0.0 123go.com
+0.0.0.0 123greetings.com	# contains one link to distributor of adware or spyware
 0.0.0.0 123greetings.com # contains one link to distributor of adware or spyware
 0.0.0.0 123kia.free.fr
 0.0.0.0 123kuma.com
@@ -951,6 +900,7 @@ youtubei.googleapis.com
 0.0.0.0 2000greetings.com
 0.0.0.0 2001positions.com
 0.0.0.0 2005-search.com
+0.0.0.0 2006mindfreaklike.blogspot.com	# Facebook trojan
 0.0.0.0 2012.rikschataxi.ch
 0.0.0.0 2014.taktik-id.ch
 0.0.0.0 2016monclerselltokyo.net
@@ -2989,12 +2939,25 @@ youtubei.googleapis.com
 0.0.0.0 9print.pl
 0.0.0.0 9stoneinvestments.com
 0.0.0.0 9thien.com
+0.0.0.0 AUSpolice.com
 0.0.0.0 AVTORESURS.NET
+0.0.0.0 BRApolice.com
 0.0.0.0 BenavidezHoy.com
+0.0.0.0 COMpolice.com
+0.0.0.0 COMpolice.net
+0.0.0.0 CYPpolice.com
+0.0.0.0 EGYpolice.com
+0.0.0.0 ETHpolice.com
+0.0.0.0 GEOpolice.com
+0.0.0.0 INDpolice.com
+0.0.0.0 LUXpolice.com
+0.0.0.0 LUXpolice.net
+0.0.0.0 PAKpolice.com
 0.0.0.0 PamelaSparrowChilds.com
 0.0.0.0 STRAHOVOYSPOR.RU
 0.0.0.0 Stimmwissenschaften.de
 0.0.0.0 TruePublish.de
+0.0.0.0 USApolice.com
 0.0.0.0 a-5.info
 0.0.0.0 a-ads.com
 0.0.0.0 a-blog.eu
@@ -3827,6 +3790,7 @@ youtubei.googleapis.com
 0.0.0.0 activewin.us.intellitxt.com
 0.0.0.0 activexsearch.com
 0.0.0.0 activity.serving-sys.com
+0.0.0.0 activity.serving-sys.com	#eyeblaster.com
 0.0.0.0 actonsoftware.com
 0.0.0.0 actontv.122.2o7.net
 0.0.0.0 actox.com
@@ -3963,6 +3927,7 @@ youtubei.googleapis.com
 0.0.0.0 ad.adition.de
 0.0.0.0 ad.adition.net
 0.0.0.0 ad.admitad.com
+0.0.0.0 ad.adnet.biz
 0.0.0.0 ad.adnet.biz #[Tracking.Cookie]
 0.0.0.0 ad.adnet.de
 0.0.0.0 ad.adnetwork.com.br
@@ -4043,6 +4008,7 @@ youtubei.googleapis.com
 0.0.0.0 ad.db3nf.com
 0.0.0.0 ad.dc2.adtech.de
 0.0.0.0 ad.ddo.jp
+0.0.0.0 ad.de.doubleclick.net
 0.0.0.0 ad.de.doubleclick.net #[Tracking.Cookie]
 0.0.0.0 ad.dedicatedmedia.com
 0.0.0.0 ad.depositfiles.com
@@ -4315,6 +4281,7 @@ youtubei.googleapis.com
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.xmovies8.si
 0.0.0.0 ad.xrea.com
+0.0.0.0 ad.yadro.ru
 0.0.0.0 ad.yadro.ru #[Tracking.Cookie]
 0.0.0.0 ad.yemeksepeti.com
 0.0.0.0 ad.yieldlab.net
@@ -4751,6 +4718,7 @@ youtubei.googleapis.com
 0.0.0.0 addelivery.thestreet.com
 0.0.0.0 addeluxe.jp
 0.0.0.0 adderall.ourtablets.com
+0.0.0.0 addfreestats.com
 0.0.0.0 addfreestats.com #[WebBug]
 0.0.0.0 addiafortcnewtionhcmai.com
 0.0.0.0 addictivetechnologies.net
@@ -4785,6 +4753,7 @@ youtubei.googleapis.com
 0.0.0.0 adeegsanafroasiaagency.online
 0.0.0.0 adef-residences.fr
 0.0.0.0 adeimptrck.com
+0.0.0.0 adelogs.adobe.com	#See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
 0.0.0.0 adelogs.adobe.com #See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
 0.0.0.0 adelphic-partners.tremorhub.com
 0.0.0.0 ademails.com
@@ -4962,6 +4931,7 @@ youtubei.googleapis.com
 0.0.0.0 adlock.in
 0.0.0.0 adlockscreen.goforandroid.com
 0.0.0.0 adlog.com.com # Used by Ziff Davis to serve
+0.0.0.0 adlog.com.com # Used by Ziff Davis to serve 
 0.0.0.0 adlog.flurry.com
 0.0.0.0 adlog.foxitcloud.com
 0.0.0.0 adlog.ifood.tv
@@ -5160,6 +5130,7 @@ youtubei.googleapis.com
 0.0.0.0 adopsboost.com
 0.0.0.0 adopt.euroclick.com
 0.0.0.0 adopt.precisead.com
+0.0.0.0 adopt.specificclick.net
 0.0.0.0 adopt.specificclick.net #[Tracking.Cookie]
 0.0.0.0 adoptshawm.net
 0.0.0.0 adoptum.net
@@ -5368,6 +5339,7 @@ youtubei.googleapis.com
 0.0.0.0 ads.advertise.net
 0.0.0.0 ads.advertisespace.com
 0.0.0.0 ads.adviad.com
+0.0.0.0 ads.adviva.net
 0.0.0.0 ads.adviva.net #[Tracking.Cookie]
 0.0.0.0 ads.adworldnetwork.com
 0.0.0.0 ads.adxpansion.com
@@ -5565,6 +5537,7 @@ youtubei.googleapis.com
 0.0.0.0 ads.com.com
 0.0.0.0 ads.comeon.com
 0.0.0.0 ads.consumeraffairs.com
+0.0.0.0 ads.contactmusic.com
 0.0.0.0 ads.contactmusic.com #[AdvertPro]
 0.0.0.0 ads.contentabc.com
 0.0.0.0 ads.contextweb.com
@@ -5795,6 +5768,7 @@ youtubei.googleapis.com
 0.0.0.0 ads.icq.com
 0.0.0.0 ads.identads.com
 0.0.0.0 ads.idgworldexpo.com
+0.0.0.0 ads.ign.com
 0.0.0.0 ads.ign.com #[Tracking.Cookie]
 0.0.0.0 ads.iknowthatgirl.com
 0.0.0.0 ads.illuminatednation.com
@@ -5841,6 +5815,7 @@ youtubei.googleapis.com
 0.0.0.0 ads.joemonster.org
 0.0.0.0 ads.jokaroo.com
 0.0.0.0 ads.jossip.com
+0.0.0.0 ads.jpost.com
 0.0.0.0 ads.jpost.com #[RealMedia]
 0.0.0.0 ads.juicyads.com
 0.0.0.0 ads.justhungry.com
@@ -6076,6 +6051,7 @@ youtubei.googleapis.com
 0.0.0.0 ads.pressflex.com
 0.0.0.0 ads.pricescan.com
 0.0.0.0 ads.printscr.com
+0.0.0.0 ads.prisacom.com
 0.0.0.0 ads.prisacom.com #[RealMedia]
 0.0.0.0 ads.pro-market.net
 0.0.0.0 ads.pro-market.net.edgesuite.net
@@ -6269,6 +6245,7 @@ youtubei.googleapis.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 ads.trinitymirror.co.uk
 0.0.0.0 ads.tripican.com
+0.0.0.0 ads.tripod.com
 0.0.0.0 ads.tripod.com #[Tracking.Cookie]
 0.0.0.0 ads.tripod.lycos.co.uk
 0.0.0.0 ads.tripod.lycos.de
@@ -7220,6 +7197,7 @@ youtubei.googleapis.com
 0.0.0.0 adtechus.com
 0.0.0.0 adtegrity.com
 0.0.0.0 adtegrity.net
+0.0.0.0 adtegrity.spinbox.net
 0.0.0.0 adtegrity.spinbox.net #[Tracking.Cookie]
 0.0.0.0 adtekmedia.com
 0.0.0.0 adteknology.com
@@ -7287,6 +7265,7 @@ youtubei.googleapis.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adultadworld.com
 0.0.0.0 adultdatingtest.worlddatingforum.com
+0.0.0.0 adultfriendfinder.com
 0.0.0.0 adultfriendfinder.com #[Tracking.Cookie]
 0.0.0.0 adultimate.net
 0.0.0.0 adultjjnesses.info
@@ -8907,6 +8886,7 @@ youtubei.googleapis.com
 0.0.0.0 allgetaways.us.intellitxt.com
 0.0.0.0 allgo.xyz
 0.0.0.0 allhiphop.us.intellitxt.com
+0.0.0.0 allhqpics.com				# Facebook trojan
 0.0.0.0 allhqpics.com # Facebook trojan
 0.0.0.0 alliance.adbureau.net
 0.0.0.0 alliance4media.com
@@ -10067,6 +10047,7 @@ youtubei.googleapis.com
 0.0.0.0 ap.adflex.vn
 0.0.0.0 ap.adups.com
 0.0.0.0 ap.lijit.com
+0.0.0.0 ap.oasfile.aftenposten.no
 0.0.0.0 ap.octopuspop.com
 0.0.0.0 ap.read.mediation.pns.ap.orangeads.fr
 0.0.0.0 ap.smardroid.com
@@ -12858,6 +12839,7 @@ youtubei.googleapis.com
 0.0.0.0 beacon.rallydev.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.s-onetag.com
+0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beacon.scorecardresearch.com #[WebBug]
 0.0.0.0 beacon.searchlinks.com
 0.0.0.0 beacon.securestudies.com
@@ -13078,6 +13060,7 @@ youtubei.googleapis.com
 0.0.0.0 bespoke.iln8.net
 0.0.0.0 bespokeshirtsmail.com
 0.0.0.0 besstbuy.com
+0.0.0.0 best-search.cc	#spyware
 0.0.0.0 best-search.cc #spyware
 0.0.0.0 best-service.jp
 0.0.0.0 best2017games.com
@@ -13901,6 +13884,7 @@ youtubei.googleapis.com
 0.0.0.0 bnserving.com
 0.0.0.0 bnsolutions.com.au
 0.0.0.0 bntbcstglobal.112.2o7.net
+0.0.0.0 bnvxcfhdgf.blogspot.com.es
 0.0.0.0 bo.goadservices.com
 0.0.0.0 boa-0918-verify-login-2014.icrb.cl
 0.0.0.0 board.classifieds1000.com
@@ -14457,6 +14441,7 @@ youtubei.googleapis.com
 0.0.0.0 brumanela.net
 0.0.0.0 brumelys.net
 0.0.0.0 brumerentelle.digital
+0.0.0.0 brunga.at	# Facebook phishing attempt
 0.0.0.0 brunga.at # Facebook phishing attempt
 0.0.0.0 brunnenburg.de
 0.0.0.0 brunocarbh.com.br
@@ -14748,6 +14733,7 @@ youtubei.googleapis.com
 0.0.0.0 butytimberland.com
 0.0.0.0 buy-adipex.aca.ru
 0.0.0.0 buy-adipex.hut1.ru
+0.0.0.0 buy-cheap-phentermine.blogspot.com
 0.0.0.0 buy-cialis-online.iscool.nl
 0.0.0.0 buy-cialis.splinder.com
 0.0.0.0 buy-fioricet.hut1.ru
@@ -15025,6 +15011,7 @@ youtubei.googleapis.com
 0.0.0.0 c1.rfihub.net
 0.0.0.0 c1.smartclick.net
 0.0.0.0 c1.somalisounds.com
+0.0.0.0 c1.statcounter.com
 0.0.0.0 c1.statcounter.com #[Tracking.Cookie]
 0.0.0.0 c1.teaser-goods.ru
 0.0.0.0 c1.thecounter.de
@@ -15050,6 +15037,7 @@ youtubei.googleapis.com
 0.0.0.0 c2.amazingcounters.com
 0.0.0.0 c2.cembuyukhanli.com
 0.0.0.0 c2.clickprotects.com
+0.0.0.0 c2.gostats.com
 0.0.0.0 c2.gostats.com #[Tracking.Cookie]
 0.0.0.0 c2.gostats.vn
 0.0.0.0 c2.l.qq.com
@@ -15063,6 +15051,7 @@ youtubei.googleapis.com
 0.0.0.0 c2.tentaculos.net
 0.0.0.0 c2.thecounter.de
 0.0.0.0 c2.xxxcounter.com
+0.0.0.0 c2.zedo.com
 0.0.0.0 c2.zedo.com #[Tracking.Cookie]
 0.0.0.0 c20.statcounter.com
 0.0.0.0 c21.statcounter.com
@@ -15142,6 +15131,7 @@ youtubei.googleapis.com
 0.0.0.0 c6.cembuyukhanli.com
 0.0.0.0 c6.edgesuite.net #[RealMedia]
 0.0.0.0 c6.somalisounds.com
+0.0.0.0 c6.statcounter.com
 0.0.0.0 c6.statcounter.com #[Analytics.Tracker]
 0.0.0.0 c6.zedo.com
 0.0.0.0 c6530e.r.axf8.net
@@ -15960,6 +15950,7 @@ youtubei.googleapis.com
 0.0.0.0 cdn.alleliteads.com
 0.0.0.0 cdn.altitudeplatform.com
 0.0.0.0 cdn.ambientplatform.vn
+0.0.0.0 cdn.amgdgt.com
 0.0.0.0 cdn.amgdgt.com #[WebBug]
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.appdynamics.com
@@ -16076,6 +16067,7 @@ youtubei.googleapis.com
 0.0.0.0 cdn.exelator.com
 0.0.0.0 cdn.ezca.asia
 0.0.0.0 cdn.fastclick.net
+0.0.0.0 cdn.fastclick.net	# sites. 
 0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.firstlook.com
@@ -16719,6 +16711,7 @@ youtubei.googleapis.com
 0.0.0.0 cgi-view-item-co-uk.xf.cz
 0.0.0.0 cgi.honesty.com
 0.0.0.0 cgi.i-mobile.co.jp
+0.0.0.0 cgi.sexlist.com
 0.0.0.0 cgi.sexlist.com #[Tracking.Cookie]
 0.0.0.0 cgi1.sexlist.com
 0.0.0.0 cgicounter.onlinehome.de
@@ -16774,6 +16767,7 @@ youtubei.googleapis.com
 0.0.0.0 chanekee.ga
 0.0.0.0 chanen1.com
 0.0.0.0 chanet.jp
+0.0.0.0 changduk26.com			# Facebook trojan
 0.0.0.0 changduk26.com # Facebook trojan
 0.0.0.0 changeavvble.info
 0.0.0.0 changeyou.com.au
@@ -16846,6 +16840,8 @@ youtubei.googleapis.com
 0.0.0.0 chchqq.com
 0.0.0.0 cheap-adipex.hut1.ru
 0.0.0.0 cheap-sports-jerseys.com
+0.0.0.0 cheap-web-hosting-here.blogspot.com
+0.0.0.0 cheap-xanax-here.blogspot.com
 0.0.0.0 cheapapartmentsaroundme.com
 0.0.0.0 cheaperdomainnames.com.au
 0.0.0.0 cheapestbailbonds.com
@@ -16886,6 +16882,7 @@ youtubei.googleapis.com
 0.0.0.0 chefeladlevi.com
 0.0.0.0 chefjohnnymo.com
 0.0.0.0 chefsmart.com
+0.0.0.0 chelick.net				# Facebook trojan
 0.0.0.0 chelick.net # Facebook trojan
 0.0.0.0 chelmy.cba.pl
 0.0.0.0 chelsea-west.com
@@ -17139,6 +17136,7 @@ youtubei.googleapis.com
 0.0.0.0 cityads.com
 0.0.0.0 cityads.telus.net
 0.0.0.0 cityadstrack.com
+0.0.0.0 citycash2.blogspot.com
 0.0.0.0 citydesknews.site
 0.0.0.0 citysecurity.nu
 0.0.0.0 citytransgroup.ru
@@ -17312,6 +17310,7 @@ youtubei.googleapis.com
 0.0.0.0 click.airmalta-mail.com
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.allkeyshop.com
+0.0.0.0 click.atdmt.com
 0.0.0.0 click.atdmt.com #[Tracking.Cookie]
 0.0.0.0 click.axiatraders.com
 0.0.0.0 click.bkdpt.com
@@ -17476,6 +17475,7 @@ youtubei.googleapis.com
 0.0.0.0 clicksinfo.thefork.co.uk
 0.0.0.0 clicksor.com
 0.0.0.0 clicksotrk.com
+0.0.0.0 clickspring.net	#used by a spyware product called PurityScan
 0.0.0.0 clickspring.net #used by a spyware product called PurityScan
 0.0.0.0 clickstatsview.earnmoneycasinos.com
 0.0.0.0 clicktag.de
@@ -18720,6 +18720,7 @@ youtubei.googleapis.com
 0.0.0.0 counter.fateback.com
 0.0.0.0 counter.gamespy.com
 0.0.0.0 counter.hitbox.com
+0.0.0.0 counter.hitslink.com
 0.0.0.0 counter.hitslink.com #[Tracking.Cookie]
 0.0.0.0 counter.hitslinks.com
 0.0.0.0 counter.inetusa.com
@@ -18807,6 +18808,7 @@ youtubei.googleapis.com
 0.0.0.0 counter29.bravenet.com
 0.0.0.0 counter3.bravenet.com
 0.0.0.0 counter3.sextracker.be
+0.0.0.0 counter3.sextracker.com
 0.0.0.0 counter3.sextracker.com #[Tracking.Cookie]
 0.0.0.0 counter30.bravenet.com
 0.0.0.0 counter31.bravenet.com
@@ -18852,11 +18854,15 @@ youtubei.googleapis.com
 0.0.0.0 counteraport.spylog.com
 0.0.0.0 counterbot.com
 0.0.0.0 countercrazy.com
+0.0.0.0 counters.auctionhelper.com		# comment these 
 0.0.0.0 counters.auctionhelper.com # comment these
+0.0.0.0 counters.auctionwatch.com		# out to allow 
 0.0.0.0 counters.auctionwatch.com # out to allow
+0.0.0.0 counters.auctiva.com			# tracking by
 0.0.0.0 counters.auctiva.com # tracking by
 0.0.0.0 counters.freewebs.com
 0.0.0.0 counters.honesty.com
+0.0.0.0 counters.honesty.com			# ebay users
 0.0.0.0 counters.vendio.com
 0.0.0.0 counting.kmindex.ru
 0.0.0.0 countryhome.dmw123.com
@@ -19077,6 +19083,7 @@ youtubei.googleapis.com
 0.0.0.0 creditmutuel-epargesalariale.fr
 0.0.0.0 creditperformance.com.br
 0.0.0.0 creditron.org
+0.0.0.0 creditsoffer.blogspot.com
 0.0.0.0 creditvalleyca.ca
 0.0.0.0 creditwallet.net
 0.0.0.0 credoragpt.com
@@ -19757,6 +19764,7 @@ youtubei.googleapis.com
 0.0.0.0 d9r5zp.lat
 0.0.0.0 da-fortunato.de
 0.0.0.0 da.chartboost.com
+0.0.0.0 da.newstogram.com
 0.0.0.0 da.newstogram.com #[WebBug]
 0.0.0.0 da.oipzyrzffum.ovh
 0.0.0.0 da.us.criteo.com
@@ -20764,6 +20772,7 @@ youtubei.googleapis.com
 0.0.0.0 didrex.1.p2l.info
 0.0.0.0 didtal.com
 0.0.0.0 didtheyreadit.com
+0.0.0.0 didtheyreadit.com		# email bugs
 0.0.0.0 diego-fc.com
 0.0.0.0 diemsolutions.com
 0.0.0.0 dienmayhonghung.com
@@ -20847,6 +20856,7 @@ youtubei.googleapis.com
 0.0.0.0 dilusso.com.pl
 0.0.0.0 dimaria.alphonso.tv
 0.0.0.0 dimarsbg.com
+0.0.0.0 dimeprice.com		# "spam bugs"
 0.0.0.0 dimeprice.com # "spam bugs"
 0.0.0.0 dimoradellapizzuta.it
 0.0.0.0 din.prr.mybluehost.me
@@ -20889,6 +20899,7 @@ youtubei.googleapis.com
 0.0.0.0 direct.ad.cpe.dotomi.com
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 directaclick.com
+0.0.0.0 directads.mcafee.com
 0.0.0.0 directads.mcafee.com #[Tracking.Cookie]
 0.0.0.0 directadvert.ru
 0.0.0.0 directdesignsny.com
@@ -22942,6 +22953,7 @@ youtubei.googleapis.com
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.btcprofit.we-trck.com
 0.0.0.0 en.fitgrp.com
+0.0.0.0 en.likefever.org			# Facebook trojan
 0.0.0.0 en.likefever.org # Facebook trojan
 0.0.0.0 en.taichuan.com
 0.0.0.0 en.ultrex.ru
@@ -23871,6 +23883,7 @@ youtubei.googleapis.com
 0.0.0.0 extrahoney.net
 0.0.0.0 extramileteam.com
 0.0.0.0 extrashop.fr
+0.0.0.0 extreme-dm.com
 0.0.0.0 extreme-dm.com #[WebBug]
 0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 extremehobbyonlineboxingstore.top
@@ -24858,6 +24871,7 @@ youtubei.googleapis.com
 0.0.0.0 fiona.ai.net
 0.0.0.0 fiorecolvento-pro.pages.dev
 0.0.0.0 fiorepromozioni.info
+0.0.0.0 fioricet-online.blogspot.com
 0.0.0.0 fioricet.1.p2l.info
 0.0.0.0 fioricet.3.p2l.info
 0.0.0.0 fioricet.4.p2l.info
@@ -25206,6 +25220,7 @@ youtubei.googleapis.com
 0.0.0.0 fl.5.p2l.info
 0.0.0.0 fl.a.ki
 0.0.0.0 fl.adpxl.co
+0.0.0.0 fl01.ct2.comclick.com
 0.0.0.0 fl01.ct2.comclick.com #[Tracking.Cookie]
 0.0.0.0 flaeryx-shop.pages.dev
 0.0.0.0 flagcounter.com
@@ -25500,6 +25515,7 @@ youtubei.googleapis.com
 0.0.0.0 forex-online.hut1.ru
 0.0.0.0 forex-signal.hut1.ru
 0.0.0.0 forex-trade.hut1.ru
+0.0.0.0 forex-trading-benefits.blogspot.com
 0.0.0.0 forex-trading.nl
 0.0.0.0 forexadv.eu
 0.0.0.0 forexopinia.pl
@@ -25972,6 +25988,7 @@ youtubei.googleapis.com
 0.0.0.0 ftvcash.com
 0.0.0.0 ftwnetwork.net
 0.0.0.0 fu-k.jp
+0.0.0.0 fu.golikeus.net			# Facebook trojan
 0.0.0.0 fu.golikeus.net # Facebook trojan
 0.0.0.0 fuatbilgin.com
 0.0.0.0 fuchang888.com
@@ -26048,7 +26065,9 @@ youtubei.googleapis.com
 0.0.0.0 funnelytics.io
 0.0.0.0 funntv.com
 0.0.0.0 funnyasfuck.net
+0.0.0.0 funnyreign.com	# heavy spam (Site Advisor received 1075 e-mails/week)
 0.0.0.0 funnyreign.com # heavy spam (Site Advisor received 1075 e-mails/week)
+0.0.0.0 funnysciencediscounts1.blogspot.com
 0.0.0.0 funsilly.com
 0.0.0.0 funskan.pl
 0.0.0.0 funtabsafe.com
@@ -26823,6 +26842,9 @@ youtubei.googleapis.com
 0.0.0.0 gettingmarried.ie
 0.0.0.0 gettyimages.122.2o7.net
 0.0.0.0 getyour.money-bag.shop
+0.0.0.0 getyour5kcredits0.blogspot.com
+0.0.0.0 getyourgiftnow2.blogspot.com
+0.0.0.0 getyourgiftnow3.blogspot.com
 0.0.0.0 gewerbeverein-auggen.de
 0.0.0.0 gewinnspiel-sachsenhausen.de
 0.0.0.0 gezgininpusulasi.com
@@ -26860,6 +26882,7 @@ youtubei.googleapis.com
 0.0.0.0 ggepestcontrol.com
 0.0.0.0 ggfg-ikmy.onrender.com
 0.0.0.0 ggiudici.it
+0.0.0.0 gglcash4u.info	# twitter worm
 0.0.0.0 gglcash4u.info # twitter worm
 0.0.0.0 ggljjk.cc
 0.0.0.0 gguaxufrt.pw
@@ -26946,6 +26969,7 @@ youtubei.googleapis.com
 0.0.0.0 giornovixia.digital
 0.0.0.0 giraudnet.co.uk
 0.0.0.0 girllyday.com
+0.0.0.0 girlownedbypolicelike.blogspot.com	# Facebook trojan
 0.0.0.0 girlporn.ru
 0.0.0.0 girls-chat.tv
 0.0.0.0 girlsadvanceethiopia.org
@@ -27295,6 +27319,7 @@ youtubei.googleapis.com
 0.0.0.0 goat.cx
 0.0.0.0 goatse.bz
 0.0.0.0 goatse.ca
+0.0.0.0 goatse.cx       # More information on sites such as 
 0.0.0.0 goatse.cx # More information on sites such as
 0.0.0.0 goatse.ru
 0.0.0.0 goatsegirl.org
@@ -28316,6 +28341,7 @@ youtubei.googleapis.com
 0.0.0.0 hathor.eztonez.com
 0.0.0.0 hatihat55159.000webhostapp.com
 0.0.0.0 hatoelfrio.com
+0.0.0.0 hatrecord.ru				# Facebook trojan
 0.0.0.0 hatrecord.ru # Facebook trojan
 0.0.0.0 hatsampledc.com
 0.0.0.0 hattchazy.com
@@ -28389,6 +28415,7 @@ youtubei.googleapis.com
 0.0.0.0 hbsjccjx.com
 0.0.0.0 hbx.media.net
 0.0.0.0 hbxxjzgc.com
+0.0.0.0 hc2.humanclick.com
 0.0.0.0 hc2.humanclick.com #[Tracking.Cookie]
 0.0.0.0 hcdkeur.com
 0.0.0.0 hcg82f2b.com
@@ -28706,6 +28733,7 @@ youtubei.googleapis.com
 0.0.0.0 hipsi.net
 0.0.0.0 hiq.fotolog.com
 0.0.0.0 hir-tv.com
+0.0.0.0 hir44.blogspot.com
 0.0.0.0 hirado.top
 0.0.0.0 hiragazza.com
 0.0.0.0 hiram.iad-03.braze.com
@@ -28717,6 +28745,7 @@ youtubei.googleapis.com
 0.0.0.0 hirorigo.net
 0.0.0.0 hirozon.info
 0.0.0.0 hirsch-ille.fr
+0.0.0.0 hirszabadsag.blogspot.com
 0.0.0.0 hirtop.in
 0.0.0.0 hirturi.blogspot.hu
 0.0.0.0 hirvilag.co
@@ -28783,6 +28812,7 @@ youtubei.googleapis.com
 0.0.0.0 hits.sh
 0.0.0.0 hits.spylog.com
 0.0.0.0 hits.theguardian.com
+0.0.0.0 hits.webstat.com
 0.0.0.0 hits.webstat.com #[Tracking.Cookie]
 0.0.0.0 hits3.truehits.net
 0.0.0.0 hits4me.com
@@ -29356,6 +29386,7 @@ youtubei.googleapis.com
 0.0.0.0 hs-banner.com
 0.0.0.0 hs.interpolls.com
 0.0.0.0 hsadspixel.net
+0.0.0.0 hsb-canada.com	# phishing site for hsbc.ca
 0.0.0.0 hsb-canada.com # phishing site for hsbc.ca
 0.0.0.0 hsdps.cc
 0.0.0.0 hseda.com
@@ -29541,6 +29572,7 @@ youtubei.googleapis.com
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 hydraconcept.com
 0.0.0.0 hydramedia.com
+0.0.0.0 hydrocodone-buy-online.blogspot.com
 0.0.0.0 hydrocodone.irondel.swisshost.by
 0.0.0.0 hydrocodone.shengen.ru
 0.0.0.0 hydrocodone.t-amo.net
@@ -29637,6 +29669,7 @@ youtubei.googleapis.com
 0.0.0.0 i.isnssdk.com
 0.0.0.0 i.jsrdn.com
 0.0.0.0 i.kissmetrics.com
+0.0.0.0 i.kissmetrics.com	# http://www.wired.com/epicenter/2011/07/undeletable-cookie/
 0.0.0.0 i.l-dsp.inmobicdn.net
 0.0.0.0 i.l-new.inmobicdn.net
 0.0.0.0 i.l.cnn.net #[WebBug]
@@ -30042,6 +30075,7 @@ youtubei.googleapis.com
 0.0.0.0 iesb.us.intellitxt.com
 0.0.0.0 iesjaumei.edu.gva.es
 0.0.0.0 iesnare.co.uk
+0.0.0.0 iesnare.com		# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 0.0.0.0 iesnare.com # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 0.0.0.0 ieurope1.fr
 0.0.0.0 iexploreservice.com
@@ -30239,6 +30273,7 @@ youtubei.googleapis.com
 0.0.0.0 images.conduit-banners.com
 0.0.0.0 images.cybereps.com
 0.0.0.0 images.dable.io
+0.0.0.0 images.dailydiscounts.com	# "spam bugs"
 0.0.0.0 images.dailydiscounts.com # "spam bugs"
 0.0.0.0 images.datatrics.com
 0.0.0.0 images.ddc.com #[Parking Service]
@@ -30437,6 +30472,7 @@ youtubei.googleapis.com
 0.0.0.0 imgpromo.easyrencontre.com
 0.0.0.0 imgs.adverticum.net
 0.0.0.0 imgs2.aanetwork.vn
+0.0.0.0 imgserv.adbutler.com
 0.0.0.0 imgserv.adbutler.com #[Tracking.Cookie]
 0.0.0.0 imgx.jampp.com
 0.0.0.0 imgx.mediav.com
@@ -30555,6 +30591,7 @@ youtubei.googleapis.com
 0.0.0.0 impetugainrevotrade.com
 0.0.0.0 impfi.tradedoubler.com
 0.0.0.0 impfr.tradedoubler.com
+0.0.0.0 impgb.tradedoubler.com
 0.0.0.0 impgb.tradedoubler.com #[WebBug]
 0.0.0.0 impie.tradedoubler.com
 0.0.0.0 impinuncul.store
@@ -31504,6 +31541,7 @@ youtubei.googleapis.com
 0.0.0.0 itanitellytrade.com
 0.0.0.0 itbeginner.fr
 0.0.0.0 itbs-co.com
+0.0.0.0 itc.InsightTrailco.com
 0.0.0.0 itc.insighttrailco.com
 0.0.0.0 itc.slav.dn.ua
 0.0.0.0 itclk.com
@@ -32288,6 +32326,7 @@ youtubei.googleapis.com
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.himediads.com
 0.0.0.0 js.hotkeys.com
+0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hs-analytics.net #[HubSpot Analytics Tracking Code]
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 js.hscollectedforms.net
@@ -32497,6 +32536,7 @@ youtubei.googleapis.com
 0.0.0.0 justbii.com
 0.0.0.0 justdating.online
 0.0.0.0 justdeckshamilton.ca
+0.0.0.0 juste.ru	# Twitter trojan
 0.0.0.0 juste.ru # Twitter trojan
 0.0.0.0 justecapitvale.com
 0.0.0.0 justedevisireia.com
@@ -33079,6 +33119,7 @@ youtubei.googleapis.com
 0.0.0.0 kiptis.ru
 0.0.0.0 kirchbuechl.at
 0.0.0.0 kirdugunu.com.tr
+0.0.0.0 kirgo.at	# Facebook phishing attempt
 0.0.0.0 kirgo.at # Facebook phishing attempt
 0.0.0.0 kirillpryadukhin.ru
 0.0.0.0 kirulya.com
@@ -33273,6 +33314,7 @@ youtubei.googleapis.com
 0.0.0.0 konax.kontera.com
 0.0.0.0 koneomobiledsp.com
 0.0.0.0 konet.org
+0.0.0.0 konflow.com				# Facebook trojan
 0.0.0.0 konflow.com # Facebook trojan
 0.0.0.0 kongkhak.go.th
 0.0.0.0 konicaminoltahd.122.2o7.net
@@ -34510,9 +34552,13 @@ youtubei.googleapis.com
 0.0.0.0 lijschool.com
 0.0.0.0 like.likewut.net
 0.0.0.0 likekopi.com
+0.0.0.0 likeportal.com			# Facebook trojan
 0.0.0.0 likeportal.com # Facebook trojan
+0.0.0.0 likespike.com				# Facebook trojan
 0.0.0.0 likespike.com # Facebook trojan
+0.0.0.0 likethis.mbosoft.com			# Facebook trojan
 0.0.0.0 likethis.mbosoft.com # Facebook trojan
+0.0.0.0 likethislist.biz			# Facebook trojan
 0.0.0.0 likethislist.biz # Facebook trojan
 0.0.0.0 likiditekurplatform.com
 0.0.0.0 likiditukuro.net
@@ -35114,6 +35160,7 @@ youtubei.googleapis.com
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 log999.goo.ne.jp
 0.0.0.0 loga.hit-parade.com
+0.0.0.0 loga.xiti.com
 0.0.0.0 loga.xiti.com #[Tracking.Cookie]
 0.0.0.0 logagent-wf.centurygame.com
 0.0.0.0 loganlandscapes.com.au
@@ -35285,6 +35332,7 @@ youtubei.googleapis.com
 0.0.0.0 logv145.xiti.com
 0.0.0.0 logv16.xiti.com
 0.0.0.0 logv17.xiti.com
+0.0.0.0 logv18.xiti.com
 0.0.0.0 logv18.xiti.com #[WebBug]
 0.0.0.0 logv19.xiti.com
 0.0.0.0 logv2-kienthuc.epicdn.me
@@ -36050,12 +36098,14 @@ youtubei.googleapis.com
 0.0.0.0 mail2offers.com
 0.0.0.0 mail4host.xyz
 0.0.0.0 mail88.exempler.top
+0.0.0.0 mailcheckisp.biz	# "spam bugs"
 0.0.0.0 mailcheckisp.biz # "spam bugs"
 0.0.0.0 mailer.livejasmin.com
 0.0.0.0 mailer100.brestrean.top
 0.0.0.0 mailer300.bondae.top
 0.0.0.0 mailer500.remnorth.top
 0.0.0.0 mailer70.servoder.top
+0.0.0.0 mailfoogae.appspot.com	# Streak email tracker
 0.0.0.0 mailfoogae.appspot.com # Streak email tracker
 0.0.0.0 maillots-ffoot-actu.fr
 0.0.0.0 mailmetromedia.amp.permutive.com #ad
@@ -36816,6 +36866,7 @@ youtubei.googleapis.com
 0.0.0.0 media.adnetwork.vn
 0.0.0.0 media.adop.asia
 0.0.0.0 media.adrcdn.com
+0.0.0.0 media.adrevolver.com
 0.0.0.0 media.adrevolver.com #[Tracking.Cookie]
 0.0.0.0 media.adrime.com
 0.0.0.0 media.ads.gfsrv.net
@@ -36839,6 +36890,7 @@ youtubei.googleapis.com
 0.0.0.0 media.evolv.ai
 0.0.0.0 media.exchange-it.com
 0.0.0.0 media.fairlink.ru
+0.0.0.0 media.fastclick.net	# Likewise, this may interfere with some
 0.0.0.0 media.fastclick.net # Likewise, this may interfere with some
 0.0.0.0 media.fc2.com
 0.0.0.0 media.foundry42.com
@@ -37460,6 +37512,7 @@ youtubei.googleapis.com
 0.0.0.0 metrics.vividseats.com
 0.0.0.0 metrics.vodafone.co.uk
 0.0.0.0 metrics.vodafone.com.eg
+0.0.0.0 metrics.washingtonpost.com
 0.0.0.0 metrics.which.co.uk
 0.0.0.0 metrics.whitepages.com
 0.0.0.0 metrics.womansday.com
@@ -38928,6 +38981,7 @@ youtubei.googleapis.com
 0.0.0.0 myjollyrudder.com
 0.0.0.0 mylead-tracking.tracknow.info
 0.0.0.0 mylead.global
+0.0.0.0 mylike.co.uk				# Facebook trojan
 0.0.0.0 mylike.co.uk # Facebook trojan
 0.0.0.0 mylimajai.lt
 0.0.0.0 mylingeriestore.com.au
@@ -39609,6 +39663,7 @@ youtubei.googleapis.com
 0.0.0.0 nevunfenorina.com
 0.0.0.0 new-orleans.pl
 0.0.0.0 new-ramboplay.com
+0.0.0.0 new-vid-zone-1.blogspot.com.au
 0.0.0.0 new.915yzt.cn
 0.0.0.0 new.cetrk.com
 0.0.0.0 new.chokertraffic.com
@@ -40717,6 +40772,7 @@ youtubei.googleapis.com
 0.0.0.0 oascentral.lycos.com
 0.0.0.0 oascentral.mayoclinic.com
 0.0.0.0 oascentral.medbroadcast.com
+0.0.0.0 oascentral.minnpost.com
 0.0.0.0 oascentral.mochila.com
 0.0.0.0 oascentral.nerve.com
 0.0.0.0 oascentral.newsmax.com
@@ -40788,6 +40844,7 @@ youtubei.googleapis.com
 0.0.0.0 objecthero.com
 0.0.0.0 objects.abcvisiteurs.com
 0.0.0.0 objects.designbloxlive.com
+0.0.0.0 objects.tremormedia.com
 0.0.0.0 objects.tremormedia.com #[adserver.adtechus.com]
 0.0.0.0 obkzrcclean2.az.pl
 0.0.0.0 obo.moatads.com
@@ -41867,10 +41924,12 @@ youtubei.googleapis.com
 0.0.0.0 online-clearance.shop
 0.0.0.0 online-data-management.com
 0.0.0.0 online-dn.com
+0.0.0.0 online-forex-trading-systems.blogspot.com
 0.0.0.0 online-forex.hut1.ru
 0.0.0.0 online-loading.com
 0.0.0.0 online-metrix.net
 0.0.0.0 online-office365.com
+0.0.0.0 online-pharmacy-online.blogspot.com
 0.0.0.0 online-poker.shengen.ru
 0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 online-site-now.com
@@ -42159,6 +42218,7 @@ youtubei.googleapis.com
 0.0.0.0 oraclfund.com
 0.0.0.0 orafresh.pl
 0.0.0.0 oralse.ca
+0.0.0.0 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
 0.0.0.0 oralse.cx # en.wikipedia.org/wiki/List_of_shock_sites
 0.0.0.0 orane.co
 0.0.0.0 orange-finansow-polska.net
@@ -42404,6 +42464,7 @@ youtubei.googleapis.com
 0.0.0.0 oticakadosh.com.br
 0.0.0.0 otletdivak.hu
 0.0.0.0 oto-konto-34632.top
+0.0.0.0 otpercpiheno.blogspot.com
 0.0.0.0 otpercpiheno.hu
 0.0.0.0 otracking.com
 0.0.0.0 ots.optimize.webtrends.com
@@ -42580,6 +42641,7 @@ youtubei.googleapis.com
 0.0.0.0 p-sysnet.de
 0.0.0.0 p-v2.presage.io
 0.0.0.0 p.ad.gt
+0.0.0.0 p.addthis.com
 0.0.0.0 p.addthis.com #[pixel.invitemedia.com]
 0.0.0.0 p.adnxs.com
 0.0.0.0 p.adrta.com
@@ -43591,6 +43653,7 @@ youtubei.googleapis.com
 0.0.0.0 petamain.112.2o7.net
 0.0.0.0 petametrics.com
 0.0.0.0 petanqueclubmarcinelle.net
+0.0.0.0 peter-north-cum-shot.blogspot.com
 0.0.0.0 peterboroughdrivingschool.ca
 0.0.0.0 peterdickem.com
 0.0.0.0 petfooddirect.d1.sc.omtrdc.net
@@ -43702,6 +43765,7 @@ youtubei.googleapis.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phare-investoire-italy.com
 0.0.0.0 pharmacy-canada.forsearch.net
+0.0.0.0 pharmacy-news.blogspot.com
 0.0.0.0 pharmacy.hut1.ru
 0.0.0.0 pharmacyrxone.com
 0.0.0.0 pharmafinanceholding.com
@@ -44672,6 +44736,7 @@ youtubei.googleapis.com
 0.0.0.0 planetside2.fr
 0.0.0.0 planmedpanama.com
 0.0.0.0 planning-analytics.ibmcloud.com
+0.0.0.0 planrecanpost1.info
 0.0.0.0 planthisweekend.com
 0.0.0.0 plantsandpots.com
 0.0.0.0 plasmaringa.com
@@ -45331,6 +45396,8 @@ youtubei.googleapis.com
 0.0.0.0 postcanada.ship-express.info
 0.0.0.0 postcanada.ship-priority.info
 0.0.0.0 postclick.adcentriconline.com
+0.0.0.0 postecan-canpost.confrm942.link
+0.0.0.0 postecan-canpost.updt491.link
 0.0.0.0 postelnini.mk
 0.0.0.0 poster.gamesprite.me
 0.0.0.0 postergaleria.chh.pl
@@ -45913,6 +45980,7 @@ youtubei.googleapis.com
 0.0.0.0 profitrise.org
 0.0.0.0 profitrumour.com
 0.0.0.0 profitsitesbiz.com
+0.0.0.0 proflashdata.com			# Facebook trojan
 0.0.0.0 proflashdata.com # Facebook trojan
 0.0.0.0 proflexen.pl
 0.0.0.0 profolan.pl
@@ -46096,6 +46164,45 @@ youtubei.googleapis.com
 0.0.0.0 protect.geoedge.be
 0.0.0.0 protectcrev.com
 0.0.0.0 protected.net
+0.0.0.0 protection.ASpolice.com
+0.0.0.0 protection.AUpolice.com
+0.0.0.0 protection.AZpolice.com
+0.0.0.0 protection.BTpolice.com
+0.0.0.0 protection.BYpolice.com
+0.0.0.0 protection.CApolice.com
+0.0.0.0 protection.CCpolice.com
+0.0.0.0 protection.DKpolice.com
+0.0.0.0 protection.ESpolice.com
+0.0.0.0 protection.FRpolice.com
+0.0.0.0 protection.FXpolice.com
+0.0.0.0 protection.GApolice.com
+0.0.0.0 protection.HKpolice.com
+0.0.0.0 protection.HNpolice.com
+0.0.0.0 protection.ILpolice.com
+0.0.0.0 protection.ITpolice.com
+0.0.0.0 protection.JMpolice.com
+0.0.0.0 protection.KYpolice.com
+0.0.0.0 protection.LApolice.com
+0.0.0.0 protection.LBpolice.com
+0.0.0.0 protection.LCpolice.com
+0.0.0.0 protection.LIpolice.com
+0.0.0.0 protection.LRpolice.com
+0.0.0.0 protection.LSpolice.com
+0.0.0.0 protection.LVpolice.com
+0.0.0.0 protection.MApolice.com
+0.0.0.0 protection.MDpolice.com
+0.0.0.0 protection.MEpolice.com
+0.0.0.0 protection.MNpolice.com
+0.0.0.0 protection.NApolice.com
+0.0.0.0 protection.NCpolice.com
+0.0.0.0 protection.NZpolice.com
+0.0.0.0 protection.PApolice.com
+0.0.0.0 protection.PGpolice.com
+0.0.0.0 protection.SBpolice.com
+0.0.0.0 protection.TNpolice.com
+0.0.0.0 protection.TOpolice.com
+0.0.0.0 protection.VApolice.com
+0.0.0.0 protection.VIpolice.com
 0.0.0.0 protection.aspolice.com
 0.0.0.0 protection.aupolice.com
 0.0.0.0 protection.azpolice.com
@@ -46842,6 +46949,7 @@ youtubei.googleapis.com
 0.0.0.0 quantrex-lumina.net
 0.0.0.0 quantrexarvion-click.pages.dev
 0.0.0.0 quantserve.com
+0.0.0.0 quantserve.com #: Ad Tracking, JavaScript, etc.
 0.0.0.0 quantum-ai-india-initiative.digital
 0.0.0.0 quantum-ai.io
 0.0.0.0 quantum-capital-official.com
@@ -47775,6 +47883,7 @@ youtubei.googleapis.com
 0.0.0.0 remekcikkek.com
 0.0.0.0 rememberdiscussion.com
 0.0.0.0 remers-messebau.de
+0.0.0.0 reminderannual2reward.com
 0.0.0.0 remixsarkilar.com
 0.0.0.0 remnantrhetoric.com
 0.0.0.0 remodelingonlinecom.112.2o7.net
@@ -49094,6 +49203,7 @@ youtubei.googleapis.com
 0.0.0.0 s.update.3lift.com
 0.0.0.0 s.update.adsrvr.org
 0.0.0.0 s.update.fbsbx.com
+0.0.0.0 s.update.fbsbx.com 
 0.0.0.0 s.update.ib.adnxs.com
 0.0.0.0 s.update.indexww.com
 0.0.0.0 s.update.morgdog.springserve.com
@@ -49865,6 +49975,7 @@ youtubei.googleapis.com
 0.0.0.0 scotiaonline-verification.com
 0.0.0.0 scotodblo.store
 0.0.0.0 scottfranch.org
+0.0.0.0 scottishstuff-online.com	# Canadian bank phishing site
 0.0.0.0 scottishstuff-online.com # Canadian bank phishing site
 0.0.0.0 scottlee.co
 0.0.0.0 scottrade.112.2o7.net
@@ -50705,6 +50816,7 @@ youtubei.googleapis.com
 0.0.0.0 server-au.imrworldwide.com
 0.0.0.0 server-br.imrworldwide.com
 0.0.0.0 server-by.imrworldwide.com
+0.0.0.0 server-de.imrworldwide.com
 0.0.0.0 server-de.imrworldwide.com #[Tracking.Cookie]
 0.0.0.0 server-dk.imrworldwide.com
 0.0.0.0 server-ee.imrworldwide.com
@@ -50732,6 +50844,7 @@ youtubei.googleapis.com
 0.0.0.0 server.bidstack.com
 0.0.0.0 server.bittads.com
 0.0.0.0 server.connecto.io
+0.0.0.0 server.cpmstar.com
 0.0.0.0 server.cpmstar.com #[ads.shizmoo.com]
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 server.idreams.pl
@@ -50777,6 +50890,7 @@ youtubei.googleapis.com
 0.0.0.0 service.multi-pops.com
 0.0.0.0 service.persianstat.com
 0.0.0.0 service.sponsorpay.com
+0.0.0.0 service.urchin.com
 0.0.0.0 service.urchin.com #[Urchin Tracking Module]
 0.0.0.0 service.videoplaza.tv
 0.0.0.0 service001.adtech.fr
@@ -51484,6 +51598,7 @@ youtubei.googleapis.com
 0.0.0.0 sitespectdata.112.2o7.net
 0.0.0.0 sitestat.com
 0.0.0.0 sitestats.com #[Tracking.Cookie]
+0.0.0.0 sitestats.tiscali.co.uk
 0.0.0.0 sitestats.tiscali.co.uk #[WebBug]
 0.0.0.0 sitetracker.com
 0.0.0.0 sitio655.vtrbandaancha.net
@@ -52210,6 +52325,7 @@ youtubei.googleapis.com
 0.0.0.0 smetrics.vodafone.es
 0.0.0.0 smetrics.vonage.com
 0.0.0.0 smetrics.walgreens.com
+0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 smetrics.webex.com
 0.0.0.0 smetrics.wegmans.com
 0.0.0.0 smetrics.wgu.edu
@@ -53256,6 +53372,7 @@ youtubei.googleapis.com
 0.0.0.0 st.adsplay.net
 0.0.0.0 st.anthill.vn
 0.0.0.0 st.bebi.com
+0.0.0.0 st.blogads.com
 0.0.0.0 st.blogads.com #[WebBug]
 0.0.0.0 st.core.polyad.net
 0.0.0.0 st.districtm.ca
@@ -53327,6 +53444,7 @@ youtubei.googleapis.com
 0.0.0.0 stagolk.com
 0.0.0.0 stagonaependis.net
 0.0.0.0 stags.bluekai.com
+0.0.0.0 stags.peer39.net
 0.0.0.0 stags.peer39.net #[PrivacyChoice.Tracker]
 0.0.0.0 stainless-steel-producers.com
 0.0.0.0 stainlessengineeringintl.com
@@ -53436,6 +53554,7 @@ youtubei.googleapis.com
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.aport.ru
 0.0.0.0 stat.appsgeyser.com
+0.0.0.0 stat.blogads.com
 0.0.0.0 stat.blogads.com #[WebBug]
 0.0.0.0 stat.cliche.se
 0.0.0.0 stat.clickfrog.ru
@@ -53653,6 +53772,7 @@ youtubei.googleapis.com
 0.0.0.0 static.retirementcommunitiesfyi.com
 0.0.0.0 static.returngo.ai
 0.0.0.0 static.rqmob.com
+0.0.0.0 static.scanscout.com
 0.0.0.0 static.scanscout.com #[Video.adpresentation]
 0.0.0.0 static.scroll.com
 0.0.0.0 static.securedtouch.com
@@ -53661,6 +53781,7 @@ youtubei.googleapis.com
 0.0.0.0 static.sharethrough.com
 0.0.0.0 static.site24x7rum.com
 0.0.0.0 static.skimlinks.com
+0.0.0.0 static.smni.com		# Santa Monica - popunders
 0.0.0.0 static.smni.com # Santa Monica - popunders
 0.0.0.0 static.sojern.com
 0.0.0.0 static.sourcetobin.com
@@ -53763,6 +53884,7 @@ youtubei.googleapis.com
 0.0.0.0 stats.aws.rubiconproject.com
 0.0.0.0 stats.backcountry.com
 0.0.0.0 stats.bannersnack.com
+0.0.0.0 stats.bbc.co.uk
 0.0.0.0 stats.bbc.co.uk #[may affect iPlayer app]
 0.0.0.0 stats.becu.org
 0.0.0.0 stats.berkman.harvard.edu #[Piwik.Analytics]
@@ -53936,6 +54058,7 @@ youtubei.googleapis.com
 0.0.0.0 stats4all.com
 0.0.0.0 stats5.lightningcast.com
 0.0.0.0 stats6.lightningcast.net
+0.0.0.0 statse.webtrendslive.com	# Fortune.com among others
 0.0.0.0 statse.webtrendslive.com #[SDC Advanced Tracking Code]
 0.0.0.0 statserv.net
 0.0.0.0 statsf-tm.everesttech.net
@@ -55435,6 +55558,7 @@ youtubei.googleapis.com
 0.0.0.0 tatsumi-sys.jp
 0.0.0.0 tatsumiwrecker.web.fc2.com
 0.0.0.0 tattoo-studio.nl
+0.0.0.0 tattooshaha.info			# Facebook trojan
 0.0.0.0 tattooshaha.info # Facebook trojan
 0.0.0.0 taunahi.st
 0.0.0.0 taupe-bag.shop
@@ -55494,6 +55618,7 @@ youtubei.googleapis.com
 0.0.0.0 tcookie.usatoday.com
 0.0.0.0 tcp.push.mob.com
 0.0.0.0 tcr.tynt.com
+0.0.0.0 tcr.tynt.com		# See http://daringfireball.net/2010/05/tynt_copy_paste_jerks
 0.0.0.0 tcs-asp.net
 0.0.0.0 tcss.qq.com
 0.0.0.0 tcttruongson.vn
@@ -56445,6 +56570,7 @@ youtubei.googleapis.com
 0.0.0.0 thedailystarcom.112.2o7.net
 0.0.0.0 thedamnway.com
 0.0.0.0 thedarkpvp.net
+0.0.0.0 thedatesafe.com			# Facebook trojan
 0.0.0.0 thedatesafe.com # Facebook trojan
 0.0.0.0 thedatingconference.com
 0.0.0.0 thedemocraticpost.com
@@ -57043,6 +57169,7 @@ youtubei.googleapis.com
 0.0.0.0 tommylam.com
 0.0.0.0 tommysbookmarks.com
 0.0.0.0 tommysbookmarks.net
+0.0.0.0 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 0.0.0.0 tomorrownewstoday.com # I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 0.0.0.0 toms-buty.com
 0.0.0.0 toms.us.intellitxt.com
@@ -57229,6 +57356,7 @@ youtubei.googleapis.com
 0.0.0.0 touchclarity.com
 0.0.0.0 toukontoutaukaiazalea.web.fc2.com
 0.0.0.0 toupinonpr.store
+0.0.0.0 tour.SweetDiscreet.com
 0.0.0.0 tour.affbuzzads.com
 0.0.0.0 tour.brazzers.com
 0.0.0.0 tour.cineble.com
@@ -58420,6 +58548,7 @@ youtubei.googleapis.com
 0.0.0.0 tudaskor.com
 0.0.0.0 tudathalo.blogspot.hu
 0.0.0.0 tudatosanelok.com
+0.0.0.0 tudnodkel.blogspot.com
 0.0.0.0 tudnodkell.info
 0.0.0.0 tudqarek.shop
 0.0.0.0 tugraoptikizmir.com
@@ -58940,6 +59069,7 @@ youtubei.googleapis.com
 0.0.0.0 understoodocean.com
 0.0.0.0 undertheinfluencebook.org
 0.0.0.0 undertone.com
+0.0.0.0 undertonenetworks.com
 0.0.0.0 undertonenetworks.com #[zedo.com]
 0.0.0.0 underwaterdesigner.com
 0.0.0.0 undezzterminable.info
@@ -59457,6 +59587,7 @@ youtubei.googleapis.com
 0.0.0.0 us-west-tlx.3lift.com
 0.0.0.0 us-west.load.exelator.com
 0.0.0.0 us-wf.taboola.com
+0.0.0.0 us.2.cqcounter.com
 0.0.0.0 us.2.cqcounter.com #[Wildcard DNS]
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 us.ads.justpremium.com
@@ -60317,6 +60448,7 @@ youtubei.googleapis.com
 0.0.0.0 viacon.lt
 0.0.0.0 viad.fr
 0.0.0.0 viagametrailers.112.2o7.net
+0.0.0.0 viagra-pill.blogspot.com
 0.0.0.0 viagra-soft-tabs.1.p2l.info
 0.0.0.0 viagra-store.shengen.ru
 0.0.0.0 viagra.1.p2l.info
@@ -60517,6 +60649,7 @@ youtubei.googleapis.com
 0.0.0.0 vikinglines.ro
 0.0.0.0 vikingradom.freehost.pl
 0.0.0.0 vilagfigyelo.com
+0.0.0.0 vilaghelyzete.blogspot.com
 0.0.0.0 vilagpolgarok.blogspot.hu
 0.0.0.0 vilagunk.hu
 0.0.0.0 vilakolpa.com
@@ -61310,6 +61443,7 @@ youtubei.googleapis.com
 0.0.0.0 visionpharmapk.com
 0.0.0.0 visistat.com
 0.0.0.0 visit.theglobeandmail.com
+0.0.0.0 visit.theglobeandmail.com # Visits to theglobeandmail.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 visitbox.de
 0.0.0.0 visitfallonnv.com
@@ -61961,6 +62095,7 @@ youtubei.googleapis.com
 0.0.0.0 w9q5jf.lat
 0.0.0.0 wa-track.com
 0.0.0.0 wa.5.p2l.info
+0.0.0.0 wa.and.co.uk
 0.0.0.0 wa.and.co.uk #[b.scorecardresearch.com]
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 wa.eonline.com
@@ -62247,6 +62382,7 @@ youtubei.googleapis.com
 0.0.0.0 webatic.fr
 0.0.0.0 webberm.com
 0.0.0.0 webbot.oncustomer.asia
+0.0.0.0 webbug.seatreport.com	# web bugs
 0.0.0.0 webbug.seatreport.com # web bugs
 0.0.0.0 webcam-newzealand.info
 0.0.0.0 webcamsex.nl
@@ -63508,6 +63644,7 @@ youtubei.googleapis.com
 0.0.0.0 www.123any.com
 0.0.0.0 www.123banners.com
 0.0.0.0 www.123cha.com
+0.0.0.0 www.123count.com
 0.0.0.0 www.123count.com #[Tracking.Cookie]
 0.0.0.0 www.123counter.superstats.com
 0.0.0.0 www.123go.com
@@ -64985,6 +65122,7 @@ youtubei.googleapis.com
 0.0.0.0 www.aexur.com
 0.0.0.0 www.af-mark.jp
 0.0.0.0 www.af1ae6de.pinme.dev
+0.0.0.0 www.afcyhf.com
 0.0.0.0 www.afcyhf.com #[WebBug]
 0.0.0.0 www.afendisfam.org
 0.0.0.0 www.affancockr.store
@@ -65812,6 +65950,7 @@ youtubei.googleapis.com
 0.0.0.0 www.allfet.info
 0.0.0.0 www.allfiles.pl
 0.0.0.0 www.allgo.xyz
+0.0.0.0 www.allhqpics.com			# Facebook trojan
 0.0.0.0 www.allhqpics.com # Facebook trojan
 0.0.0.0 www.alliance4media.com
 0.0.0.0 www.allianzmarket.biz
@@ -66466,6 +66605,7 @@ youtubei.googleapis.com
 0.0.0.0 www.awin.com
 0.0.0.0 www.awizowane.pl
 0.0.0.0 www.awkasjhdbf.shop
+0.0.0.0 www.awltovhc.com
 0.0.0.0 www.awltovhc.com #[WebBug]
 0.0.0.0 www.awssjkokf.shop
 0.0.0.0 www.awttuwtp.shop
@@ -67825,6 +67965,7 @@ youtubei.googleapis.com
 0.0.0.0 www.cheetah-buck-approve.icu
 0.0.0.0 www.chefedyycinquecentist.info
 0.0.0.0 www.chefeladlevi.com
+0.0.0.0 www.chelick.net			# Facebook trojan
 0.0.0.0 www.chelick.net # Facebook trojan
 0.0.0.0 www.chemes.eu
 0.0.0.0 www.cheminfundriasoftware.shop
@@ -68030,6 +68171,7 @@ youtubei.googleapis.com
 0.0.0.0 www.clicksagent.com
 0.0.0.0 www.clicksgear.com
 0.0.0.0 www.clicksor.com
+0.0.0.0 www.clickspring.net	#used by a spyware product called PurityScan
 0.0.0.0 www.clickspring.net #used by a spyware product called PurityScan
 0.0.0.0 www.clicktale.com
 0.0.0.0 www.clicktale.net
@@ -71000,6 +71142,7 @@ youtubei.googleapis.com
 0.0.0.0 www.fruttalehaveria.com
 0.0.0.0 www.fsale.shop
 0.0.0.0 www.ft.zenway.ink
+0.0.0.0 www.ftjcfx.com
 0.0.0.0 www.ftjcfx.com #[WebBug]
 0.0.0.0 www.ftmotrade.net
 0.0.0.0 www.ftwnetwork.net
@@ -71443,6 +71586,7 @@ youtubei.googleapis.com
 0.0.0.0 www.goat.cx
 0.0.0.0 www.goatse.bz
 0.0.0.0 www.goatse.ca
+0.0.0.0 www.goatse.cx   # these can be found in this article
 0.0.0.0 www.goatse.cx # these can be found in this article
 0.0.0.0 www.goatse.ru
 0.0.0.0 www.goatsegirl.org
@@ -72353,6 +72497,7 @@ youtubei.googleapis.com
 0.0.0.0 www.iesaber.com
 0.0.0.0 www.ieslamerced.es
 0.0.0.0 www.iesnare.co.uk
+0.0.0.0 www.iesnare.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 0.0.0.0 www.iesnare.com # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 0.0.0.0 www.ifbfinwestltd.com
 0.0.0.0 www.ifileyou.com
@@ -73742,6 +73887,7 @@ youtubei.googleapis.com
 0.0.0.0 www.ld-eu.shop
 0.0.0.0 www.ld-we-papke782.eu.cc
 0.0.0.0 www.ldleu.com
+0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.lduhtrp.net #[WebBug]
 0.0.0.0 www.le1er.net
 0.0.0.0 www.lead.network
@@ -73881,9 +74027,13 @@ youtubei.googleapis.com
 0.0.0.0 www.lightningfasttraffic.com
 0.0.0.0 www.lightstylist.com
 0.0.0.0 www.lijit.com
+0.0.0.0 www.likeportal.com			# Facebook trojan
 0.0.0.0 www.likeportal.com # Facebook trojan
+0.0.0.0 www.likespike.com			# Facebook trojan
 0.0.0.0 www.likespike.com # Facebook trojan
+0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
 0.0.0.0 www.likethis.mbosoft.com # Facebook trojan
+0.0.0.0 www.likethislist.biz			# Facebook trojan
 0.0.0.0 www.likethislist.biz # Facebook trojan
 0.0.0.0 www.likiditekurplatform.com
 0.0.0.0 www.likiditukuro.net
@@ -74094,6 +74244,7 @@ youtubei.googleapis.com
 0.0.0.0 www.lolhello.com
 0.0.0.0 www.lolshock.com
 0.0.0.0 www.loltrain.com
+0.0.0.0 www.lomalindasda.org			# Facebook trojan
 0.0.0.0 www.lomalindasda.org # Facebook trojan
 0.0.0.0 www.lomixone.net
 0.0.0.0 www.lomvaki.shop
@@ -74658,6 +74809,7 @@ youtubei.googleapis.com
 0.0.0.0 www.metacount.com
 0.0.0.0 www.metanexpir.com
 0.0.0.0 www.metaphysicalsmubbgglers.info
+0.0.0.0 www.metareward.com		# web bugs in spam
 0.0.0.0 www.metareward.com # web bugs in spam
 0.0.0.0 www.metaverifiedcenter.com
 0.0.0.0 www.metavertising.com
@@ -75052,6 +75204,7 @@ youtubei.googleapis.com
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.myishop.co.uk
 0.0.0.0 www.myjollyrudder.com
+0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylike.co.uk # Facebook trojan
 0.0.0.0 www.mylivejasmin.org
 0.0.0.0 www.mylottoadserv.com
@@ -76470,6 +76623,7 @@ youtubei.googleapis.com
 0.0.0.0 www.one-door.com
 0.0.0.0 www.onedrive-58x0.vercel.app
 0.0.0.0 www.onesafe-software.com #[ScamFraudAlert.Antispyware]
+0.0.0.0 www.onestat.com
 0.0.0.0 www.onestat.com #[Tracking.Cookie]
 0.0.0.0 www.onestatfree.com
 0.0.0.0 www.onetdsgo.com
@@ -76596,6 +76750,7 @@ youtubei.googleapis.com
 0.0.0.0 www.orichalcumtrade.com
 0.0.0.0 www.orierd.shop
 0.0.0.0 www.originagro.net
+0.0.0.0 www.originalicons.com	# installs IE extension
 0.0.0.0 www.originalicons.com # installs IE extension
 0.0.0.0 www.oriignapzsta.eu.cc
 0.0.0.0 www.orioblast.sbs
@@ -78164,6 +78319,7 @@ youtubei.googleapis.com
 0.0.0.0 www.profitrise.org
 0.0.0.0 www.profitsitesbiz.com
 0.0.0.0 www.profitzone.com
+0.0.0.0 www.proflashdata.com			# Facebook trojan
 0.0.0.0 www.proflashdata.com # Facebook trojan
 0.0.0.0 www.proflexen.pl
 0.0.0.0 www.profolan.pl
@@ -79822,6 +79978,7 @@ youtubei.googleapis.com
 0.0.0.0 www.shiftprofitex-platform-com.pages.dev
 0.0.0.0 www.shigellosedds.info
 0.0.0.0 www.shillsball.store
+0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
 0.0.0.0 www.shinilchurch.net # domain was hacked and had a trojan installed
 0.0.0.0 www.shinraquanttrade.com
 0.0.0.0 www.shinyechogz.name
@@ -80349,6 +80506,7 @@ youtubei.googleapis.com
 0.0.0.0 www.specialstat.com
 0.0.0.0 www.specificclick.com
 0.0.0.0 www.specificmedia.com
+0.0.0.0 www.specificpop.com
 0.0.0.0 www.specificpop.com #[Tracking.Cookie]
 0.0.0.0 www.speciiperd.store
 0.0.0.0 www.specilized.com
@@ -81038,6 +81196,7 @@ youtubei.googleapis.com
 0.0.0.0 www.tatranium-ai.org
 0.0.0.0 www.tatranziskovintrade.com
 0.0.0.0 www.tattnexa.tattoo
+0.0.0.0 www.tattooshaha.info			# Facebook trojan
 0.0.0.0 www.tattooshaha.info # Facebook trojan
 0.0.0.0 www.taupe-bag.shop
 0.0.0.0 www.tavanuzmani.net
@@ -81619,6 +81778,7 @@ youtubei.googleapis.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedailychronicle.net
 0.0.0.0 www.thedamnway.com
+0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thedatesafe.com # Facebook trojan
 0.0.0.0 www.thedatingconference.com
 0.0.0.0 www.thedominiontrade-gpt.com
@@ -81919,6 +82079,7 @@ youtubei.googleapis.com
 0.0.0.0 www.tpc.hu
 0.0.0.0 www.tpmedia.online
 0.0.0.0 www.tpyo12k-c07k.vercel.app
+0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tqlkg.com #[WebBug]
 0.0.0.0 www.tqqxdstq.shop
 0.0.0.0 www.tr-dailydeals.top
@@ -82402,6 +82563,7 @@ youtubei.googleapis.com
 0.0.0.0 www.upewnijprofil.sbs
 0.0.0.0 www.upewnijrekord24.fun
 0.0.0.0 www.upgradebasic.com
+0.0.0.0 www.upi6.pillsstore-c.com		# Facebook trojan
 0.0.0.0 www.upi6.pillsstore-c.com # Facebook trojan
 0.0.0.0 www.upk1.d9n4y6m.pics
 0.0.0.0 www.upperlensmagazine.com
@@ -82457,6 +82619,7 @@ youtubei.googleapis.com
 0.0.0.0 www.ussanlorenzo.it
 0.0.0.0 www.usunwirusa.pl
 0.0.0.0 www.uswiadomieni.pl
+0.0.0.0 www.utarget.co.uk
 0.0.0.0 www.utarget.co.uk #[utarget Ad code]
 0.0.0.0 www.utemisar.com
 0.0.0.0 www.utgzlogin.com
@@ -84933,6 +85096,7 @@ youtubei.googleapis.com
 0.0.0.0 www.zyvralen-spain.com
 0.0.0.0 www.zyvralen.sbs
 0.0.0.0 www1-van-city-signon.com
+0.0.0.0 www1.addfreestats.com
 0.0.0.0 www1.addfreestats.com #[Tracking.Cookie]
 0.0.0.0 www1.amigo2.ne.jp
 0.0.0.0 www1.bannerspace.com
@@ -85343,6 +85507,7 @@ youtubei.googleapis.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xhcly.bemobtrk.com
 0.0.0.0 xhealth.112.2o7.net
+0.0.0.0 xhealthmobiletools.112.2o7.net
 0.0.0.0 xhealthmobiltools.112.2o7.net
 0.0.0.0 xhrnfffaixawpuob.pw
 0.0.0.0 xhtmlcssexpert.com
@@ -90929,10 +91094,6 @@ youtubei.googleapis.com
 ://ww6.$denyallow=ww6.generali.pt|ww6.autotask.net|ww6.pornhoarder.org
 ://ww7.$denyallow=ww7.be|ww7.readsnk.com|ww7.autotask.net|ww7.pornhoarder.tv
 ://ww9.$denyallow=ww9.ikea.com|ww9.tiki.ne.jp|ww9.sakura.ne.jp|ww9.generali.pt|ww9.itau.com.br|ww9.autotask.net|ww9.pornhoarder.tv
-<!--
-<!DOCTYPE html>
-</html>
-<html>
 @@-ds.metric.gstatic.com^|
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
 @@/^.*(tech|project|linux).*\.top$/
@@ -91205,9 +91366,6 @@ youtubei.googleapis.com
 @@||www.googleadservices.com^|
 @@||www.jdoqocy.com^|
 @@||www.statcounter.com^|
-DRY up these templates and make 'em nice and re-usable, right?
-Hello future GitHubber! I bet you're here to remove those nasty inline styles,
-Please, don't. https://github.com/styleguide/templates/2.0
 a-9krx.shop
 a-9krx.skin
 a-apcoa.top
@@ -155753,7 +155911,6 @@ i8ejqr.cfd
 i9.clientreport.info
 i9b.ht9hen.casa
 i9twqk.cfd
-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">
 ia.edccfvf.cyou
 ia.fsddert.cyou
 ia.govafxb.autos
@@ -247962,8 +248119,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||00ef400e98.3a1ebd5d26.com^
 ||00f031b898.com^
 ||00f8c4bb25.com^
-||00freehost.com^
-||00freeweb.com^
 ||00fun.com^
 ||00go.com^
 ||00hq.com^
@@ -247996,6 +248151,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||0123movie.onl^
 ||0123movie.stream^
 ||0123movie.ws^
+||0123movie1.net^
 ||0123movies-official.lol^
 ||0123movies-tv.com^
 ||0123movies.art^
@@ -248264,7 +248420,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||0582559570.com^
 ||05867500b2.7a28c1843f.com^
 ||058d79990c.com^
-||0592.mobi^
 ||05951bf6a3.com^
 ||0597kk.com^
 ||0597qc.com^
@@ -248565,7 +248720,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||0ca13d8a72.com^
 ||0ca389b6d3.com^
 ||0ca5b8dbfd.com^
-||0catch.com^
 ||0cbf3b6aac.com^
 ||0cc3d4qkqm3c.com^
 ||0cc9ed5f1c.com^
@@ -248767,7 +248921,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||0ln.io^
 ||0lsj2w-cdn-settings.appsflyersdk.com^
 ||0m4.ru^
-||0m9mjmrd.top^
 ||0mag.net^
 ||0magnet.com^
 ||0maill.com^
@@ -248847,7 +249000,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||0se.co^
 ||0second.com^
 ||0sercher.biz^
-||0sg1gx04is.com^
 ||0sntp7dnrr.com^
 ||0soap2day.com^
 ||0soap2day.day^
@@ -249102,12 +249254,10 @@ zzzzzzzkplpllllpppllpppl.com
 ||100daysoftrailhead.com^
 ||100down.org^
 ||100free.com^
-||100freemb.com^
 ||100freeonlinetools.vercel.app^
 ||100hit.ru^
 ||100k4yo.netlify.app^
 ||100level.store^
-||100megsfree5.com^
 ||100mountain.com^
 ||100pjob.com^
 ||100responsible.com^
@@ -249117,7 +249267,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||100urls.com^
 ||100voyeur.com^
 ||100webads.com^
-||100webspace.com^
 ||100widgets.com^
 ||100x100tondo.com^
 ||100yearcorporations.com^
@@ -250516,7 +250665,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||125700.shop^
 ||1258perabet.com^
 ||125be32b70.41dd0654dd.com^
-||125mb.com^
 ||126-new.weebly.com^
 ||126.am^
 ||126e24d4f9.com^
@@ -250823,7 +250971,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||1503c1efef.com^
 ||15052233.com^
 ||150791bf69.com^
-||150m.com^
 ||151.236.60.142^
 ||151.243.18.53^
 ||151.77.100.133^
@@ -251403,7 +251550,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||1abb98311a.com^
 ||1abzar.ir^
 ||1ac45b0913.com^
-||1accesshost.com^
 ||1ad-i2h-riy-9ry-idi-x6lt8n.pages.dev^
 ||1ad.io^
 ||1adc9abfc1.com^
@@ -251545,7 +251691,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||1clickdown.com^
 ||1clickpdf.com^
 ||1clix.in^
-||1colony.com^
 ||1cont.ru^
 ||1cooldns.com^
 ||1cpbac.ru^
@@ -252070,6 +252215,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||1p.io^
 ||1p3293dngsv.dodofacile.fr^
 ||1p3opxwwet.ru^
+||1p4z8vhhfh7cymq7klu26.rest^
 ||1p81bmc2ux25lvtl3nr.rest^
 ||1p8ln1dtr.de^
 ||1pages.click^
@@ -252597,14 +252743,11 @@ zzzzzzzkplpllllpppllpppl.com
 ||20f70ba20b.com^
 ||20f866afaf.069667261e.com^
 ||20film-lordfilm.ru^
-||20fr.com^
 ||20gtw5fw.top^
 ||20images36.com^
 ||20l.ir^
 ||20l2ldrn2.de^
 ||20links.com^
-||20m.com^
-||20m.us^
 ||20maindomein-lordfilm.ru^
 ||20mbweb.com^
 ||20min.app.tamedia.click^
@@ -253226,7 +253369,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||27eae1fcb7.com^
 ||27fae19b56.com^
 ||27g.ru^
-||27gh.cc^
 ||27gmail.com^
 ||27igqr8b.de^
 ||27ocdto914.com^
@@ -253769,7 +253911,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||2ormhhabgb.com^
 ||2osb.com^
 ||2osb.com^$dnsrewrite=ad-block.dns.adguard.com
-||2osq127yy.com^
 ||2p.fm^
 ||2p1czr-cdn-settings.appsflyersdk.com^
 ||2p1czr-conversions.appsflyersdk.com^
@@ -254226,6 +254367,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||32argpb7yb73lu65gjer6kvz9.com^
 ||32azzino777.net^
 ||32c3933d3d.com^
+||32crash.com^
 ||32d1d3b9c.se^
 ||32d1ec8f45.com^
 ||32e2cd3266.com^
@@ -254994,7 +255136,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||3i22axdek.com^
 ||3i2i.com^
 ||3i3h38.hair^
-||3i3w8hl6do.com^
 ||3i44-3r1x-hp2dkz-ukhv9e-m9lpn.pages.dev^
 ||3i7bnv3bvtjo12why.cfd^
 ||3i9i83eleqz.ojrbibibynq66y58k4h4on9.cyou^
@@ -255694,7 +255835,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||45h.it^
 ||45lordfilm.lol^
 ||45tu1c0.com^
-||45yz5i35r.com^
 ||45z5vr7tzn95693xbnu8.cfd^
 ||46.101.81.149^
 ||46.fi^
@@ -255712,6 +255852,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||4632c60a96.com^
 ||4634-aanmelden.verificatie.qzz.io^
 ||4652d72053.com^
+||4653745.top^
 ||4655rife.com^
 ||4658a261f3.com^
 ||4666.co.kr^
@@ -256388,7 +256529,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||4url.cc^
 ||4uvize.com^
 ||4v4jfe79erfxfu8z8.com^
-||4v6a7i3dkz.com^
 ||4vbbb.com^
 ||4vgblq.ru^
 ||4vj1su-cdn-settings.appsflyersdk.com^
@@ -256410,7 +256550,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||4wjley-cdn-settings.appsflyersdk.com^
 ||4wjley-launches.appsflyersdk.com^
 ||4wkp5yulx18ikn.cfd^
-||4wmiuiyd70.com^
 ||4wn9om-cdn-settings.appsflyersdk.com^
 ||4wn9om-conversions.appsflyersdk.com^
 ||4wn9om-dlsdk.appsflyersdk.com^
@@ -256757,7 +256896,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||53fb-124-244-50-138.ngrok.io^
 ||53ff0e58f9.com^
 ||53gytef.top^
-||53h7rxip9.com^
 ||53kf.com^
 ||53te6r.top^
 ||53tgo97125cu66.cfd^
@@ -257104,7 +257242,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||5askdx-cdn-settings.appsflyersdk.com^
 ||5askdx-launches.appsflyersdk.com^
 ||5azc.xyz^
-||5b025cnm.top^
 ||5b0a1c63v9.com^
 ||5b0fbc938a.com^
 ||5b1569d015.com^
@@ -257365,7 +257502,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||5kflgiu.eg59mvbxykwqqf4i3x.cyou^
 ||5kjpa028wo.com^
 ||5kmovierulz.live^
-||5kmqy60r7.com^
 ||5knltyfcfy.com^
 ||5kov1f2o.xyz^
 ||5krki6n2rh.com^
@@ -257375,7 +257511,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||5l4f8bq.2lyikhpb5bigj64nj7.cyou^
 ||5ldopt-cdn-settings.appsflyersdk.com^
 ||5leosgto.xyz^
-||5lf5cujc5.com^
 ||5lordfilm-7.xyz^
 ||5lordfilm.lat^
 ||5lu8.com^
@@ -257388,7 +257523,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||5mg4gb-launches.appsflyersdk.com^
 ||5mm.zxfw5.cn^
 ||5mmovies.com^
-||5mn041cdz.com^
 ||5mn7cf73.xyz^
 ||5mno3.com^
 ||5mod.ru^
@@ -257830,7 +257964,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||6.accessbenefitscenter.com^
 ||6.gp^
 ||6.html-load.cc^
-||6.je^
 ||6.ly^
 ||6.pocketnet.app^
 ||60-fps.org^
@@ -258514,7 +258647,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||6gpwkrxh.micpn.com^
 ||6grxxoqmpc.com^
 ||6gt5ep.centerton.pl^
-||6gvg5saail.com^
 ||6gwjkl-cdn-settings.appsflyersdk.com^
 ||6gwjkl-conversions.appsflyersdk.com^
 ||6gwjkl-register.appsflyersdk.com^
@@ -258713,7 +258845,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||6s3yaq-skadsdkless.appsflyersdk.com^
 ||6s78n1rj4r.com^
 ||6s83mz9kbtrj.com^
-||6s8w2ck1g.com^
 ||6sbsw4jwjolrw3ukt68wn6qt2od4ebng.tourismo.site^
 ||6sc.co^
 ||6serial-lordfilm.ru^
@@ -258728,7 +258859,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||6t0it2.skin^
 ||6t7677t8uj.usluga.me^
 ||6tdz25urqj.com^
-||6te.net^
 ||6telax.de^
 ||6th025na2j4v.com^
 ||6tip.com^
@@ -258800,7 +258930,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||6wtznnfc58nofw166.cfd^
 ||6wu76ymne6gxq15.cfd^
 ||6wzdsf.ru^
-||6x59axt21.com^
 ||6x6iyrnym5uqpi.rest^
 ||6xaiq6-cdn-settings.appsflyersdk.com^
 ||6xaiq6-inapps.appsflyersdk.com^
@@ -258871,7 +259000,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||7-zip.com^
 ||7.07c225f3.online^
 ||7.html-load.cc^
-||7.je^
 ||7.jwclay.com^
 ||7.ly^
 ||7.pohmg9cfe3yier7.cyou^
@@ -259167,7 +259295,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||7663a48aa7.com^
 ||766411a9ee.com^
 ||766935bca8.com^
-||766lnwfo7h.com^
 ||7675fc26f4.com^
 ||7677b41a02.com^
 ||767d.site^
@@ -259256,7 +259383,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||77tracking.com^
 ||77uam.com^
 ||77unishop.com^
-||77v6jk9itk.com^
 ||77win-vn.xyz^
 ||77wye93uy1.com^
 ||77zdmt8yq.com^
@@ -259834,7 +259960,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||7qnbtdi.weebly.com^
 ||7qpkf7-cdn-settings.appsflyersdk.com^
 ||7qpkf7-launches.appsflyersdk.com^
-||7qxv9s5q16.com^
 ||7r4jkbpol.com^
 ||7r7h.shop^
 ||7raleu-cdn-settings.appsflyersdk.com^
@@ -260559,7 +260684,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||8bd6421c3f.com^
 ||8bdb50ad69.com^
 ||8bfc9cbcbe.com^
-||8bnouo6r6.com^
 ||8bongda.com^
 ||8bsl.com^
 ||8c0afb75cd.com^
@@ -260591,7 +260715,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||8chuyenphongthe.com^
 ||8cj70f905.com^
 ||8cjk04e7sb.com^
-||8clkggoo62.com^
 ||8cmfzco0.micpn.com^
 ||8cnd.com^
 ||8cpyyw-cdn-settings.appsflyersdk.com^
@@ -260909,7 +261032,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||8t.wf^
 ||8t421f.ru^
 ||8tb11bh7ig8wpufwrt6zb8torymq1b1xp.cfd^
-||8tbllquzr6.com^
 ||8tjomzqlw.com^
 ||8tm.net^
 ||8tnart-cdn-settings.appsflyersdk.com^
@@ -260962,7 +261084,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||8wvb8xoqgq.com^
 ||8ww0r-ujbbr-j76ed-u1hr44.pages.dev^
 ||8x14khzwmi.com^
-||8x5vviy4r2.com^
 ||8x919j7l2l.com^
 ||8xb3njrjigxhge9q9mp2.cfd^
 ||8xbetcr7.com^
@@ -260974,7 +261095,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||8xt2mqv.skin^
 ||8xykxu7.jfgrpuy5f326nlcovcg.cyou^
 ||8ya9li3d2g.com^
-||8yd2rtikkz.com^
 ||8ygu.xyz^
 ||8yo772d29.com^
 ||8yqqgn5g.xyz^
@@ -261183,7 +261303,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||92e6136b5d.com^
 ||92e703f830.com^
 ||92fc998471.com^
-||92hjv5r20.com^
 ||92kvgl8w8vc1gxl1fiw3thhxww235ri8cl5wm.rest^
 ||92mim.com^
 ||92orb.com^
@@ -261331,7 +261450,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||95gf4i15ntjp.chc294ry22iru14mx2r3w6h.cyou^
 ||95gmail.com^
 ||95instances.net^
-||95k62nnvnh.com^
 ||95ktftpt6.com^
 ||95mobi.com^
 ||95movp.com^
@@ -261929,7 +262047,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||9l4i9edu.top^
 ||9l5ss9l.de^
 ||9l7uxfwrfx4quhptz1nbixqekl32i.rest^
-||9l9ck7mdd2.com^
 ||9levl1.ru^
 ||9li36j-uw1wg-sl6j-mwip8-9apqdw.pages.dev^
 ||9lick.me^
@@ -262617,7 +262734,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||a.rocoads.net^
 ||a.rohde-schwarz.com.cn^
 ||a.rohde-schwarz.com^
-||a.rs6.net^
 ||a.rule34.porn^
 ||a.rutube.ru^
 ||a.sakh.com^
@@ -262925,7 +263041,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||a2255d1d36.com^
 ||a23-trk.xyz^
 ||a240878707.com^
-||a2424xe80.com^
 ||a24513fed8.com^
 ||a24help.ru^
 ||a25hotel.com^
@@ -276720,7 +276835,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||afrifoot.fr^
 ||afrikad.com^
 ||afrinews.co.za^
-||afrivryheidx-ai.com^
+||afrinxtgroup.com^
 ||afrkotdr.com^
 ||afrlodurf.com^
 ||afrmaps.com^
@@ -278547,6 +278662,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||akfacewq.eit.edu.au^
 ||akfhexnpf.com^
 ||akftqsaedhfqt.space^
+||akfydyrsrflxo.space^
 ||akfzziowsd.in^
 ||akgi45sas.jp^
 ||akgnwd.tocris.com^
@@ -290771,14 +290887,12 @@ zzzzzzzkplpllllpppllpppl.com
 ||angelcamddns.com^
 ||angelcarrysideways.com^
 ||angelcindy.com^
-||angelcities.com^
 ||angeldisastrouspersonify.com^
 ||angelenita.com^
 ||angelesfoldingpatsy.com^
 ||angelesgrinddetector.com^
 ||angelesperiod.com^
 ||angelferno.gitbook.io^
-||angelfire.com^
 ||angelfish.dpya.com^
 ||angelfish.grayscale.design^
 ||angelfish.shorehamlife.com^
@@ -291429,6 +291543,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||annualunion.com^
 ||annubbele-lordfilm.ru^
 ||annubbele-lordfilms.ru^
+||annuitydizzygangway.com^
 ||annulargulleys.com^
 ||annulation-fnac.connexion-files.de^
 ||annulation-souscription-prime.com^
@@ -292001,7 +292116,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ao1jtlos.xyz^
 ||ao2doihore.com^
 ||ao3-news.org^
-||ao5yygeilh.com^
 ||ao62tb-launches.appsflyersdk.com^
 ||aoa.demdex.net^
 ||aoabt4trk.com^
@@ -295234,7 +295348,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||app.linkila.com^
 ||app.linkpod.co^
 ||app.livechatoo.com^
-||app.loanspq.com^
 ||app.log.nf.migu.cn^
 ||app.logz.io^
 ||app.longbeachstate.com^
@@ -296610,7 +296723,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||aqwlfirubpuk.in^
 ||aqwrepomnvdfr.weebly.com^
 ||aqwvwn.cultfurniture.com^
-||aqxh9x1o7m.com^
 ||aqyad.com^
 ||aqzkl.ergopouch.com^
 ||aqznjxhjdrrkm.space^
@@ -305429,7 +305541,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||bapouwoakoa.net^
 ||bapp.netlink-connect.com^
 ||bappaads.com^
-||bappy.com^
 ||baps.assistenzarecapiti.workers.dev^
 ||baptiseburrer.cyou^
 ||baptismdesired.com^
@@ -305450,7 +305561,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||baqsjlfdaorou.space^
 ||baqtxlxxvtnwx.online^
 ||baquehottinguer.com^
-||baqwo74y8.com^
 ||bar*.shinobi.jp^
 ||bar-odin-zvonok-lordfilm.rest^
 ||bar-odin-zvonok-lordfilm.ru^
@@ -305618,6 +305728,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||baronypunjum.shop^
 ||barosearch.com^
 ||barounipheon.cfd^
+||barqemu.shop^
 ||barqmajk.com^
 ||barqueue.com^
 ||barrackmuppetunhealthy.com^
@@ -311807,11 +311918,9 @@ zzzzzzzkplpllllpppllpppl.com
 ||biz-fakt.ru^
 ||biz.coface.com^
 ||biz.gexing.com^
-||biz.ly^
 ||biz.ps^
 ||biz.solar^
 ||biz.st^
-||biz.tc^
 ||biz.thebizrebelution.com^
 ||biz.tm^
 ||biz.varzesh3.com^
@@ -312121,6 +312230,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||bksn.se^
 ||bksoup.v.qq.com^
 ||bkstwfdfozser.site^
+||bkt.clouddn.com^
 ||bktgg.catoriclothing.com^
 ||bktmsst.baktoma.sk^
 ||bktpcross.com^
@@ -312508,6 +312618,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||bleakerdet.cyou^
 ||bleandworldw.org^
 ||blearyganevreveler.cfd^
+||bleatedgeek.com^
 ||bleaterpolys.com^
 ||bleatstringinch.com^
 ||bleawwsm.com^
@@ -312635,7 +312746,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||blinksbobblepadding.com^
 ||blinktowel.com^
 ||blinkurls.com^
-||blinkweb.com^
 ||blinq.me^
 ||blintzehouser.qpon^
 ||blip.tv^
@@ -313055,7 +313165,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||blowsyincend.shop^
 ||blowsystamba.cyou^
 ||bloxa.net^
-||bloxlink.gr^
 ||bloxplay.com^
 ||bloxshade.net^
 ||bloxshade.org^
@@ -313452,7 +313561,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||blutrk.click^
 ||bluttestzuhause.com^
 ||bluvenie.com^
-||bluza3d.pl^
 ||blvdstatus.com^
 ||blwadijbvbttx.space^
 ||blwarp.wigsdo.com^
@@ -314142,7 +314250,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||boewoy-kontinent-lordfilme.ru^
 ||boewoy-kontinent2-lordfilme.ru^
 ||boewzj.meiji-jisho.com^
-||bof8804jn.com^
 ||bofa.com-onlinebanking.com^
 ||bofa.demdex.net^
 ||bofa.inq.com^
@@ -314844,6 +314951,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||boomtrain.com^
 ||boondock-saints-lordfilm.cam^
 ||boondocksflaskvendor.com^
+||boonkpierian.cyou^
 ||boonovel.com^
 ||boonsex.com^
 ||booonoboo00150.firebaseapp.com^
@@ -315458,7 +315566,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||boxlikesedativespinach.com^
 ||boxloadpallet.com^
 ||boxlpgpvsapal.site^
-||boxmail.biz^
 ||boxmode.io^
 ||boxmoviez.com^
 ||boxo-search.com^
@@ -315670,7 +315777,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||bptibdkuxvrxg.space^
 ||bpu.samsungelectronics.com^
 ||bpucmkg.com^
-||bpuvuun0xg.com^
 ||bpvoctpvauvyv.website^
 ||bpvou.hotelcollection.co.za^
 ||bpwmfh.backmarket.be^
@@ -316337,6 +316443,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||braveryfeed.com^
 ||braveryhandsomeincline.com^
 ||braveryriftraining.com^
+||braveti.shop^
 ||bravia-cfgdst-ore-pro.bda.ndmdhs.com^
 ||bravia.dl.playstation.net^
 ||braviamarket.com^
@@ -316551,6 +316658,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||brekkychukars.cyou^
 ||brekles23.outgrow.us^
 ||brekus.org^
+||breluno.shop^
 ||brem-stoker-lordfilme.ru^
 ||bremberbiaural.cfd^
 ||bremenskie-muzykanty-film-lordfilm.ru^
@@ -316763,7 +316871,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||bridgehub.zapier.app^
 ||bridgelabs.kr^
 ||bridgelearn.wixstudio.com^
-||bridgemarkets.org^
 ||bridgemastersllc.com^
 ||bridgeoos.com^
 ||bridgeroad.maverickpreviews.com^
@@ -317066,7 +317173,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||brivalfin-invest.com^
 ||brivani.com.br^
 ||brivola.net^
-||brivuna.shop^
 ||brixena.cfd^
 ||brixura1234.net^
 ||brizaazofier.shop^
@@ -318314,7 +318420,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||bu1.duba.com^
 ||bu1.vvvdj.com^
 ||bu1jw93q1l.com^
-||bu2kak23b.com^
 ||bu66.com^
 ||bu7yx7-cdn-settings.appsflyersdk.com^
 ||bu7yx7-inapps.appsflyersdk.com^
@@ -318770,6 +318875,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||bullyinganywhereinformant.com^
 ||bullymockerycommercial.com^
 ||bullystubborn.com^
+||bulmaki.shop^
 ||bulmp3.com^
 ||bulochka.xyz^
 ||bulozc.tui.be^
@@ -319246,6 +319352,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||butchersi-lordfilm.ru^
 ||butcherso-lordfilm.ru^
 ||butchestusker.com^
+||butcornyyet.com^
 ||buteegch.mn^
 ||butenebontee.top^
 ||buthawk.com^
@@ -319889,15 +319996,10 @@ zzzzzzzkplpllllpppllpppl.com
 ||byescrollnitrogen.com^
 ||byestar.com^
 ||byet.org^
-||byethost.com^
 ||byethost11.com^
-||byethost12.com^
 ||byethost13.com^
 ||byethost14.com^
-||byethost17.com^
 ||byethost18.com^
-||byethost3.com^
-||byethost31.com^
 ||byethost4.com^
 ||byethost41.net^
 ||byethost41.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -320106,6 +320208,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||byxueqlbopuwx.com^
 ||byxugdfmltqgp.space^
 ||byyngjmjklbob.top^
+||byzacmjg.shop^
 ||byzantoutride.cfd^
 ||byzantsperoxid.qpon^
 ||byzg.org^
@@ -321642,6 +321745,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||calmcactus.com^
 ||calmcloudstone.com^
 ||calmdetox-shop.com^
+||calmertryt.com^
 ||calmestbowery.qpon^
 ||calmfieldwalk.com^
 ||calmfoot.com^
@@ -321687,7 +321791,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||calyclirouth.cfd^
 ||calyondiffuse.com^
 ||calyoninstrbunko.qpon^
-||calypallum.store^
 ||calypsocapsule.com^
 ||calyxesdefames.com^
 ||calyxesmailie.cyou^
@@ -322890,7 +322993,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||capital.one^
 ||capital888.net^
 ||capitalcourtage.com^
-||capitaledge-ai.com^
 ||capitalequity-markets.com^
 ||capitalexpressmetatrade.net^
 ||capitalfm.co^
@@ -323889,7 +323991,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||cashtrk.com^
 ||cashtube.ru^
 ||cashurl.win^
-||cashvib.com^
 ||casian.club^
 ||casilaman.com^
 ||casinacho-online.de^
@@ -324343,7 +324444,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||caubeenbolted.com^
 ||caublarlpwmsn.site^
 ||caucuscotch.shop^
-||caudalenceai.com^
 ||caudataolibene.com^
 ||caudexintrine.com^
 ||cauditcommernal.com^
@@ -324417,6 +324517,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||cavalryimage.com^
 ||cavalryspruce.com^
 ||cavatesignory.cfd^
+||cavdeli.shop^
 ||cavdiacameistsnapped.cfd^
 ||cave9tape.com^
 ||cavecurtain.com^
@@ -324898,7 +324999,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||cc1063ceba.com^
 ||cc13.cn^
 ||cc176a49cd.com^
-||cc1ej6d0e.com^
 ||cc28012.tw1.ru^
 ||cc33b86bbf.com^
 ||cc38229b6c.com^
@@ -326694,7 +326794,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||cenatrix.com^
 ||cenbrandlab.acspubs.org^
 ||cendantofthen.org^
-||cendekiasahamarta.net^
 ||cendura.de^
 ||cenfotecmemorygame.firebaseapp.com^
 ||cenfotecmemorygame.web.app^
@@ -329613,7 +329712,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||cia.sh^
 ||ciac.me^
 ||ciacervidperoxyl.cyou^
-||ciajifmfsp.com^
 ||ciaju.replacements.com^
 ||ciakkaliaw.me^
 ||cialis-online20mg.online^
@@ -330370,6 +330468,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||cisse-ec919.web.app^
 ||cissydhole.cyou^
 ||cistorigestae.shop^
+||cistronawn.qpon^
 ||cistronbrasen.shop^
 ||cisyxmahhotxf.site^
 ||cit-cli-metrics.appspot.com^
@@ -330636,7 +330735,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||cjok.net^
 ||cjpccsnjqxbwf.site^
 ||cjpeiq.rmgbuyukbeden.com^
-||cjphjf4zm.com^
 ||cjpowered.com^
 ||cjqkuylhdkthgg.com^
 ||cjqnkzqlwetrd.website^
@@ -330702,7 +330800,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ck28b4tzqbbgw1.cfd^
 ||ck33.top^
 ||ck444app.net^
-||ck4g3p2x92.com^
 ||ck4hkyq3myt6.com^
 ||ck7uo6g36.com^
 ||ckaibkxlldgui.site^
@@ -331762,6 +331859,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||click.rustore.ru^
 ||click.scour.com^
 ||click.searchnation.net^
+||click.shootproof.com^
 ||click.socialsecurityupdate.org^
 ||click.spe.ometria.email^
 ||click.stg-transactions.canadapost-postescanada.ca^
@@ -334674,7 +334772,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||coinup.org^
 ||coinurl.com^
 ||coinverti.com^
-||coinvoria95.com^
 ||coinvoro.com^
 ||coinwallet.biz^
 ||coinwebmining.com^
@@ -335757,7 +335854,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||com.fail^
 ||com.gardio.se^
 ||com.nexus-my.com^
-||com.nu^
 ||com.obs.cn-north-1.myhuaweicloud.com^
 ||com.serveo.net^
 ||com.tr.ht^
@@ -335921,7 +336017,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||comeurged.com^
 ||comexchamber.com^
 ||comexpartners.com^
-||comeze.com^
 ||comfastwifi.com^
 ||comfie.de^
 ||comfinitydesk.weebly.com^
@@ -335990,9 +336085,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||comixology.eu^
 ||comkp.org^
 ||comldr-exchange.com^
-||comli.com^
 ||comlquina.com^
-||comlu.com^
 ||comm.app.autohome.com.cn^
 ||commaeagermonkey.com^
 ||command-f.com^
@@ -336233,7 +336326,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||como-encontrar.com^
 ||como.com^
 ||comoideludes.shop^
-||comoj.com^
 ||comournlighten.shop^
 ||comoutlook.com^
 ||comp-vab.firebaseapp.com^
@@ -336500,8 +336592,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||comtelitalia.alcatel-lucent.com^
 ||comtinue-to-bex-next.weebly.com^
 ||comtrks.com^
-||comuf.com^
-||comule.com^
 ||comumvidros.com.br^
 ||comunicacion.usj.es^
 ||comunicacioncorporativa.moctezuma.com.mx^
@@ -336513,14 +336603,11 @@ zzzzzzzkplpllllpppllpppl.com
 ||comunidadbondage.com^
 ||comunidadwarezpirata.com^
 ||comusstacketsobful.cfd^
-||comuv.com^
 ||comves.icu^
 ||comvng.com^
 ||comxa.com^
 ||comxfuwoj.weebly.com^
 ||comxvideos.com^
-||comyr.com^
-||comze.com^
 ||con-air-lordfilm.sbs^
 ||con-ip.com^
 ||con.earthsync.shop^
@@ -338995,7 +339082,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||corantotailagedogtie.qpon^
 ||corapeacoat.com^
 ||corbedpeckers.com^
-||corbettstudios.com^
 ||corbid-refund-portal-mzmt.bolt.host^
 ||corbina.ru^
 ||corbinatoda.cfd^
@@ -341488,7 +341574,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||cressforhowcoree.cyou^
 ||crestedherselfwoven.com^
 ||crestedsibylstopper.qpon^
-||crestequilombry.net^
 ||crestfidubank.com^
 ||crestmedia.g2afse.com^
 ||crestolaven.com^
@@ -343511,7 +343596,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||curlycannon.com^
 ||curlyhabiru.click^
 ||curlyrice.com^
-||curnavi.shop^
 ||curnberthed.com^
 ||curneyminks.cyou^
 ||curneyraggles.com^
@@ -345489,7 +345573,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||d0f.le-dauphin.com^
 ||d0f9347881.com^
 ||d0i5db8gp.com^
-||d0i8m5ddv6.com^
 ||d0ma1no5.xyz^
 ||d0main.ru^
 ||d0mss2497r.cfd^
@@ -347264,7 +347347,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||d7w6tvhhww.com^
 ||d7x5nblzs94me.cloudfront.net^
 ||d7ynwsj5l.com^
-||d7ytrv7yxa.com^
 ||d8.sina.com.cn^
 ||d8.sinaimg.cn^
 ||d80.ir^
@@ -347405,7 +347487,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||da.packyourbags.ai^
 ||da.rabobank.nl^
 ||da.rosrabota.ru^
-||da.ru^
 ||da.rus-atlas.ru^
 ||da.sat-gruppe.com^
 ||da.schwabenholz.net^
@@ -348393,7 +348474,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||dapxl.com^
 ||daq0d0aotgq0f.cloudfront.net^
 ||daqmuri-mpt-zelqavo-r9d5ka42.pages.dev^
-||daqnetgw.com^
 ||daque.cn^
 ||daqvbr-cdn-settings.appsflyersdk.com^
 ||daqzelo-mpt-vurqeni-r8x6me53.pages.dev^
@@ -355410,7 +355490,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ddroid509h.firebaseapp.com^
 ||ddroid509h.web.app^
 ||ddrqaq.superkul.no^
-||ddrqd9eox.com^
 ||ddrsemxv.com^
 ||ddrvjrfwnij7n.cloudfront.net^
 ||dds-lordfilms.ru^
@@ -357334,6 +357413,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||derningparodus.qpon^
 ||derningthunor.cyou^
 ||dernovichfineart.com^
+||dernsulcate.qpon^
 ||derodetains.qpon^
 ||derokas.com^
 ||derosehealth-trk.com^
@@ -357462,7 +357542,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||designatshop.com^
 ||designbyclaudia.com^
 ||designbycodo.wixstudio.com^
-||designcarthosting.com^
 ||designcommerce.agency^
 ||designdecor.store^
 ||designdew.com^
@@ -357881,7 +357960,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||deutsche-solarunion.de^
 ||deutsche-warentests.de^
 ||deutsche-wurst-manufaktur.com^
-||deutscheai.net^
 ||deutschebahn.sc.omtrdc.net^
 ||deutschebapotheke.net^
 ||deutschechic.de^
@@ -358788,7 +358866,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||dhdaa.duke.edu^
 ||dhddv.rarevinyl.com^
 ||dhdebdmvzljbk.site^
-||dhduc.com^
 ||dhe.one^
 ||dheavkajrxr.in^
 ||dheblxw.com^
@@ -359267,6 +359344,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||dicegames.eu^
 ||dicehatch.com^
 ||diceknob.com^
+||dicenoi.com^
 ||diceresembleshudder.com^
 ||dicesstipo.com^
 ||dich-vu-dien-mayxanh.com^
@@ -360260,6 +360338,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||dipwaretraikykohemp.cfd^
 ||dipwsxfgtliob.online^
 ||dipylontheriac.cfd^
+||diqamvrcqyonxt.com^
 ||diqartxheos.com^
 ||diqftdf1fp8u.cloudfront.net^
 ||diqjitlusjki.com^
@@ -363505,7 +363584,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||dohxgyjobgzfb.website^
 ||doi.mybluehost.me^
 ||doieng.shop^
-||doikeubbio.store^
 ||doile378vtt.com^
 ||doingsupposing.com^
 ||doingthinningwizard.com^
@@ -363836,7 +363914,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||domashniy-arest-serial-lordfilm.ru^
 ||domatin.com^
 ||dombnrs.com^
-||dombrix.shop^
 ||domdata.ru^
 ||domdex.com^
 ||domdog.io^
@@ -363847,6 +363924,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||domechemist.com^
 ||domeclosureassert.com^
 ||domelus.de^
+||domena2838428.mom^
 ||domengame.com^
 ||domerencontre.com^
 ||domertb.com^
@@ -364168,7 +364246,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||doodistroam.shop^
 ||doodleanyone.com^
 ||doodlegrainwork.com^
-||doodlekit.com^
 ||doodlesunshinecamp.com^
 ||doodmovies.com^
 ||doodmv.com^
@@ -364493,7 +364570,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||doreczenieadres.today^
 ||doreczeniepocztex.today^
 ||doremido.com^
-||dorevakelnorpro.com^
 ||dorfmeyster.media^
 ||dorgnh.icu^
 ||dorianneartstore.com^
@@ -364658,7 +364734,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||dotedwiikite.com^
 ||dotersstums.com^
 ||dotherteacake.shop^
-||dothome.co.kr^
 ||dotierkui.shop^
 ||dotinapp.com^
 ||dotingkiss.pro^
@@ -364788,7 +364863,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||douxflirt.com^
 ||douxreve.com^
 ||douyin.team^
-||dovaluesa.net^
 ||dove-void-pave.xyz^
 ||dove.hoku.nz^
 ||dove.xueqiu.com^
@@ -364807,6 +364881,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||dovod-serial-lordfilm.ru^
 ||dovod-smotret-lordfilm.ru^
 ||dovodd-lordfilm.ru^
+||dovrali.shop^
 ||dovrri-cdn-settings.appsflyersdk.com^
 ||dovrri-conversions.appsflyersdk.com^
 ||dovrri-launches.appsflyersdk.com^
@@ -365563,7 +365638,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||dr-strangez-lordfilm.ru^
 ||dr-usp.firebaseapp.com^
 ||dr-usp.web.app^
-||dr.ag^
 ||dr.api.useinsider.com^
 ||dr.federconsulting.com^
 ||dr.flipme.info^
@@ -365584,7 +365658,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||dr6.biz^
 ||dr6su5ow3i7eo.cloudfront.net^
 ||dr6vcclmzwk74.cloudfront.net^
-||dr7dsx6u9.com^
 ||dr8pk6ovub897.cloudfront.net^
 ||dra.amazon-adsystem.com^
 ||dra.com.ve^
@@ -365900,7 +365973,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||dreamsoppressive.com^
 ||dreamsresponsibilitybum.com^
 ||dreamssg.com^
-||dreamstation.com^
 ||dreamstee.com^
 ||dreamstees.com^
 ||dreamsyoulove.com^
@@ -365965,7 +366037,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||drelkuvizen.com^
 ||drelkuvizen.net^
 ||drellaerie.com^
-||dreluno.shop^
 ||dremdwbfeofrb.site^
 ||dremllove.com^
 ||dremlloves.com^
@@ -366111,7 +366182,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||driveeliteparts.com^
 ||drivegnaw.com^
 ||drivegoodwheels.com^
-||drivehq.com^
 ||driveloc.com.br^
 ||drivemotors.com^
 ||drivenationvelocity.autos^
@@ -367979,6 +368049,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||duresborrelstaved.qpon^
 ||duresspanful.cfd^
 ||duretnitriry.cyou^
+||durevik.shop^
 ||durezzacrowns.com^
 ||durezzakobieddaic.qpon^
 ||durgapurgovtcollege.org^
@@ -368706,7 +368777,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||dxiodc-inapps.appsflyersdk.com^
 ||dxiodc-launches.appsflyersdk.com^
 ||dxirl.com^
-||dxix.cn^
 ||dxizep.liniilubvi.ru^
 ||dxj6cq8hj162l.cloudfront.net^
 ||dxk5g04fo96r4.cloudfront.net^
@@ -370543,7 +370613,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||easyformsonline.co^
 ||easyformstoday.com^
 ||easyfrag.org^
-||easyfreehosting.com^
 ||easyfyme.com^
 ||easygalfby.com^
 ||easygamepromo.com^
@@ -371220,7 +371289,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ecarte-medicale.com^
 ||ecb.hextom.com^
 ||ecbmhd.beautopia.com.au^
-||ecbwemnff3.com^
 ||ecc9c1d238.com^
 ||eccbb.com^
 ||eccentricchronic.com^
@@ -371385,6 +371453,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ecohabitsy.com^
 ||ecohubfast.com^
 ||ecolas.eu^
+||ecole-saint-simon.net^
 ||ecoledlightdepot.com^
 ||ecologiants.org^
 ||ecologicalfuneral.com^
@@ -371477,7 +371546,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ecqph.com^
 ||ecqwmhtxjwahw.online^
 ||ecra.se^
-||ecrater.com^
 ||ecread.com^
 ||ecreify.com^
 ||ecresaertube.vercel.app^
@@ -372126,6 +372194,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||edqcwkyitviom.space^
 ||edqf.info^
 ||edqmrt.spinlife.com^
+||edqugeczobhjz.space^
 ||edqwztrptkdna.online^
 ||edrakiber.com^
 ||edralintheirbrigh.com^
@@ -372701,7 +372770,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||efsuoodjpyxew.space^
 ||efsy7b1x6.com^
 ||eftbotte.com^
-||eftd.cn^
 ||eftherfi.org^
 ||efthjcbyvbhci.space^
 ||eftrksecure.com^
@@ -373280,6 +373348,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ejevika.com^
 ||ejexgcirsdwvx.online^
 ||ejf8rjks.com^
+||ejfiynnbu.com^
 ||ejfmnj.drcomfort.com^
 ||ejfstrkmgwrql.site^
 ||ejfuh.com^
@@ -373855,7 +373924,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||elementarysinger.com^
 ||elementaryt.com^
 ||elementfleet51.net.mydays.de^
-||elementfx.com^
 ||elementingstore.firebaseapp.com^
 ||elementingstore.web.app^
 ||elementmuchseal.mom^
@@ -374319,6 +374387,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||elq.signals.fr^
 ||elq.utas.edu.au^
 ||elqact.gartner.com^
+||elqano.shop^
 ||elqapp.clevelandbrowns.com^
 ||elqapp.spectrum.com^
 ||elqforms.qnx.com^
@@ -377732,7 +377801,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||error.taobao.com.danuoyi.tbcache.com^
 ||error.videonow.ru^
 ||error403.xyz^
-||errorartisticmanslaughter.com^
 ||errorception.com^
 ||errordomain.com^
 ||errorlog.sobot.com^
@@ -378881,7 +378949,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||eu.groupondata.com^
 ||eu.healthyhappy.de^
 ||eu.ironmountain.com^
-||eu.ki^
 ||eu.kinggroup.buzz^
 ||eu.makeforms.io^
 ||eu.market-place.su^
@@ -378911,7 +378978,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||eu3.device-api.indigitall.com^
 ||eu49r5rrpo9u1cfg9gbf2p5krcoj.cfd^
 ||eu5.net^
-||eu5.org^
 ||eu52jz9y1o2mju4rizc.cfd^
 ||eu5b3bzx51zgyr.f3r4hbt4lli8eiuo99g2x.cyou^
 ||eu5v4zpuyxnr55.cfd^
@@ -382025,7 +382091,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ez-dns.com^
 ||ez-ip.net^
 ||ez-sexxx.com^
-||ez-sites.ws^
 ||ez1.cc^
 ||ez1meqtpxut4j97.cfd^
 ||ez2q38b1ik.com^
@@ -382776,7 +382841,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||fableundone.cfd^
 ||fablewoodland.com^
 ||faboo78.github.io^
-||fabowin.com^
 ||fabric-analytics.com^
 ||fabric.io^
 ||fabricatem.com^
@@ -383254,7 +383318,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||fahrzeugscanner24.de^
 ||fahrzeugteile-shop.com^
 ||fahrzeugvergabe.de^
-||fahwlqf37l.com^
 ||fai.mybluehost.me^
 ||faiamyzdeek.com^
 ||faibl.org^
@@ -383409,7 +383472,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||falconflanks.com^
 ||falcongreen.com^
 ||falconstreams.org^
-||falcontradingai.net^
 ||falcopartners.com^
 ||falcopeacing.com^
 ||falcoware.com^
@@ -384032,6 +384094,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||farukkeyshop.thekeyshopbd.com^
 ||faruq.boxmode.io^
 ||faruvclight.com^
+||farvuni.shop^
 ||fasadkrov.ru^
 ||fascespro.com^
 ||fascespro.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -384997,7 +385060,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||fcount-api.webapp.163.com^
 ||fcount-api.webapp.easebar.com^
 ||fcp.codes^
-||fcpages.com^
 ||fcpeylkojizxb.online^
 ||fcpic.nesbbs.com^
 ||fcpomkzxamary.space^
@@ -386976,6 +387038,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||files.aboutads.info^
 ||files.bz^
 ||files.csr11.net.anwalt.de^
+||files.emailmeform.com^
 ||files.info.posteitaliane.it^
 ||files.jb51.net^
 ||files.ohmy.bid^
@@ -388460,7 +388523,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||finy.me^
 ||finya.de^
 ||finzanzonline.com^
-||finzy0-occaecati97.sbs^
 ||fiocchidiriso.com^
 ||fionadiamonds.com^
 ||fionagary.com^
@@ -390279,7 +390341,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||flpl.us^
 ||flpwto.lohaco.jp^
 ||flq.us^
-||flqa83yic.com^
 ||flqjc.wearmntd.ca^
 ||flqvddcgjvsma.space^
 ||flr.mybluehost.me^
@@ -391389,6 +391450,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||fogatoshop.com^
 ||fogbankquaters.cyou^
 ||fogcounsellor.com^
+||fogegtcddjlsi.site^
 ||foggedbank.com^
 ||foggilysmearer.shop^
 ||foggycrest91.online^
@@ -391508,6 +391570,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||followdz.com^
 ||followerattachment.com^
 ||followercounter.com^
+||followerspromotion.com^
 ||followerstared.com^
 ||followexciton.com^
 ||followfarrow.com^
@@ -392204,7 +392267,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||formula.caravanbd.com^
 ||formula1-lordfilm2.ru^
 ||formula1stream.cc^
-||formulacapitalai.com^
 ||formulaire-mon-espace.com^
 ||formulaire.lecnfpt.fr^
 ||formulamonkey.com^
@@ -393080,7 +393142,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||fqohhxqhsyeri.site^
 ||fqoncscqpnypa.online^
 ||fqosmc.yoderleather.com^
-||fqoybwos7f.com^
 ||fqppgv.cheapoair.com^
 ||fqpwvcgctwjlo.online^
 ||fqpxzr.xyz^
@@ -393188,7 +393249,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||fr-telegren.org^
 ||fr-ulysinformations.fr^
 ||fr.adpinfo.com^
-||fr.am^
 ||fr.bebelelo.com^
 ||fr.blogs.cam4.com^
 ||fr.bouvard-fleurs.ch^
@@ -393203,7 +393263,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||fr.gp^
 ||fr.investigram.com^
 ||fr.kiplar.com^
-||fr.nf^
 ||fr.nielsennetpanel.com^
 ||fr.puprime.net^
 ||fr.resolver.msg.global.xiaomi.net^
@@ -393722,7 +393781,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||freecoursesonline.me^
 ||freecrackpatch.com^
 ||freecreampietoons.com^
-||freecyberzone.com^
 ||freecztorrent.eu^
 ||freedailyiptv.com^
 ||freedailymanualstab.com^
@@ -393853,7 +393911,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||freehost.ag^
 ||freehostedscripts.net^
 ||freehoster.ch^
-||freehostia.com^
 ||freehosting.cc^
 ||freehostingcloud.com^
 ||freehostingking.com^
@@ -393872,7 +393929,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||freeipapi.com^
 ||freeipstress.com^
 ||freeiptvserver.com^
-||freeiz.com^
 ||freejoomlatemplatez.com^
 ||freekacoupons.com^
 ||freeknot-norm.xyz^
@@ -393950,7 +394006,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||freenom.link^
 ||freenortonsecurity.com^
 ||freenouttorn.cfd^
-||freeoda.com^
 ||freeofferdeals.com^
 ||freeoldies.com^
 ||freeomovie.info^
@@ -394003,7 +394058,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||freeseem.com^
 ||freeserials.com^
 ||freeservehubzone.com^
-||freeservers.com^
 ||freesexmatch.com^
 ||freesexmessaging.com^
 ||freeshare.link^
@@ -394061,10 +394115,8 @@ zzzzzzzkplpllllpppllpppl.com
 ||freetubespot.com^
 ||freeturts.weebly.com^
 ||freetv.com^
-||freetzi.com^
 ||freeurlshort.com^
 ||freeusersonline.com^
-||freevar.com^
 ||freevbucksgenerator.online^
 ||freeversioncrack.com^
 ||freeviagranow.com^
@@ -394079,24 +394131,18 @@ zzzzzzzkplpllllpppllpppl.com
 ||freewarezdownloadingservice.top^
 ||freewatch.tv^
 ||freewayfoodalien.com^
-||freewaywebhost.com^
 ||freeweatherapp.com^
 ||freeweb.me^
 ||freewebcams.com^
 ||freewebcards.com^
 ||freewebcounter.com^
 ||freewebhosting4u.com^
-||freewebhostingarea.com^
 ||freewebhostmost.com^
 ||freeweblogger.com^
 ||freewebpages.org^
 ||freewebportal.com^
 ||freewebs.com^
-||freewebsitehosting.com^
-||freewebspace.com^
-||freewebtools.com^
 ||freewebtown.com^
-||freewha.com^
 ||freewheel-jitt.dpgmedia.be^
 ||freewheel-jitt.sanoma.fi^
 ||freewheel-match.dotomi.com^
@@ -394434,7 +394480,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||freyr.futurecdn.net^
 ||freze.it^
 ||frezero.net^
-||frezmilo.shop^
 ||frfetchme.com^
 ||frfge.bonobos.com^
 ||frfhnsqzngbvy.website^
@@ -395186,7 +395231,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||fstsrv9.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fstsspfwthukh.site^
 ||fsu.ro^
-||fsu1cg19c.com^
 ||fsubjnihjf.com^
 ||fsugco.rcn.nl^
 ||fsuooh.cc^
@@ -395505,6 +395549,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||fuhrerschein-kaufenonline.com^
 ||fuhrerssubbase.cyou^
 ||fuhrmann.store^
+||fuhsazvwkhrpc.site^
 ||fuhtb.puckaclub.com^
 ||fuhzuajqwcmyl.site^
 ||fui4j3kd.com^
@@ -395993,6 +396038,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||furlaoutlet.de^
 ||furlhp.kango.mynavi.jp^
 ||furnari.store^
+||furnea.shop^
 ||furneo-handel.com^
 ||furnidays.de^
 ||furnihabit.com^
@@ -396010,7 +396056,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||furniturej.shop^
 ||furnitureking.com^
 ||furnitureustrade.com^
-||furnityx.com^
 ||furnstudio.com^
 ||furoinalexas.com^
 ||furoleevehood.cyou^
@@ -396160,6 +396205,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||futemax.exposed^
 ||futemax.express^
 ||futemax.fast^
+||futemax.feedback^
 ||futemax.fish^
 ||futemax.fishing^
 ||futemax.fit^
@@ -396277,7 +396323,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||fuvtxd.cdkeys.com^
 ||fuvvyitretdgmts.net^
 ||fuvwhhewbw.com^
-||fuw6cipmw.com^
 ||fuwangceramic.com^
 ||fuwn782kk.alphaporno.com^
 ||fux0r.top^
@@ -397061,7 +397106,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||g1584674682.co^
 ||g1584674683.co^
 ||g1584674684.co^
-||g15wt3ci68.com^
 ||g175zohj.xyz^
 ||g1782759015.co^
 ||g1782759016.co^
@@ -397143,7 +397187,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||g4news.biz^
 ||g4oynkx46eex7trnq.cfd^
 ||g4u.to^
-||g4yk4cyyw.com^
 ||g4z8712756.com^
 ||g50jvd.webwave.dev^
 ||g52bxi1v1w.com^
@@ -398850,7 +398893,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||gawnbeardycursive.cyou^
 ||gawneymerrily.qpon^
 ||gawneytae.cfd^
-||gaxduni.shop^
 ||gaxkyokrghyts.online^
 ||gaxlog-cdn-settings.appsflyersdk.com^
 ||gaxlog-conversions.appsflyersdk.com^
@@ -400720,7 +400762,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||getelevar.com^
 ||getelltheprecise.org^
 ||getenergyfix.com^
-||getenjoyment.net^
 ||getepicooler.com^
 ||getexceptional.com^
 ||getf.ly^
@@ -402194,7 +402235,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||gin.co.il^
 ||gin.glamgalore.in^
 ||gin.mybluehost.me^
-||gin77czkt.com^
 ||gina-videos.eu^
 ||ginads.com^
 ||ginaruiz.com^
@@ -402491,7 +402531,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||givviictvunqi.online^
 ||giw4h5.sbs^
 ||giwl.highkickstkd.com^
-||giwl0p3gx7.com^
 ||giwmicgil.com^
 ||gixdir.gitionline.com^
 ||gixiluros.com^
@@ -402777,6 +402816,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||gladysway.com^
 ||glaeubigerid-portal.de^
 ||glaeubigerid.de^
+||glafltgmovxot.online^
 ||glaichaupu.net^
 ||glaidipt.net^
 ||glaigaunsoroogh.com^
@@ -407096,6 +407136,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||gptgmtrevgszw.space^
 ||gpts4u.com^
 ||gptsb.thrivecausemetics.com^
+||gptverification.com^
 ||gptzluojzguhq.online^
 ||gpu2rbzpe.com^
 ||gpughe.com^
@@ -407322,7 +407363,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||grafeioypostirixis.web.app^
 ||grafeno-siteapp.digital^
 ||graffiti-tags.apple.com^
-||graffiti.net^
 ||graficaminascard.com.br^
 ||graflantz.com^
 ||grafpedia.com^
@@ -408548,7 +408588,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||grtyo.com^
 ||grtyv.com^
 ||grtyv.com^$dnsrewrite=ad-block.dns.adguard.com
-||gru07o6y3.com^
 ||gru0z6.ru^
 ||gruatcinh.firebaseapp.com^
 ||gruatcinh.web.app^
@@ -408774,7 +408813,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||gsgir.122.2o7.net^
 ||gsgmbalessijt.site^
 ||gsgtapaplvfhr.site^
-||gsgxnauqu8.com^
 ||gsh.io^
 ||gshandels.com^
 ||gshcsoaowxcbz.space^
@@ -409054,6 +409092,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||gtbpy.jennikayne.com^
 ||gtbvre.vapza.com.br^
 ||gtbvzopahlyts.website^
+||gtcinfight.cfd^
 ||gtcntr.enamya.me^
 ||gtconligt.z38.web.core.windows.net^
 ||gtcpicnics.com^
@@ -409078,7 +409117,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||gtethuui.com^
 ||gteut.bareperformancenutrition.com^
 ||gtex3.com^
-||gtfccewpo.com^
 ||gtfctvvjgdiep.space^
 ||gtfcy.oddmuse.co.uk^
 ||gtfzlpzgoydqv.site^
@@ -416162,7 +416200,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||gzjroa.bradsdeals.com^
 ||gzjzyhjjsfwyxgs.com^
 ||gzk.mybluehost.me^
-||gzk72wa1f.com^
 ||gzkignkqikrix.online^
 ||gzkufomgzjzug.online^
 ||gzkuhr.company^
@@ -420850,7 +420887,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||heroadblocker.pro^
 ||heroaffiliates.com^
 ||herobit.org^
-||herobo.com^
 ||herobux.com^
 ||herodias.net^
 ||herodiikuhnia.digital^
@@ -421034,7 +421070,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||hexcan.com^
 ||hexdracherubs.cfd^
 ||hexe.in^
-||hexeline.online^
 ||hexflay.cyou^
 ||hexingteeting.com^
 ||hexload.com^
@@ -421578,7 +421613,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||hi2pv3e9pr.com^
 ||hi4.in^
 ||hi407ezyz.com^
-||hi4c61mi8d.com^
 ||hi5avv2.com^
 ||hi6uqvisz9.com^
 ||hia.mybluehost.me^
@@ -424478,7 +424512,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||host20s.cfd^
 ||host21s.cfd^
 ||host21v.cfd^
-||host22.com^
 ||host22s.cfd^
 ||host22v.cfd^
 ||host23s.cfd^
@@ -424550,7 +424583,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||host54k.cfd^
 ||host54v.cfd^
 ||host55k.cfd^
-||host56.com^
 ||host56k.cfd^
 ||host56v.cfd^
 ||host57k.cfd^
@@ -424667,7 +424699,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||hostedforfree.com^
 ||hostedmax.comm100.com^
 ||hostedserver.de^
-||hostei.com^
 ||hostele-lordfilm.ru^
 ||hostelf-lordfilm.ru^
 ||hostelli-lordfilm.ru^
@@ -424701,10 +424732,8 @@ zzzzzzzkplpllllpppllpppl.com
 ||hostiserver.com^
 ||hostk.cfd^
 ||hostk.cfd^$dnsrewrite=ad-block.dns.adguard.com
-||hostland.pro^
 ||hostmaiws1.webcindario.com^
 ||hostname.bind|
-||hostoi.com^
 ||hostpoco.com^
 ||hostpoint.ch.090f01ca.tcorner.fr^
 ||hostpoint.ch.11be028f.tcorner.fr^
@@ -424720,7 +424749,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||hostxy.com^
 ||hostyourclips.com^
 ||hostyourmovies.com^
-||hostzi.com^
 ||hoszfhclwdprg.site^
 ||hot-box-gen.mushroomtrack.com^
 ||hot-count.com^
@@ -424746,7 +424774,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||hot.browser.intl.miui.com^
 ||hot.info^
 ||hot.justpornflix.com^
-||hot.lc^
 ||hot.useractive.com^
 ||hot4k.org^
 ||hot59.de^
@@ -425250,7 +425277,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||hpackagetrackerguru.com^
 ||hpackagetrackeronline.co^
 ||hpadjptcyyafh.space^
-||hpage.com^
 ||hpanalytics.net^
 ||hpapmsbhbdlit.site^
 ||hpast.pornpics.com^
@@ -425586,7 +425612,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||hrient.xyz^
 ||hrihqgbkuarzq.online^
 ||hrilitlw.com^
-||hriy.cn^
 ||hriybnmi.com^
 ||hrjarhlgpebrw.site^
 ||hrjfjkskj23jk.com^
@@ -426759,6 +426784,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||huraxbaw.in^
 ||hurdlecodrecentrecent.com^
 ||hurdlesomehowpause.com^
+||huremo.shop^
 ||huren-sex.net^
 ||hurensohn.page-product.shop^
 ||hurenzbbs.com^
@@ -427875,7 +427901,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||i0olal-conversions.appsflyersdk.com^
 ||i0olal-launches.appsflyersdk.com^
 ||i0tjgjgm.xyz^
-||i0y0i9vz0.com^
 ||i1.2leep.com^
 ||i1.dl-ad.com^
 ||i1.go2yd.com^
@@ -428820,7 +428845,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||icuvzogomwarh.site^
 ||icux.xyz^
 ||icvihl.cachecoeurlingerie.com^
-||icwb.com^
 ||icwmzb.talisa.fr^
 ||icws.jb51.net^
 ||icxddwjkp.com^
@@ -429626,7 +429650,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||igg-games.cc^
 ||igg-games.co^
 ||igg-games.com^
-||igg.biz^
 ||igg.igreengadgets.it^
 ||iggcszxljlchr.website^
 ||iggfwsbqonyyw.online^
@@ -430352,7 +430375,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||il-trc-events.taboola.com^
 ||il-trc.taboola.com^
 ||il-vip001.taboola.com^
-||il.gp^
 ||il191he2tib518wrggj.cfd^
 ||il1i.co^
 ||ila3.co^
@@ -430443,7 +430465,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ilggukzdomyuy.site^
 ||ilgjz.originalfootwear.com^
 ||ilgpscfvwohwr.space^
-||ilgt04vkw4.com^
 ||ilhangrnyaubr.site^
 ||ilhbimergjlfx.website^
 ||ilhkodgrdkcvq.website^
@@ -431782,6 +431803,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||immediateconnect.co^
 ||immediateconnect.com^
 ||immediateconnect.me^
+||immediateconnect.net^
 ||immediateconnect.org^
 ||immediateconnectavis.fr^
 ||immediateedge.online^
@@ -433137,7 +433159,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||infinitydownline.com^
 ||infinityfree.io^
 ||infinityfree.me^
-||infinityfreeapp.com^
 ||infinityhedge.com^
 ||infinityid.condenastdigital.com^
 ||infinitymail.weebly.com^
@@ -434338,7 +434359,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||infos.budgetdirect.com.au^
 ||infos.cx^
 ||infos.lc^
-||infos.st^
 ||infos.telstra.com.au^
 ||infos.telstra.com^
 ||infos.vodafone.com.au^
@@ -434996,7 +435016,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||insertillegimateillegimatepack.com^
 ||insertmotionbud.com^
 ||insertsummer.com^
-||insertup.top^
 ||insetdirectedshed.com^
 ||insetsfarmy.qpon^
 ||insetspurdah.cfd^
@@ -435869,7 +435888,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||interbuzznews.com^
 ||interc.pt^
 ||intercambiosvirtuales.org^
-||intercapital-ai.net^
 ||intercept-client.inmoment.com^
 ||interceptcough.com^
 ||interceptd.com^
@@ -437100,7 +437118,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ipt.arthritis-uk.org^
 ||ipt.versusarthritis.org^
 ||iptautup.com^
-||iptime.org^
 ||iptmgi.akan.co.kr^
 ||iptmih.hifi-regler.de^
 ||iptogreg.net^
@@ -437531,7 +437548,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ironyviscount.com^
 ||irootapk.net^
 ||irop.top^
-||irp37bmmt.com^
 ||irpfhsfkfwgon.website^
 ||irpmt.mail.163.com^
 ||irpopup.ir^
@@ -438621,6 +438637,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ittw-us-e.eskimi.com^
 ||ittw.eskimi.com^
 ||itty.be^
+||itubglwvthjwop6qtukfjfbnw.cfd^
 ||itudxxjroadevb.com^
 ||itukaichi.furendo.co.jp^
 ||itunes-download.ru^
@@ -438856,6 +438873,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ivohtfhkgxihv.online^
 ||ivonnurb.com^
 ||ivory-combination-598379.framer.app^
+||ivory-jigger.shop^
 ||ivorygrief.com^
 ||ivoryrangecongratulations.com^
 ||ivox.socratos.net^
@@ -439081,7 +439099,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ixssuouxsjpvq.site^
 ||ixtzad.fetch.co.uk^
 ||ixubgeuvxzgle.online^
-||ixug0amgtn.com^
 ||ixxen.com^
 ||ixxwy.xyz^
 ||ixy.mybluehost.me^
@@ -439817,6 +439834,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||jalapenos.wenelspa.cl^
 ||jalapicundelve.top^
 ||jalbwwqldi.com^
+||jaldovi.shop^
 ||jaleeazymous.cfd^
 ||jali.me^
 ||jalkarsontag.cyou^
@@ -439984,7 +440002,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||jaqueira.cfd^
 ||jaqueline.anunciojuridico.com.br^
 ||jaqueta.vercel.app^
-||jaqvero.shop^
 ||jaqvwdzjuhebs.site^
 ||jar.rajnasion.pl^
 ||jar.rajogrodnika.pl^
@@ -440288,7 +440305,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||jbtqolskzxoky.online^
 ||jbttdl.beautycarechoices.com^
 ||jbtul.com^
-||jbtyl.com^
 ||jbtzenvvhqaaf.website^
 ||jbuegeejecfca.website^
 ||jbvmn.whitehouseblackmarket.com^
@@ -440411,6 +440427,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||jcdinfo.com^
 ||jcducnmrnmznb.online^
 ||jcdwjcetiikar.website^
+||jcejudrbnswfq.site^
 ||jcendeavours.com^
 ||jcerkxhxoshts.space^
 ||jcfeniizigntw.space^
@@ -440491,7 +440508,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||jd.patygomes.com^
 ||jd.thehadafiller.com^
 ||jd3j7g5z1fqs.com^
-||jd6wnmvacs.com^
 ||jd8trk.com^
 ||jdabrdxqtvzrb.site^
 ||jdafilter.com^
@@ -440823,7 +440839,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||jenkins.rottne.com^
 ||jenkins2.bam-x.com^
 ||jenkinsc2ig.csr21.net.rewe.de^
-||jennabenchetrit.com^
 ||jenniferaustin.typeform.com^
 ||jennifereconomicgive.com^
 ||jenniferloeffler.com^
@@ -441401,6 +441416,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||jibbashacked.qpon^
 ||jibberspeelingowd.cfd^
 ||jibcjrikkqjmc.online^
+||jibhowso.qpon^
 ||jibmanbludger.com^
 ||jibn12.jintang114.org^
 ||jibsneeannnlz.site^
@@ -441755,7 +441771,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||jjpoq.beautycreationscosmetics.com^
 ||jjpp.lmtjapi.com^
 ||jjpqqbxodpnwc.website^
-||jjpyaj214.com^
 ||jjqrz.amputeestore.com^
 ||jjrirxpx.www.blubber-oase.de^
 ||jjrlhdmrpqt.com^
@@ -442421,14 +442436,12 @@ zzzzzzzkplpllllpppllpppl.com
 ||johuvhjrtqqwb.online^
 ||johzjiuqoiibg.site^
 ||joi.mybluehost.me^
-||joi09041pt.com^
 ||joi09050pt.com^
 ||joi09051pt.com^
 ||joi09060pt.com^
 ||joi09061pt.com^
 ||joi09070pt.com^
 ||joi09071pt.com^
-||joi09080pt.com^
 ||joi09081pt.com^
 ||joi09090pt.com^
 ||joi09091pt.com^
@@ -442565,6 +442578,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||jokulbochism.qpon^
 ||jokvg.sillysanta.de^
 ||jol8kr6jym6l6t6m9mq75.cfd^
+||jolaks-s1.com^
 ||jolamsneaker.com^
 ||jolecyclist.com^
 ||jolhghbdjayis.website^
@@ -442586,6 +442600,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||joloanodockets.shop^
 ||jolrfeqxyavvj.site^
 ||jolted.vip^
+||joltfeeling.cyou^
 ||joltphoma.qpon^
 ||joltscushawtaharah.cfd^
 ||jolugubqlnjce.site^
@@ -442841,7 +442856,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||jowtkv.vertbaudet.de^
 ||jowyyljwkkwy.top^
 ||joxaviri.com^
-||joxdeli.shop^
 ||joxi.net^
 ||joxoreko.cdnfree.org^
 ||joxvxkkeahgrb.online^
@@ -443254,7 +443268,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||jrozc69o.xyz^
 ||jrpkizae.com^
 ||jrpvx.cecilandlou.com^
-||jrq39d1r8.com^
 ||jrqet.catholiccompany.com^
 ||jrqfukqx.com^
 ||jrqojtvzuqvhx.online^
@@ -444263,7 +444276,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||juslikgondang.com^
 ||juslikpoulter.shop^
 ||juslikwindore.cfd^
-||just-allen.com^
 ||just-go-with-it-lordfilm.top^
 ||just-news.pro^
 ||just-single-parents.com^
@@ -444317,7 +444329,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||justicejudo.com^
 ||justiceleague-lordfilm.cam^
 ||justicemovies.com^
-||justicewasgreen.com^
 ||justiciable.net^
 ||justid.io^
 ||justificationguessexasperation.com^
@@ -444343,7 +444354,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||justmail.eu^
 ||justmazingdeals.com^
 ||justnabalus.shop^
-||justns.ru^
 ||justonee.com^
 ||justonemorenews.com^
 ||justos.com^
@@ -445354,6 +445364,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||kairion.de^
 ||kairos-beta.com^
 ||kaiseki-website.com^
+||kaiser-handel-ai.com^
 ||kaiser.demdex.net^
 ||kaiserstuhl-exotengarten.de^
 ||kaiserwinkl.net^
@@ -446188,6 +446199,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||kavkazskaya-plennitsa-lordfilm.ru^
 ||kavkisfile.com^
 ||kavmixo.com^
+||kavreti.shop^
 ||kavrj3-cdn-settings.appsflyersdk.com^
 ||kavrj3-launches.appsflyersdk.com^
 ||kavtqkbsyrpzt.site^
@@ -446980,7 +446992,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||kerluke.biz^
 ||kermesssuing.cfd^
 ||kermisclub.nl^
-||kermitowy-sklep.pl^
 ||kern-kapithal.com^
 ||kern-photo.com^
 ||kern-recht.de^
@@ -447355,7 +447366,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||kgnrrfydocljl.space^
 ||kgnuscgeifzld.site^
 ||kgod64gv.com^
-||kgoj4nrhe.com^
 ||kgorilla.net^
 ||kgosmozrltsuj.site^
 ||kgou4s5dz.com^
@@ -447941,7 +447951,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||kiltwent-our.xyz^
 ||kilu.at^
 ||kilu.biz^
-||kilu.de^
 ||kilu.info^
 ||kilu.net^
 ||kilu.org^
@@ -448172,7 +448181,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||kinkylotto.net^
 ||kinkymod.com^
 ||kinkypeepz.com^
-||kinkytemptation.com^
 ||kinleung.cn^
 ||kinley.com^
 ||kinlmqqbnzuwj.website^
@@ -448679,6 +448687,8 @@ zzzzzzzkplpllllpppllpppl.com
 ||kirastyler.com^
 ||kirawhite.com^
 ||kirazlar.org^
+||kirby-production.prod.radiofrance.dev^
+||kirby.radiofrance.fr^
 ||kirche-lennep.de^
 ||kircheaustreten.de^
 ||kirchner-rechtsanwaelte.de^
@@ -449215,7 +449225,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||kl-youniverse.com^
 ||kl.67it.com^
 ||kl.am^
-||kl.com.ua^
 ||kl.gentjazz.com^
 ||kl.ik.my^
 ||kl.klasselotteriet.dk^
@@ -451262,7 +451271,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||kraven-lordfilm.ru^
 ||kraviso.com^
 ||kravura.com^
-||kravzelo.shop^
 ||kray-morya-film-lordfilm.ru^
 ||kray-morya-lordfilme.ru^
 ||kraynie-mery-lordfilme.ru^
@@ -451340,7 +451348,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||krestnyy-otec-garlema-lordfilm.ru^
 ||krestnyy-otets-lordfilm.cfd^
 ||krete.info^
-||krevn0cq4.com^
 ||krexihkpfgpid.website^
 ||kreyfdv.nordicoil.se^
 ||kreywen-ohotnik-lordfilme.ru^
@@ -451482,7 +451489,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||krovavyy-pakt-lordfilm.lol^
 ||krovavyy-sport-film-lordfilm.ru^
 ||krovavyye-tsvety-serial-lordfilm.ru^
-||kroveni.shop^
 ||krovyu-i-potom-film-lordfilm.ru^
 ||krow-med-lordfilme.ru^
 ||krowawaya-barynya-lordfilme.ru^
@@ -452089,8 +452095,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||kulanhonour.shop^
 ||kulbit.lv^
 ||kulekbfzgldzw.space^
-||kulichki.net^
-||kulichki.ru^
 ||kulink.me^
 ||kullanicaickle.shop^
 ||kulove123.com^
@@ -452219,6 +452223,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||kurer-lordfilme.ru^
 ||kureshnameshindex.firebaseapp.com^
 ||kureshnameshindex.web.app^
+||kurevan.shop^
 ||kurganobl.ru^
 ||kuribo64.net^
 ||kurl.ru^
@@ -454183,7 +454188,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||lapin-terrinouveau.firebaseapp.com^
 ||lapin-terrinouveau.web.app^
 ||lapinora.at^
-||lapj.cn^
 ||lapjoints.com^
 ||lapkhy.aventon.com^
 ||laplaceo.myshopify.com^
@@ -455541,7 +455545,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||leafpilot.com^
 ||league-of-legends.ru^
 ||leagueinfantry.com^
-||leaguelineup.com^
 ||leagueofslots-cl.com^
 ||leaguequickie.com^
 ||leaguewarskeleton.com^
@@ -455596,6 +455599,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||leaperarage.qpon^
 ||leaperskcmalist.qpon^
 ||leapfaucet.com^
+||leapfulbindery.com^
 ||leapingkhaya.cfd^
 ||leaplife.pxf.io^
 ||leaplunchroom.com^
@@ -456899,6 +456903,8 @@ zzzzzzzkplpllllpppllpppl.com
 ||levitytape.com^
 ||levne-kamagra.online^
 ||levoit.co.at^
+||levoitportugal.com^
+||levoitsportugal.com^
 ||levonis.de^
 ||levorelio.net^
 ||levoria-il.com^
@@ -457090,7 +457096,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||lg.lotus.vn^
 ||lg.naukri.com^
 ||lg.yaload.ru^
-||lg0lh2qfj4.com^
 ||lg3.media.net^
 ||lg777.club^
 ||lg8ems.top^
@@ -461088,7 +461093,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||load.analytics.alghanim.sa^
 ||load.analytics.aloyayri.sa^
 ||load.analytics.arrowelectric.net^
-||load.analytics.boxnow.dk^
 ||load.analytics.byshams.com^
 ||load.analytics.centrespringmd.com^
 ||load.analytics.cookiebot.dev^
@@ -464198,7 +464202,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||load.sgtm.tommydavidovic.se^
 ||load.sgtm.toolden.co.uk^
 ||load.sgtm.toppaketi.si^
-||load.sgtm.tourcompass.dk^
 ||load.sgtm.tranquilstreams.com^
 ||load.sgtm.travelbyluxe.com^
 ||load.sgtm.tripster.com^
@@ -465028,7 +465031,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||load.sst.cloudybd.com^
 ||load.sst.coachclub.com^
 ||load.sst.coachlaunch.com^
-||load.sst.coachway.io^
 ||load.sst.combi-camp.com^
 ||load.sst.condomerie.com^
 ||load.sst.container-lageret.dk^
@@ -465057,7 +465059,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||load.sst.dentimed.pl^
 ||load.sst.dermo-laser-montpellier.fr^
 ||load.sst.dhakapharmachyshop.com^
-||load.sst.digital-bau.com^
 ||load.sst.digital-masters.de^
 ||load.sst.digitalanalyticssummit.nl^
 ||load.sst.digivizer.com^
@@ -468436,7 +468437,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||lohockdock.com^
 ||lohr-treuhand.com^
 ||lohrex.livinn.lt^
-||lohtragenz.net^
 ||lohud.us^
 ||lohylfnkagnlzw.com^
 ||loiflix.xyz^
@@ -482998,6 +482998,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||lorletteandwill.com^
 ||lornajanedeutschland.de^
 ||loro-pianas.de^
+||lorqemi.shop^
 ||lorqumi-kxt-zemveta-r9t1hk43.pages.dev^
 ||lorrauy.shop^
 ||lorrd-of-riings-lordfilms.ru^
@@ -483596,7 +483597,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||lowx.de^
 ||lowybecroak.cyou^
 ||loxantrums.cyou^
-||loxblog.com^
 ||loxe38lpzr8r33jb2.15nib4vvytokux2w8nc7z.cyou^
 ||loxicsprungdashpot.cyou^
 ||loxigplays.com^
@@ -484657,7 +484657,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||lucky135.com^
 ||lucky2funs.com^
 ||lucky2lucky.com^
-||lucky31.fr^
 ||lucky8fr.fr^
 ||luckyaceclub-ph.com^
 ||luckyactivityprize.yaguanxl.com^
@@ -484870,7 +484869,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||lumbering-form.com^
 ||lumberjack-metrics.razorpay.com^
 ||lumberrule.com^
-||lumbourseatom-ai.net^
 ||lumbu.naturallife.com^
 ||lume.paganahora.io^
 ||lumelia-de.com^
@@ -484894,7 +484892,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||lumileads.g2afse.com^
 ||lumimodel.my^
 ||luminaraofficial.de^
-||luminarte24.pl^
 ||luminary.link^
 ||luminate.com^
 ||luminati-china.net^
@@ -485705,7 +485702,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||lynx.lumy.network^
 ||lynx.simpleparish.com^
 ||lynxeslentor.shop^
-||lyo1dkdbp.com^
 ||lyo5ll-cdn-settings.appsflyersdk.com^
 ||lyodsbank.com^
 ||lyopieifcjaqb.site^
@@ -486412,7 +486408,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||m6back639.win^
 ||m6c4t9vmqarj.www.cefirates.com^
 ||m6cx48b0e.com^
-||m6d3h9vc3z.com^
 ||m6kawtop8f.cfd^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||m6qxdu6m6w.com^
@@ -486480,7 +486475,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||m9n9o76olm4r4b22clh2x7yyx.cfd^
 ||m9q7k.top^
 ||m9sm6th48c.com^
-||m9sz0hh3f7.com^
 ||m9uelhiftq1hi9j7b6jpiuhf41v7nuqe.rest^
 ||m9vmfu-cdn-settings.appsflyersdk.com^
 ||m9vmfu-launches.appsflyersdk.com^
@@ -486791,6 +486785,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||madbeware.com^
 ||madcapjv.no-ip.com^
 ||madcasinno.fr^
+||madcasinofr.fr^
 ||madcasinoo.fr^
 ||madcheddar.net^
 ||madclient.uimserv.net^
@@ -486946,6 +486941,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mag-wody-lordfilme.ru^
 ||maga.lu^
 ||magacannie.cfd^
+||magacoinfinance.com^
 ||magadownloads.com^
 ||magafiles.com^
 ||magag.de^
@@ -493319,6 +493315,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mautic.sts.vn^
 ||mautic.teky.edu.vn^
 ||mautslowenien.at^
+||mavdori.shop^
 ||mavelo.shop^
 ||mavenanalytics.io^
 ||mavencosshen.com^
@@ -496292,6 +496289,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||melrouz-pleys-lordfilme.ru^
 ||melscience.pxf.io^
 ||melscyanite.shop^
+||meltavo.shop^
 ||meltdowndoormanimagine.com^
 ||meltdownfertilizerhissed.com^
 ||meltedpleasandtws.shop^
@@ -501285,7 +501283,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||mfgvhabnnlwkd.online^
 ||mfhk3trk.com^
 ||mfhkabefnl.com^
-||mfhxz0hz7.com^
 ||mfid.me^
 ||mfifgbwxafrbq.site^
 ||mfilecloud.com^
@@ -502518,7 +502515,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||mindmeister.kiuvix.com^
 ||mindmemobile.com^
 ||mindmetric.ai^
-||mindnmagick.com^
 ||mindoccupy.com^
 ||mindopennews.com^
 ||mindopu.com^
@@ -502552,7 +502548,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||minecraftr.us^
 ||minecrapk.com^
 ||minedfc.pory.app^
-||minedragons.com^
 ||minefieldvehemence.com^
 ||mineflayer.com^
 ||minegpt.pages.dev^
@@ -502836,7 +502831,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||mipon.xyz^
 ||miprimercamino.com^
 ||mipujia.com^
-||miqaro.shop^
 ||miqbqh.mizunomori.com^
 ||miqdigital.com^
 ||miqeuu.timberland.it^
@@ -507256,6 +507250,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mopaniideaed.com^
 ||mopanirailing.qpon^
 ||mopbucket.laundrypoint.com.au^
+||mopederchirata.cyou^
 ||mopedisods.com^
 ||mopeierrykes.qpon^
 ||mopiex.com^
@@ -509160,7 +509155,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||moviz.net^
 ||movizdb.com^
 ||movlbegr.com^
-||movowin.com^
 ||movply.com^
 ||movreel.com^
 ||movsmo.net^
@@ -509762,7 +509756,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||mrlink.in^
 ||mrlmshop.com^
 ||mrlscr.com^
-||mrlxc51byo.com^
 ||mrmag.ubmfashion.com^
 ||mrmarketonion.com^
 ||mrmbmh-cdn-settings.appsflyersdk.com^
@@ -509827,7 +509820,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||mrtdjelutrffv.space^
 ||mrte.ch^
 ||mrtg.emailpartners.net^
-||mrtm4lylj.com^
 ||mrtmarkets.com^
 ||mrtnsvr.com^
 ||mrtouklnhgra.firebaseapp.com^
@@ -510259,7 +510251,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||mstitely-lordfilm.ru^
 ||mstitteli-lordfilm.ru^
 ||mstm.motorsport.com^
-||mstmsbz.com^
 ||mstngh.com^
 ||mstr.cl^
 ||mstransport.ae^
@@ -512497,7 +512488,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||myappzcenter.com^
 ||myappzcollection.com^
 ||myarbcetnnhfz.com^
-||myartsonline.com^
 ||myarusel.gpor.ru^
 ||myasiantv.to^
 ||myasnikis-lordfilm.ru^
@@ -512862,7 +512852,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||mydownloadsitecenter.com^
 ||mydreampetstore.com^
 ||mydressupdarling-lordfilm.ru^
-||mydrive.effem.com^
 ||mydrivingdirections.co^
 ||mydrivingdirectionsxp.com^
 ||mydropboxdocs.weebly.com^
@@ -513342,7 +513331,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||myfuture.futureelectronics.com^
 ||myg.mybluehost.me^
 ||mygabor.shop^
-||mygamesonline.org^
 ||mygamesresearch.com^
 ||mygamesstore.com^
 ||mygametoa.com^
@@ -514248,7 +514236,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||myweatherxp.com^
 ||myweb3id.io^
 ||mywebclick.net^
-||mywebcommunity.org^
 ||mywebface.com^
 ||mywebmail-support-center.framer.website^
 ||mywebpages.comcast.net^
@@ -515180,7 +515167,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||napeinigobeamage.cyou^
 ||naperyumlauts.cfd^
 ||napf.barf-versand.ch^
-||napfenycaprivo-ai.net^
 ||napff.vn^
 ||napff3s.com^
 ||napffgiare.com^
@@ -515399,6 +515385,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||narkykea.cyou^
 ||narkywxqnkyzs.space^
 ||narlheuqrbgcf.space^
+||narmeti.shop^
 ||narnanug.workers.dev^
 ||narnos.de^
 ||narrapepsia.cyou^
@@ -516865,7 +516852,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||neobyatnyi-okean-lordfilm.cfd^
 ||neobyatnyy-okean-lordfilm.cfd^
 ||neobyatnyy-okean-lordfilme.ru^
-||neocities.org^
 ||neocounter.neoworx-blog-tools.net^
 ||neocrackfile.com^
 ||neodatagroup.com^
@@ -517239,9 +517225,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||net03webuseronline.com^
 ||net1.netski.com^
 ||net123movies.xyz^
-||net16.net^
 ||net17.biz^
-||net23.net^
 ||net27.cc^
 ||net2care.com^
 ||net2me.me^
@@ -517251,13 +517235,9 @@ zzzzzzzkplpllllpppllpppl.com
 ||net4ever.kywane.es^
 ||net51.cc^
 ||net5sportybet.weebly.com^
-||net63.net^
-||net76.net^
-||net84.net^
 ||netadclick.com^
 ||netaffiliation.com^
 ||netagent.cz^
-||netai.net^
 ||netajipaanbhandar.com^
 ||netandbytes.com^
 ||netanime.tv^
@@ -517269,7 +517249,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||netatmo.com.de^
 ||netatualiza.info^
 ||netatwork.de^
-||netau.net^
 ||netavenir.com^
 ||netbanco-santander.pt-clientes.com^
 ||netbetterresults.com^
@@ -517420,7 +517399,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||nethouse.ru^
 ||neti.cc^
 ||netid.mondialcustominfo.com^
-||netii.net^
 ||netinfocompany.bg^
 ||netinsejfweb.weebly.com^
 ||netinsight.co.kr^
@@ -517503,7 +517481,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||netmovies.to^
 ||netnaija.site^
 ||netnames.com^
-||netne.net^
 ||netnesspb.com^
 ||netnet33.net^
 ||netnet44.net^
@@ -517710,7 +517687,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||neunagel.de^
 ||neunotebookakkus.com^
 ||neupravlyaemyy-film-lordfilm.ru^
-||neura-trade-ai.net^
 ||neural-atlas-code-flat.courses^
 ||neural-warez.xyz^
 ||neural.myth.dev^
@@ -519240,7 +519216,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||nfukguubxgsk.com^
 ||nfused.eobuv.com.ua^
 ||nfvhwnpktqmc.com^
-||nfvj.cn^
 ||nfvvxg.kaneka-yhc.co.jp^
 ||nfw.cz^
 ||nfw.nigarfashionworld.com^
@@ -520134,7 +520109,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||nip-tucke-lordfilm.ru^
 ||nip-tuckr-lordfilm.ru^
 ||nip-tucks-lordfilm.ru^
-||nip.io^
 ||nip1.com^
 ||nip17.com^
 ||nip2.com^
@@ -521603,7 +521577,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||northstarsecure.weebly.com^
 ||northstartravelmedia.com^
 ||northswindock.qpon^
-||northvale-ai.com^
 ||northwavepoint.com^
 ||northwestel-storage-gbspacesipm.weebly.com^
 ||northwesternmutual.com.102.122.2o7.net^
@@ -522825,6 +522798,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||nsibgi.gadventures.com.au^
 ||nsignal.net^
 ||nsikar.ackermann.ch^
+||nsipapp.net^
 ||nsis.bisrv.com^
 ||nsitza.terresdecafe.com^
 ||nsiuy4h2.com^
@@ -523008,6 +522982,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ntbps-sales.com^
 ||ntbx.ir^
 ||ntc69oia.com^
+||ntcdeciihzoog.online^
 ||ntcehjbc.cfd^
 ||ntcfkcmes.com^
 ||ntcfrzpzmeite.site^
@@ -523822,7 +523797,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||nx.tn^
 ||nx1.thekanaa.com^
 ||nx2jt4p4r.com^
-||nx2ucbzw1.com^
 ||nx2zib-cdn-settings.appsflyersdk.com^
 ||nx2zib-launches.appsflyersdk.com^
 ||nx4jor-cdn-settings.appsflyersdk.com^
@@ -524203,14 +524177,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||nzl09260oa.com^
 ||nzl09261oa.com^
 ||nzl09270oa.com^
-||nzl09271oa.com^
-||nzl09280oa.com^
-||nzl09281oa.com^
-||nzl09290oa.com^
-||nzl09291oa.com^
-||nzl09301oa.com^
-||nzl10010oa.com^
-||nzl10011oa.com^
 ||nzl10041oa.com^
 ||nzlji.sokolovelaw.com^
 ||nzme-ads.co.nz^
@@ -524274,7 +524240,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||o-oku.jp^
 ||o-oo.ooo^
 ||o-ooyx94mh-web.u8whbz.casa^
-||o-r.kr^
 ||o-rakuenn.com^
 ||o-sdk.mediation.unity3d.com^
 ||o-shohousen.com^
@@ -528004,6 +527969,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||odivnyynovyymir-lordfilm.ru^
 ||odj3j8dsff.com^
 ||odjdpy.jobware.de^
+||odjpwsgkvgian.space^
 ||odklzhubnglgy.space^
 ||odkvrg.pedrodelhierro.com^
 ||odkvto-cdn-settings.appsflyersdk.com^
@@ -529413,6 +529379,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ojrgbc6kfz.com^
 ||ojrq.net^
 ||ojsdpydho.in^
+||ojshkarhebug.in^
 ||ojsjry.modyf.it^
 ||ojsqrskhczvnq.website^
 ||ojstyx.stevenstone.co.uk^
@@ -529601,7 +529568,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||okloib88.com^
 ||oklute.com^
 ||okmx.org^
-||okn57l1h.top^
 ||okna-lordfilm.ru^
 ||okna-lordfilme.ru^
 ||okniu.com^
@@ -529689,7 +529655,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||okyytrasubnjx.online^
 ||okzk.com^
 ||okzsah-38pd-jvw-wbsma4-pknr.pages.dev^
-||okzsb7l5bl.com^
 ||ol-am.top^
 ||ol-collector.quillbot.com^
 ||ol1cpol-rere5.at4lsk.top^
@@ -531568,7 +531533,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||onlinevideoconverter.com^
 ||onlinevisa.com^
 ||onlinevrach-24.online^
-||onlinewebshop.net^
 ||onlinewebstat.com^
 ||onlinewebstats.com^
 ||onlinewideo.pl^
@@ -531891,6 +531855,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||oogneenu.net^
 ||oogpmpugzvcin.site^
 ||oogrutse.net^
+||oogrybkwglxxt.online^
 ||ooguy.com^
 ||oogxypriplilr.website^
 ||oohkbadeeaaem.site^
@@ -532907,6 +532872,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||oqlfxv-launches.appsflyersdk.com^
 ||oqmiadfkmlcwz.website^
 ||oqmjiikaoomyy.online^
+||oqmwutbug.com^
 ||oqmzuxgipc.in^
 ||oqnmh.cheesebros.com^
 ||oqp.mybluehost.me^
@@ -533167,6 +533133,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||orcvupxik.com^
 ||orcwuhals.in^
 ||ord.aqbeds.co.uk^
+||ordainsmirky.com^
 ||ordbng.extra.com.br^
 ||order-24.com^
 ||order-bridge.wixstudio.com^
@@ -533766,6 +533733,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||oschadsecure.pw^
 ||oschadviplata66.shop^
 ||oschuetz.de^
+||oscineabettal.cfd^
 ||oscinetuples.shop^
 ||oscnjc.035000.com^
 ||oscobo.com^
@@ -535589,7 +535557,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||oxfordmarkets.com^
 ||oxfordnewstoday.com^
 ||oxgfheakkam.in^
-||oxggiwdp57.com^
 ||oxglmhurhbrbl.online^
 ||oxgyjm.livinterior.com.br^
 ||oxheallourie.com^
@@ -535870,7 +535837,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ozjrly.lebiscuit.com.br^
 ||ozjsxokbzexyr.site^
 ||ozjugh.best^
-||ozkaro.shop^
 ||ozkart.com.au^
 ||ozkkuy.fabianafilippi.com^
 ||ozkqakffarri.com^
@@ -535916,7 +535882,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||oztam.com.au^
 ||oztfci-cdn-settings.appsflyersdk.com^
 ||oztfci-launches.appsflyersdk.com^
-||oztg6i0ass.com^
 ||ozthaerqcoabk.space^
 ||oztsqdsfpafas.online^
 ||ozu9c8rlygo8zj8xy4hr.kecit2rc5pnzwcumye.cyou^
@@ -535956,7 +535921,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||p-chi.tech^
 ||p-dany-analytics-1643478883.us-west-2.elb.amazonaws.com^
 ||p-digital-server.com^
-||p-e.kr^
 ||p-ep.org^
 ||p-euc-1.braze.eu^
 ||p-events.ivideosmart.com^
@@ -536367,7 +536331,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||p77xhk514uizilxooptznv8jehx.cfd^
 ||p78vz5tcho.com^
 ||p7cloud.net^
-||p7d3miyh2q.com^
 ||p7en1b-cdn-settings.appsflyersdk.com^
 ||p7en1b-conversions.appsflyersdk.com^
 ||p7en1b-register.appsflyersdk.com^
@@ -536775,7 +536738,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||page.taashir.shop^
 ||page.terguspharma.com^
 ||page.thalesgroup.com^
-||page.tl^
 ||page.tlauncher.org^
 ||page.vital4.net^
 ||page.widget.zalo.me^
@@ -537721,7 +537683,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||parasitetiessling.com^
 ||parasolco.pxf.io^
 ||parasolcrimefactory.com^
-||parasurfingnz.org^
 ||paraveronline.com^
 ||parawima.com^
 ||parazipper.com^
@@ -537919,6 +537880,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||parquet.armparquet.it^
 ||parrable.com^
 ||parrbetire.com^
+||parrelsquantatasten.cfd^
 ||parrilha.adv.br^
 ||parrot-flow.com^
 ||parrot.alookwithin.ca^
@@ -539180,6 +539142,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||pavxtxikkjrdfy.com^
 ||pavymoieter.com^
 ||pavyt.com^
+||pavzuno.shop^
 ||paw-patrol-lordfilm.ru^
 ||paw-patrol-mult-lordfilm.ru^
 ||paw.mybluehost.me^
@@ -539222,7 +539185,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||paxillidespotbashaw.cfd^
 ||paxmedia.net^
 ||paxmining.com^
-||paxmiri.shop^
 ||paxsfiss.com^
 ||paxtonjmidz.diowebhost.com^
 ||paxtrz.dreamplacehotels.com^
@@ -539626,7 +539588,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||pbwdxo-cdn-settings.appsflyersdk.com^
 ||pbwdxo-conversions.appsflyersdk.com^
 ||pbwdxo-launches.appsflyersdk.com^
-||pbwlwdzje.com^
 ||pbwuiedcbtdck.space^
 ||pbxai.com^
 ||pbxdny.angrybeards.cz^
@@ -539942,7 +539903,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||pcrec.baidu.com^
 ||pcrectdkbz6.firebaseapp.com^
 ||pcrectdkbz6.web.app^
-||pcriot.com^
 ||pcrwmppj.com^
 ||pcs-wps.net^
 ||pcs.primecircle-structuring.com^
@@ -540209,7 +540169,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||pe-stats.com^
 ||pe.ga^
 ||pe.gp^
-||pe.hu^
 ||pe1-zfs6k-3q8k-j53ka-tgl6x.pages.dev^
 ||pe1jbf-cdn-settings.appsflyersdk.com^
 ||pe1jbf-conversions.appsflyersdk.com^
@@ -541311,7 +541270,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||perkyexcitedlyscenario.com^
 ||perl-ads.perlhacks.com^
 ||perl-harbor-film-lordfilm.ru^
-||perl.sh^
 ||perlak.info^
 ||perlatoschuhe.com^
 ||perlatoshoe.com^
@@ -542330,7 +542288,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||phee1oci.com^
 ||pheedo.com^
 ||pheegoab.click^
-||pheelsouptathoo.net^
 ||pheenecs.com.ua^
 ||pheergokraiz.net^
 ||pheetsithaurost.net^
@@ -542642,7 +542599,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||phpipam.com^
 ||phpmyvisites.net^
 ||phpmyvpbbank.com^
-||phpnet.us^
 ||phprdouhkyukn.space^
 ||phpspreadsheet.com^
 ||phpsta-apymntnttogothrouhjdud.weebly.com^
@@ -542745,7 +542701,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||phyxobjfiriyeq.com^
 ||phzlhhfidmntxc.com^
 ||phztnfimeghth.space^
-||pi-dostawa1973.cfd^
 ||pi-production-6504.up.railway.app^
 ||pi-stats.com^
 ||pi-tarina.com^
@@ -542978,7 +542933,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||picvalley.net^
 ||picvootv.xyz^
 ||picwallpaperhd.com^
-||piczo.com^
 ||pidancultive.qpon^
 ||piddlertuneup.cfd^
 ||piddlesvisor.cyou^
@@ -543041,7 +542995,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||pietismfinland.cyou^
 ||pietismreddles.com^
 ||pietosoappend.cfd^
-||pietrparod.store^
 ||pietymaternity.com^
 ||pieveasalti.it^
 ||pievsejhampai.online^
@@ -543100,6 +543053,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||piilaa-lordfilms.ru^
 ||piilla-lordfilms.ru^
 ||piilzpumrozlb.space^
+||piingdemo.com^
 ||piiquarry.com^
 ||pijafka.pl^
 ||pijama.*.elasticbeanstalk.com^
@@ -543237,7 +543191,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||pimpsiowa.cfd^
 ||pimqacihydhna.site^
 ||pimqyurkdhekj.website^
-||pimuedrozt.com^
 ||pin-up.casino^
 ||pin.hpplay.cn^
 ||pin.it^
@@ -543813,7 +543766,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||pitarina.net^
 ||pitawasdomine.cfd^
 ||pitaya.devinue.com.br^
-||pitbullsportsi.shop^
 ||pitbulltorrent.eu^
 ||pitch-blackq-lordfilm.ru^
 ||pitch-blacks-lordfilm.ru^
@@ -544905,9 +544857,9 @@ zzzzzzzkplpllllpppllpppl.com
 ||pksauniversity.com^
 ||pksdol.jangsooshop.com^
 ||pkspm.informatik-ai.com^
+||pksruohqihhis.website^
 ||pksza.herbalme.in^
 ||pktbuu.morau.top^
-||pktriot.net^
 ||pktytp.membershop.lv^
 ||pkuedu.online^
 ||pkv.li^
@@ -545327,7 +545279,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||plasmaringa.com^
 ||plasmasenseat.cfd^
 ||plasmaskoumisgab.cfd^
-||plasmic.run^
 ||plasmidbaggy.cfd^
 ||plasmidjerky.com^
 ||plasmsmoses.cyou^
@@ -551964,7 +551915,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||profitableratecpmnetwork.com^
 ||profitableratecpmnetwork.com^$dnsrewrite=ad-block.dns.adguard.com
 ||profitabletrustednetwork.com^
-||profitaiv6.com^
 ||profitgranddaughter.com^
 ||profitipp5.de^
 ||profititerra.co^
@@ -551992,7 +551942,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||profoundbegrudge.com^
 ||profoundshaken.com^
 ||profoundwhiz.com^
-||profreehost.com^
 ||profritzbox.myshopify.com^
 ||profsateion-c001250.firebaseapp.com^
 ||profsateion-c001250.web.app^
@@ -552647,7 +552596,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||prosystems.click^
 ||protagcdn.com^
 ||protagmanager.com^
-||protajama.com^
 ||protally.net^
 ||protawe.com^
 ||proteaser.com^
@@ -553293,7 +553241,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||psothoms.com^
 ||psotiwhotho.com^
 ||psoufauh.com^
-||psouwoardou.net^
 ||psoviehyaena.cyou^
 ||psowwau8292192snamqkq21822jsj8910223hjsja.myportfolio.com^
 ||psp-connect.net^
@@ -553502,6 +553449,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ptduzg-cdn-settings.appsflyersdk.com^
 ||ptduzg-conversions.appsflyersdk.com^
 ||ptduzg-launches.appsflyersdk.com^
+||ptdwqgjkmajfn.space^
 ||pte.nu^
 ||pteemsoansouthe.net^
 ||pteemsolrirgegi.com^
@@ -557305,6 +557253,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||pxlvvktn.milo-kine.fr^
 ||pxmhwn.wellstore.it^
 ||pxmir.xyz^
+||pxmvdqjutwzbq.site^
 ||pxmxc8trk.com^
 ||pxmzlk.redfin.com^
 ||pxnmeo.mugsyjeans.com^
@@ -557738,14 +557687,12 @@ zzzzzzzkplpllllpppllpppl.com
 ||q1x9m.top^
 ||q1yv4669q6.com^
 ||q20jqurls0y7gk8.info^
-||q29k22vpu.com^
 ||q2btq2-cdn-settings.appsflyersdk.com^
 ||q2btq2-launches.appsflyersdk.com^
 ||q2de87-cdn-settings.appsflyersdk.com^
 ||q2de87-launches.appsflyersdk.com^
 ||q2f3fw9st.com^
 ||q2fomkg8nzmqkh64b3x436gc.cfd^
-||q2fwgl4q8.com^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
 ||q2health.com^
 ||q2hno7n37y4.kh6nxzf3ozmebjy2nq.cyou^
@@ -558855,7 +558802,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||qj3mmf-0yof9b-xaox-xdzj9h.pages.dev^
 ||qj9es1-cdn-settings.appsflyersdk.com^
 ||qj9es1-launches.appsflyersdk.com^
-||qj9m4nou8t.com^
 ||qjafmslpdirem.com^
 ||qjaioccuzbmud.site^
 ||qjapso.r.pl^
@@ -559843,7 +559789,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||qskuub.elganovember.com^
 ||qslcuo.rockdenim.fi^
 ||qslczgnqpcjzc.site^
-||qslhdidxkazlzuuelsz.top^
 ||qsmqv.haydenbjewelry.com^
 ||qsne.cn^
 ||qsnetwork.az1.qualtrics.com^
@@ -560347,6 +560292,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||quenchgranite.com^
 ||quendariva.my^
 ||quendora.com^
+||quensaro.com^
 ||quentin-tarantiino-lordfilm.ru^
 ||quenvitora.my^
 ||quepbb-cdn-settings.appsflyersdk.com^
@@ -560780,7 +560726,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||quksyhnvkuhru.website^
 ||qularentovi.digital^
 ||qulixe.com^
-||qulmexo.shop^
 ||qultgdlesbdaw.online^
 ||qum.mybluehost.me^
 ||qumdkjdahsltu.space^
@@ -561321,7 +561266,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||qzpkxf.edenboutique.ro^
 ||qzpnlrckbpcwe.online^
 ||qzppzo.debbiemeyer.co.kr^
-||qzq1hq3mt.com^
 ||qzqab.goodsnova.com^
 ||qzqd2.com^
 ||qzqipwaflejcj.site^
@@ -561502,7 +561446,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||r0ckeet.com^
 ||r0d2dzltw7.com^
 ||r0e.org^
-||r0eybo511.com^
 ||r0ku.com^
 ||r0l7cp.com^
 ||r0m.me^
@@ -564637,7 +564580,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ral.mybluehost.me^
 ||rale.xyz^
 ||raler.xyz^
-||ralerabelano.com^
 ||ralf-lordfilm3.ru^
 ||ralf-modehaus.de^
 ||ralf-mulfilm-lordfilm.ru^
@@ -564750,6 +564692,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||rande.sk^
 ||randewoo.ir^
 ||randiapoire.shop^
+||randiesterekjolted.cyou^
 ||randisphotos.com^
 ||randiul.com^
 ||randjjewelry.org^
@@ -565457,7 +565400,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||rb.rhussvelter.com^
 ||rb.sport-express.ru^
 ||rb.umspecrek.ru^
-||rb51rh02h.com^
 ||rb6.me^
 ||rba.apata.io^
 ||rbaleno.info^
@@ -565844,7 +565786,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||rdm.containervip.com.br^
 ||rdm.domed.com.br^
 ||rdmcn.aesoprock.com^
-||rdmpkv76tv.com^
 ||rdmroot.com^
 ||rdntocdns.com^
 ||rdntpbeivqbjhi.com^
@@ -567509,6 +567450,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||reelzone.vercel.app^
 ||reem.app^
 ||reemebal.com^
+||reemilsie.com^
 ||reemitglucic.shop^
 ||reenakun.com^
 ||reendnavy.com^
@@ -567926,7 +567868,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||regretting-you-lordfilm.sbs^
 ||regroup.na.chilipiper.com^
 ||regrowgombay.qpon^
-||regruhosting.ru^
 ||regrunreanimator.com^
 ||regsotsvyplat.online^
 ||regstat.paddypower.com^
@@ -568366,7 +568307,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||relink.pt^
 ||relinkbatted.cfd^
 ||relinkr.io^
-||reliorasignal-ai.com^
 ||relishdistractedegypt.com^
 ||relishhooliganminder.com^
 ||relishsinew.com^
@@ -570301,7 +570241,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||revmob.com^
 ||revmoorn.com^
 ||revo-wallet.gitbook.io^
-||revobittrade.com^
 ||revocation30.com^
 ||revoffers.com^
 ||revoke-cash-lahana.vercel.app^
@@ -571317,6 +571256,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||rikcospe1.pro^
 ||rikharenut.shop^
 ||rikip.com^
+||rikiqay.com^
 ||rikishatasajo.qpon^
 ||rikki.bukvaved.net^
 ||rikmomo.co^
@@ -571521,7 +571461,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ris-lodge-ridge.pages.dev^
 ||ris.res-x.com^
 ||risale.ru^
-||risalliege.store^
 ||rischinter.com^
 ||riscimugol.com^
 ||rise-of-the-footsoldierr-lordfilms.ru^
@@ -572761,6 +572700,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||roikingdom.com^
 ||roilierastheny.cyou^
 ||roilierservet.qpon^
+||roilravelly.cfd^
 ||roimaster.site^
 ||roinattrack.com^
 ||roinjg.mkluzkoviny.cz^
@@ -572861,6 +572801,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||rollbackavenge.com^
 ||rollbackhear.com^
 ||rollconnection.com^
+||rolledencysts.cfd^
 ||rolledipocras.com^
 ||rollenspielgeschaft.com^
 ||rollerbizarreunanimously.com^
@@ -573525,7 +573466,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||routy.app^
 ||rouundcubei-sk.weebly.com^
 ||rouwhapt.com^
-||rouzauglaizo.net^
 ||rouzebstrikaor.com^
 ||rovantar.com^
 ||rove.cl^
@@ -575743,7 +575683,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||rungrinh.vn^
 ||rungthanage.com^
 ||runhaamzvkarj.website^
-||runhosting.com^
 ||runi.surf^
 ||runicartisan.top^
 ||runicmaster.top^
@@ -576025,7 +575964,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ruucfywqzswee.website^
 ||ruuzqjaoattkl.site^
 ||ruvi.me^
-||ruvowe4xeo.com^
 ||ruvtuzju.in^
 ||ruw.roanokeunderwriting.com^
 ||ruw82qpzxas.appspot.com^
@@ -577736,7 +577674,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||s02.bestsecret.com^
 ||s04.de^
 ||s0401.net^
-||s06g9qvr5.com^
 ||s0bq05.info^
 ||s0cool.net^
 ||s0ft4pc.com^
@@ -578111,7 +578048,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||s6vxf-2vsws-jyzwq-hmgt-sgl.pages.dev^
 ||s7-expresswallet.pro^
 ||s7227wuo.xyz^
-||s72h7io4o.com^
 ||s73.cnzz.com^
 ||s74nptrk.com^
 ||s762.pressenterprise.com^
@@ -578470,6 +578406,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||sacaeportifyhacking.qpon^
 ||sacaeruse.com^
 ||sacaesmootrendoun.cyou^
+||sacatraoopuhue.cyou^
 ||sacbttgnxaklv.store^
 ||sacbuthardhat.cfd^
 ||saccess.hikaritv.net^
@@ -579088,7 +579025,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||sakyxoyes.com^
 ||sal.isanook.com^
 ||sal.milanoo.com^
-||sal5ab6uf.com^
 ||sala.acervodaprofessora.com.br^
 ||salaamstonify.com^
 ||salablue.com^
@@ -580179,7 +580115,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||saps.casaleciarrocca.it^
 ||sapsf.evergage.com^
 ||saptiledispatch.com^
-||saptuqse29.com^
 ||sapuzvinnbuqc.online^
 ||sapwooddeciare.cfd^
 ||saqabncwoomw.in^
@@ -581598,7 +581533,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||sciencehub.online^
 ||scienceinscribesurface.com^
 ||sciencejanuaryglobe.com^
-||scienceontheweb.net^
 ||scienceopen.altmetric.com^
 ||sciencerevenue.com^
 ||sciencevault.net^
@@ -582117,6 +582051,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||scs.lifenet-seimei.co.jp^
 ||scs.openspeech.cn^
 ||scsej.beboe.com^
+||scsgvsjujnuxp.space^
 ||scsmetrics.ho-mobile.it^
 ||scsmetrics.vodafone.it^
 ||scsrm.homedics.co.uk^
@@ -583751,6 +583686,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||secretlyloyalcrappie.shop^
 ||secretlyunjust.com^
 ||secretninedarkness.pro^
+||secretnot.com^
 ||secretosuccess.truewisemedia.net^
 ||secretsauce.biz^
 ||secretsofmyvegankitchen.com^
@@ -585227,7 +585163,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||sendastrer.com^
 ||sendaupost.today^
 ||sendelven.com^
-||sender.zohoinsights-crm.com^
 ||sendercert.com^
 ||sendercert.de^
 ||sendercert.eu^
@@ -590868,7 +590803,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||servetean.site^
 ||serveteck.com^
 ||servethis.com^
-||servetown.com^
 ||servetraff.com^
 ||serveurmumble.com^
 ||serveuser.com^
@@ -593705,7 +593639,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||sgtm.flewd.com^
 ||sgtm.flex-online.uncw.edu^
 ||sgtm.flexleatherbd.com^
-||sgtm.flexpromeals.com^
 ||sgtm.flipitfactory.com^
 ||sgtm.flipz.nl^
 ||sgtm.float-stuttgart.de^
@@ -600531,6 +600464,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||simplify.razorsync.com^
 ||simplistic-fold.com^
 ||simplistic-recover.com^
+||simplistic-walk.com^
 ||simplisticpride.com^
 ||simplisticstem.com^
 ||simplity.ru^
@@ -601048,18 +600982,12 @@ zzzzzzzkplpllllpppllpppl.com
 ||site.waitrose.com^
 ||site.yandex.net^
 ||site1.ru^
-||site11.com^
 ||site235744746.fo.team^
 ||site24x7rum.com^
 ||site24x7rum.eu^
 ||site24x7rum.in^
 ||site3.co.kr^
-||site40.net^
 ||site4future.com^
-||site50.net^
-||site88.net^
-||site90.com^
-||site90.net^
 ||site9610755.92.webydo.com^
 ||site9626392.92.webydo.com^
 ||site9626798.92.webydo.com^
@@ -612560,7 +612488,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||soxofo.concursosnobrasil.com.br^
 ||soxqp.xyz^
 ||soy.pe^
-||soy5c00zc.com^
 ||soyatea.online^
 ||soycdn.lol^
 ||soyconfer.com^
@@ -618320,7 +618247,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ss.rccure.com^
 ||ss.rcmiberica.es^
 ||ss.readyrx.com^
-||ss.realgreen.com^
 ||ss.recoactiv.de^
 ||ss.redbeanstore.com^
 ||ss.redlightinnovation.com^
@@ -637032,7 +636958,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||stormgate.production.raptive.com^
 ||stormhammer.top^
 ||stormiq.com^
-||stormloader.com^
 ||stormly.com^
 ||stormpages.com^
 ||stormperpetual.com^
@@ -637798,6 +637723,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||streaming-community.care^
 ||streaming-community.center^
 ||streaming-community.charity^
+||streaming-community.coffee^
 ||streaming-community.college^
 ||streaming-community.courses^
 ||streaming-community.cyou^
@@ -640293,7 +640219,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||supariairily.cyou^
 ||supavero.com^
 ||supbgn.at^
-||supeasy.top^
 ||supechcopa.com^
 ||supedistaria.com^
 ||super-8-lordfilm.cam^
@@ -641537,7 +641462,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||svyixcelxerdo.space^
 ||svyksa.info^
 ||svyxmeuyqwcrh.online^
-||svzkhal2zh.com^
 ||svzpgxz.com^
 ||svzshmeczqudx.site^
 ||sw-assets.ekomiapps.de^
@@ -643068,7 +642992,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||sz-loc.ushareit.com^
 ||sz-loc.wshareit.com^
 ||sz-tax.com^
-||sz2xlvu6jq.com^
 ||sz777cdn.com^
 ||szag.link^
 ||szahperwe.in^
@@ -644510,7 +644433,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||t3.market.xiaomi.com^
 ||t3.zcvh.net^
 ||t3170.playdigo.live^
-||t35.com^
 ||t3aayx-cdn-settings.appsflyersdk.com^
 ||t3aayx-launches.appsflyersdk.com^
 ||t3aayx-register.appsflyersdk.com^
@@ -646559,6 +646481,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||taraftarium24bjk16.com^
 ||taraftarium24bjk17.com^
 ||taraftarium24bjk21.com^
+||taraftarium24bjk22.com^
 ||taraftarium24bjk4.com^
 ||taraftarium24bjk8.com^
 ||taraftarium24bjk9.com^
@@ -653323,7 +653246,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||tiilt.fr^
 ||tiime-lordfilms.ru^
 ||tiimkq.furgonetka.pl^
-||tiiny.host^
 ||tiiny.io^
 ||tiiny.site^
 ||tiis.cc^
@@ -655180,7 +655102,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||tmvfj9gmprzynr19x7.cfd^
 ||tmvtp.com^
 ||tmwbszn.icu^
-||tmweb.ru^
 ||tmwktecsqmsrl.site^
 ||tmwkya.jh-profishop.at^
 ||tmwzkukvxwdzl.website^
@@ -666007,7 +665928,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||tribalfusion.com^
 ||tribalfusion.net^
 ||tribalmixes.com^
-||tribalpages.com^
 ||tribblesmutted.com^
 ||tribclipsdorts.cyou^
 ||tribegadzooks.com^
@@ -667797,7 +667717,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||tryfoxy.com^
 ||tryfreegames.com^
 ||tryfroyaorganics.shop^
-||tryghedfinlore.net^
 ||trygloramd-ss.checkoutera.com^
 ||trygloramd-ss.dealshoppera.com^
 ||tryglycogenplus.com^
@@ -670552,7 +670471,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||u4itiq-cdn-settings.appsflyersdk.com^
 ||u4itiq-conversions.appsflyersdk.com^
 ||u4itiq-launches.appsflyersdk.com^
-||u4jlr6f6n2.com^
 ||u4ktsn-cdn-settings.appsflyersdk.com^
 ||u4ktsn-launches.appsflyersdk.com^
 ||u4kuzf-cdn-settings.appsflyersdk.com^
@@ -670623,7 +670541,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||u76tvq-launches.appsflyersdk.com^
 ||u76tvq-skadsdk.appsflyersdk.com^
 ||u7buy.com^
-||u7em9v4hp.com^
 ||u7itz75z.izzjgbob9tpor325jgyv.cyou^
 ||u7kgr54jr7.ru^
 ||u7lb6db41.com^
@@ -670875,7 +670792,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||uakwpwqcuwndz.firebaseapp.com^
 ||uakwpwqcuwndz.web.app^
 ||ual.fyi^
-||ual23t6yz.com^
 ||ualcwoyuwyvhz.site^
 ||ualkzq.moobel1.ee^
 ||uamhf.livesans.com^
@@ -670964,7 +670880,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||uavd9j-conversions.appsflyersdk.com^
 ||uavd9j-launches.appsflyersdk.com^
 ||uavefhtrbkbhq.online^
-||uavk.cn^
 ||uavnfdezxzote.site^
 ||uavolunteer-military.com^
 ||uawefo.guylook.co.kr^
@@ -671322,7 +671237,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||uconnonlinecancellationform.weebly.com^
 ||ucookie.com.tr^
 ||ucounter.ucoz.net^
-||ucoz.com^
 ||ucoz.ru^
 ||ucp.mybluehost.me^
 ||ucpfezjbcrmwh.space^
@@ -671586,7 +671500,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||uerlem.universducuir.com^
 ||ues.kicker.de^
 ||ues.vk.se^
-||uesv3jjf6.com^
 ||uetx75ibcu.com^
 ||ueuee.com^
 ||ueugcuoemyzan.online^
@@ -671748,6 +671661,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ufyy1h-launches.appsflyersdk.com^
 ||ufz.doesxyz.com^
 ||ufzvgx.stylepit.se^
+||ufzvxpkmjkqgm.space^
 ||ufzyypwinfvbh.site^
 ||ug-ad-lgsmartad-com.aws-prd.net^
 ||ug-secure.com^
@@ -671804,6 +671718,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||uggukoutletfactory.com^
 ||uggweb.com^
 ||ughapud.com^
+||ughlongedge.com^
 ||ughmouldhusky.com^
 ||ughoncenot.com^
 ||ughska.kids-world.dk^
@@ -672112,7 +672027,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||uimiwqimubnum.site^
 ||uimlvmo.com^
 ||uimmt.filterflair.co.uk^
-||uimr.cn^
 ||uimrynxkuybmb.website^
 ||uimserv.net^
 ||uina.noodlesbymomi.com^
@@ -672324,7 +672238,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ukentaspectsofc.org^
 ||ukeovxygndoxt.site^
 ||ukeprice.com^
-||ukew6uo7u1.com^
 ||ukf.me^
 ||ukfakf-cdn-settings.appsflyersdk.com^
 ||ukfakf-conversions.appsflyersdk.com^
@@ -672717,7 +672630,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ukwnqz.flyflot.it^
 ||ukwtsegym.com^
 ||ukwwcstydteaq.website^
-||ukx6umuvu.com^
 ||ukxefa.bonkids.ru^
 ||ukxefaohvndbx.website^
 ||ukxiwkxqujhqu.website^
@@ -674821,7 +674733,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||unproudcneorum.qpon^
 ||unpuredriveted.com^
 ||unputexorate.cyou^
-||unpw0czu7.com^
 ||unqloutlet.shop^
 ||unqsnzyrsdkuz.website^
 ||unqvaof.xyz^
@@ -675489,7 +675400,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||uphealdlogusa.godaddysites.com^
 ||upheapsbaze.qpon^
 ||uphelmzanonia.shop^
-||uphero.com^
 ||uphillgrandmaanger.com^
 ||uphitmonchanon.com^
 ||uphllxdlogin.gitbook.io^
@@ -675565,7 +675475,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||uploads-cdn.chatlio.com^
 ||uploads-lordfilm.ru^
 ||uploads.codesandbox.io^
-||uploads.strikinglycdn.com^
 ||uploads.traff-bull.com^
 ||uploadsgpted.icu^
 ||uploadu-lordfilm.ru^
@@ -676133,7 +676042,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||url.dracomail.net^
 ||url.eefocus.com^
 ||url.elmark.com.pl^
-||url.emailprotection.link^
 ||url.enepe.fr^
 ||url.firstvds.ru^
 ||url.fti.or.th^
@@ -678131,7 +678039,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||utua.com.br^
 ||utubechannelsforsale.com^
 ||utubepwhml.com^
-||utuydnmq.top^
 ||utvbd.yolasite.com^
 ||utve.cn^
 ||utvnfk-cdn-settings.appsflyersdk.com^
@@ -678661,7 +678568,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||uz.gp^
 ||uz1hqtn3.phtaxiservices.com^
 ||uz33941.weebly.com^
-||uz7w7bm4ns.com^
 ||uz8eak-launches.appsflyersdk.com^
 ||uzahd.saatva.com^
 ||uzapgolabdiyl.site^
@@ -679273,7 +679179,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||vacationsanitaryskip.com^
 ||vacationsgolf.com^
 ||vacature.com^
-||vacau.com^
 ||vaccaryagr.qpon^
 ||vaccination.gov.ng^
 ||vaccinesuspicion.com^
@@ -680204,7 +680109,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||vazypteke.pro^
 ||vb.irbisforcing.qpon^
 ||vb.lobbecalm.com^
-||vb.meatheechoes.cfd^
 ||vb3x6v.webwave.dev^
 ||vb5gi1zp5.com^
 ||vb5sos-cdn-settings.appsflyersdk.com^
@@ -682191,7 +682095,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||vexolurnia.my^
 ||vexontor.com^
 ||vexprjpisorhi.com^
-||vextorcpran2.com^
 ||vextras.com^
 ||vextshiatsu.cyou^
 ||vexwin.gl^
@@ -682426,7 +682329,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||vgoicp.animaljob.jp^
 ||vgoociszjbahl.site^
 ||vgosfwcau.cc^
-||vgovvoinf.com^
 ||vgpcreatives.com^
 ||vgpfwdgfaqfewi.com^
 ||vgpjkpqwiqgie.space^
@@ -683993,7 +683895,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||viodee.com^
 ||vioflix.xyz^
 ||viohstllglryx.space^
-||violadisma.store^
 ||violasdisguise.com^
 ||violaterotate.com^
 ||violateserenity.com^
@@ -684323,7 +684224,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||virosat.ru^
 ||virprotect.com^
 ||virsfeqtfhlnp.site^
-||virtexioai.net^
 ||virtonnews.com^
 ||virtuacorner.com^
 ||virtuads.trckswrm.com^
@@ -688257,7 +688157,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||w2ev32h7.cfd^
 ||w2g-mtrx.w2g.tv^
 ||w2g-ping.b-cdn.net^
-||w2j4kdjma.com^
 ||w2link.com^
 ||w2mobile-za.com^
 ||w2n8a.top^
@@ -688372,7 +688271,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||w6qxzt-cdn-settings.appsflyersdk.com^
 ||w6qxzt-conversions.appsflyersdk.com^
 ||w6qxzt-launches.appsflyersdk.com^
-||w6xdba54n.com^
 ||w6xwt2ygfq2o5z95.cfd^
 ||w7.berlin.de^
 ||w70m-7qt-p4i-3w6ywy-id9ax2.pages.dev^
@@ -688583,7 +688481,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||wa42.com^
 ||wa47bc7309gd7gswk848m.zxjargalbavyar.repl.co^
 ||wa4y.com^
-||wa9dald544.com^
 ||waa.ai^
 ||waacglost.qpon^
 ||waad.co^
@@ -690106,6 +690003,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||wayfarerorthodox.com^
 ||wayfarersurprisingly.com^
 ||wayfinderanalytics.servicebus.windows.net^
+||wayftertheyhadgo.org^
 ||wayjoyfarm.com^
 ||waykingroup.com^
 ||wayletdata.com^
@@ -691205,7 +691103,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||web3projects.substack.com^
 ||web3wallet-exodus.wixstudio.com^
 ||web4288.web07.bero-webspace.de^
-||web44.net^
 ||web7.perkinelmer.com^
 ||web7249.weebly.com^
 ||web7portaalkunden.bolojas.pt^
@@ -691319,7 +691216,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||webassetsapp.ghost.io^
 ||webassistplus.com^
 ||webatam.com^
-||webatu.com^
 ||webaudit.hu^
 ||webaus.dw-shop.de^
 ||webavisen.gl^
@@ -691526,7 +691422,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||webecyzo.com^
 ||webed.dm-event.net^
 ||webeetutie.net^
-||webege.com^
 ||webeo.com^
 ||weber-baumarkt.com^
 ||weber-werkstatt.com^
@@ -691852,7 +691747,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||webndaxlog.wixstudio.com^
 ||webnetra.entelnet.bo^
 ||webnode.com.pt^
-||webnode.com^
 ||webnotif.online^
 ||webnovostifeed.com^
 ||weboas.is^
@@ -691931,7 +691825,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||webrus.net^
 ||webs-chrome.com.cn^
 ||webs-exodus-en-public.pineapple.page^
-||webs.com^
 ||webs.vc^
 ||websafefinder.com^
 ||websafelyservice.com^
@@ -692022,7 +691915,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||website-your-affiliates.squarespace.com^
 ||website.at^
 ||website.mypetapp.co.za^
-||website.org^
 ||website.pafar.com.ve^
 ||website.pl^
 ||website.zukenusa.com^
@@ -692407,7 +692299,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||webtwvbbnnnbvddhhlk.weebly.com^
 ||webtycoons.co.in^
 ||webualg.weebly.com^
-||webuda.com^
 ||webull-download.
 ||webunder.ru^
 ||webunlimite.weebly.com^
@@ -695163,6 +695054,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||wispierconceal.cyou^
 ||wispycarts-ss.shopboosta.com^
 ||wispycity.com^
+||wissecatchie.qpon^
 ||wissekeygroup.com^
 ||wissekeygroup.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wisseltamber.cfd^
@@ -695746,7 +695638,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||wmmgtwnqyf.com^
 ||wmndlomarcydl.site^
 ||wmnozidurlrin.online^
-||wmnqifp98t.com^
 ||wmnxcxftfbpbr.space^
 ||wmober.com^
 ||wmober.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -695841,6 +695732,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||wneprfkzrpnfs.space^
 ||wneshnie-otmeli-lordfilm.ru^
 ||wneshnyaya-ugroza-lordfilme.ru^
+||wnetravia.shop^
 ||wnfwzx.panpacific.com^
 ||wng.mybluehost.me^
 ||wngegvxrgpsvm.site^
@@ -696857,7 +696749,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||wpgroups.com^
 ||wpgun.com^
 ||wph2.destinia.us^
-||wph2zu9rlb.com^
 ||wphefiaictrsr.space^
 ||wphkaxlvjxilq.online^
 ||wphlvzycf5.execute-api.eu-west-2.amazonaws.com^
@@ -700172,7 +700063,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||x0sqvg-launches.appsflyersdk.com^
 ||x1.52aoteman.com^
 ||x1.impact-ad.jp^
-||x10.bz^
 ||x10.mx^
 ||x11.pw^
 ||x121.live^
@@ -700420,7 +700310,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||x4363.com^
 ||x4364.com^
 ||x4373.com^
-||x43slxjwzx.com^
 ||x4415.com^
 ||x4416.com^
 ||x4417.com^
@@ -704490,7 +704379,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||xtfxjlpglilrdo.com^
 ||xtg5gdugqi.com^
 ||xtg8pg-cdn-settings.appsflyersdk.com^
-||xtgem.com^
 ||xtgfujmknprb.ru^
 ||xtght.kronk.com^
 ||xtglinks.com^
@@ -705346,7 +705234,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||xyznews4.today^
 ||xyzstreams.shop^
 ||xyztab.com^
-||xyzverse.io^
 ||xyzw.elorabeauty.com.tr^
 ||xyzxpuyhnvaky.website^
 ||xyzznt.uterque.com^
@@ -705460,7 +705347,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||y.sphinxtube.com^
 ||y.stadtfabrikanten.org^
 ||y.tryfootly.com^
-||y0.pl^
 ||y000.wyff4.com^
 ||y0303m.top^
 ||y06gwc.webwave.dev^
@@ -705563,7 +705449,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||y5qhzz3q.designdetails.fm^
 ||y6.no^
 ||y61mwn-4eo-8ykg-gf31-hepq.pages.dev^
-||y63eay93i.com^
 ||y654m3elp8gc29.cfd^
 ||y66xvgo5i.chuimg.com^
 ||y6a7ap3io3.com^
@@ -707019,7 +706904,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||yhzt-525a9.web.app^
 ||yhzyiqukft984wco9h.rest^
 ||yi.hl.cn^
-||yi.org^
 ||yi.ximizi.com^
 ||yiannamarie.com^
 ||yiasneyurp.com^
@@ -707604,7 +707488,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ymtpfkdcrihhn.space^
 ||ymtrack.com^
 ||ymtracking.com^
-||ymtwmhh43.com^
 ||ymufgwkbhzygn.online^
 ||ymugyzcfjvyrv.website^
 ||ymumjbgixpvws.site^
@@ -707825,7 +707708,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||yokovr.site^
 ||yoksamhain.com^
 ||yokvqzoeh.com^
-||yola.com^
 ||yoleqxtnsspol.space^
 ||yoljzzzezqlxs.online^
 ||yolkclknu.com^
@@ -708211,7 +708093,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||yourfirstdating.com^
 ||yourfirstfunnelchallenge.com^
 ||yourforth.com^
-||yourfreehosting.net^
 ||yourfreeonlineforms.com^
 ||yourfreshjournal.com^
 ||yourfreshstories.com^
@@ -708234,7 +708115,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||yourhottab.net^
 ||youris.bio^
 ||youris.pro^
-||yourjavascript.com^
 ||yourjewishdate.com^
 ||yourjsdelivery.com^
 ||yourl.ir^
@@ -708636,7 +708516,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||yrg4i8-cdn-settings.appsflyersdk.com^
 ||yrg4i8-launches.appsflyersdk.com^
 ||yrgncw.footlocker.de^
-||yrgsqi0zc.com^
 ||yrhnw7h63.com^
 ||yritfq.polo-motorrad.com^
 ||yrixtfepqyfqx.site^
@@ -708657,7 +708536,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||yrmrq.xyz^
 ||yrnayj.cyou^
 ||yrniodic.com^
-||yrnv.cn^
 ||yrnyvjyd.paradox24.com^
 ||yrock-lordfilm.ru^
 ||yronesefurther.org^
@@ -708931,7 +708809,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ytubl.ink^
 ||ytuy45fxs.appspot.com^
 ||ytv-viewing-logs.com^
-||ytv7335mt.com^
 ||ytvancedpro.com^
 ||ytvfmhi.com^
 ||ytvpxycvnjtow.site^
@@ -709455,7 +709332,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||yxnkrmzdmjwwt.site^
 ||yxokn6-cdn-settings.appsflyersdk.com^
 ||yxokn6-launches.appsflyersdk.com^
-||yxonk5bcue.com^
 ||yxosmdbrmfepu.space^
 ||yxoygmeyhpxnf.site^
 ||yxpojn.lampenlicht.nl^
@@ -709813,7 +709689,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||z0l7.com^
 ||z0pq.xyz^
 ||z0rto0758.com^
-||z0u6tmmudb.com^
 ||z0vogb8ns.com^
 ||z1-a.le.liveperson.net^
 ||z1.chezhuzhinan.com^
@@ -713335,7 +713210,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||zoomscs198mmr.net.mydays.de^
 ||zoomscs81tg.net.mydays.de^
 ||zoomserver.framer.ai^
-||zoomshare.com^
 ||zoomsupport.com^
 ||zoomtr33mmr.net.mydays.de^
 ||zooomintercom.weebly.com^
@@ -713937,6 +713811,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ztqdkzn.cn^
 ||ztqgenkrtjlvs.space^
 ||ztqid.nonomobaby.com^
+||ztqjdjljnmnux.space^
 ||ztqnls.lojasrenner.com.br^
 ||ztqxee-cdn-settings.appsflyersdk.com^
 ||ztqxksahputnq.website^
@@ -714293,7 +714168,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||zvonok-lordfilm3.ru^
 ||zvonook-lordfilms.ru^
 ||zvoqhqvnjfyb.com^
-||zvou.cn^
 ||zvouv.thehistorylist.com^
 ||zvozdnaiia-pruntsessa-lordfilm.ru^
 ||zvozdnyye-voyny-klonov-lordfilm.ru^
@@ -714621,7 +714495,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||zym.mybluehost.me^
 ||zymapiwvoeisq.space^
 ||zyme.fodzyme.com^
-||zymic.com^
 ||zymjzwakrmao.top^
 ||zymorico.store^
 ||zymorodok-lordfilm.ru^
